@@ -28,8 +28,8 @@ _Auto-populates from anyone whose `race` field matches this page._
 
 | File                                         | Role                                                                              | status |
 | -------------------------------------------- | --------------------------------------------------------------------------------- | ------ |
-| [[NPCs/Linene Graywind.md\|Linene Graywind]] | Shopkeeper at [[Locations/Phandalin/Shop - Lionshield Coster\|Lionshield Coster]] | Alive  |
 | [[NPCs/Pip.md\|Pip]]                         | Child                                                                             | Alive  |
+| [[NPCs/Linene Graywind.md\|Linene Graywind]] | Shopkeeper at [[Locations/Phandalin/Shop - Lionshield Coster\|Lionshield Coster]] | Alive  |
 | [[NPCs/Carp.md\|Carp]]                       | Child                                                                             | Alive  |
 
 ## Notes
