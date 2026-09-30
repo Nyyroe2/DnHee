@@ -1,10 +1,7 @@
 ---
 publish: true
-type: group
-aliases: []
-SelAlignment: Neutral Good
-party-standing: Friendly
-SelRelOrg: Religion
+created: 2026-09-29T22:14:11.704Z
+modified: 2026-09-30T22:35:17.555Z
 tags:
   - group/religion
 ---
@@ -21,9 +18,7 @@ tags:
 
 ### Temple Iconography
 
-![[z_miscImgs/Pasted image 20260921005911.png|283]]
-
-The specific temple and clergy [[Hilda Trueshield|Hilda]] belongs to. For the deity himself see [[z_5.5e Compendium/Deities#Lathander|Lathander]] in the compendium.
+The specific temple and clergy [[Hilda Trueshield|Hilda]] belongs to. For the deity himself see [[Deities#Lathander|Lathander]] in the compendium.
 
 ## Profile
 
