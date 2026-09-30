@@ -1,13 +1,9 @@
 ---
 publish: true
-type: group
-SelAlignment: Unaligned
-party-standing: Neutral
+created: 2026-09-29T22:14:17.877Z
+modified: 2026-09-30T22:40:08.496Z
 tags:
   - group/commerce
-selCommerceOrg: Company
-selAllCommerceActs:
-  - Distribution
 ---
 
 # The Chronicles of Greyhawk

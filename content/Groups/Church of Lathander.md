@@ -1,20 +1,18 @@
 ---
 publish: true
 created: 2026-09-29T22:14:11.704Z
-modified: 2026-09-30T22:35:17.555Z
+modified: 2026-09-30T22:39:21.437Z
 tags:
   - group/religion
 ---
 
-# Church of Lathander
+#
 
 ## Overview
 
-**Type**: Religious
+\*\* Organization Type\*\*: Religious
 
 **Alignment**: Neutral Good
-
-**Religious Organization**: Religion
 
 ### Temple Iconography
 
