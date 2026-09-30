@@ -1,6 +1,7 @@
 ---
 publish: true
-type: index
+created: 2026-09-21T12:53:03.235Z
+modified: 2026-09-30T18:01:30.537Z
 tags:
   - index
 ---
@@ -14,7 +15,6 @@ tags:
 
 | item-type | rarity | attunement | quantity | owner |
 | --------- | ------ | ---------- | -------- | ----- |
-| accessory | -     | -         | -       | -    |
 | other     | -     | -         | -       | -    |
 
 ## By Rarity
@@ -25,4 +25,4 @@ tags:
 
 ## By Owner
 
-See [[Ownership]] for a cross-type view (items, companions, properties, and allied creatures together) grouped by who owns them — including [[Player Characters/The Party/The Party|The Party]] as a selectable owner for shared gear.
+See [[Ownership]] for a cross-type view (items, companions, properties, and allied creatures together) grouped by who owns them

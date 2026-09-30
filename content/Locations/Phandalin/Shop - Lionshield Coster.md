@@ -5,14 +5,14 @@ location-type: shop
 name: Lionshield Coster
 aliases: []
 shop-type: Blacksmith/Weaponsmith
-located-in: "[[Locations/Phandalin/_Phandalin Overview|Phandalin]]"
+located-in: "[[Phandalin Overview|Phandalin]]"
 owner: "[[Linene Graywind]]"
 tags:
   - location
   - location/shop
 ---
 
-![[z_miscImgs/Pasted image 20260829135951.png]]
+![[miscImgs/Pasted image 20260829135951.png]]
 
 > [!Quote] **Linene Graywind, Proprietor**
 > “Quality goods, Fair prices...”
@@ -22,7 +22,7 @@ tags:
 | Stat       | Value                                                                                                                                                                                                                      |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Shop Type  | Blacksmith/Weaponsmith |
-| Located In | [[_Phandalin Overview\|Phandalin]]                                                                                                                                                                                         |
+| Located In | [[Phandalin Overview\|Phandalin]]                                                                                                                                                                                         |
 | Owner      | [[Linene Graywind]]                                                                                                                                                                                                        |
 
 ## First Impressions

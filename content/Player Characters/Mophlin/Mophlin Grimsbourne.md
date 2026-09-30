@@ -35,7 +35,7 @@ epithet: The Wordless Berserker
 
 > _Small enough to underestimate. Enemies rarely get the chance to reconsider_
 
-**[[z_Reference/Races/Gnome|Gnome]]** · **[[z_5.5e Compendium/Classes#Barbarian|Barbarian]] / [[z_5.5e Compendium/Classes#Paladin|Paladin]]** · **Alignment**: Chaotic Good · **Faith**: Unknown
+**[[Compendium/Races/Gnome|Gnome]]** · **[[Classes#Barbarian|Barbarian]] / [[Classes#Paladin|Paladin]]** · **Alignment**: Chaotic Good · **Faith**: Unknown
 
 **Status**: Alive
 
@@ -45,21 +45,22 @@ Not yet discovered.
 
 ## Personality & Demeanor
 
-Not the best at conversation — unsurprising, since he doesn't seem to be able to speak, though he communicates through writing.
+An endearing goblin who is only able to babble incoherently. He seems friendly if not a bit chaotic.
 
 ## Background
 
-Unknown — he doesn't seem to be able to speak, though he can communicate through writing.
+Unknown - Though he seems reluctant to share his name easily.
 
 ## Known For
 
 ## NPC Relationships
 
-**[[Wolves (Freed Pack)|The freed wolves]]** — Freed three wolves chained near the [[z_5.5e Compendium/Monsters Library#Goblins|goblin]] captor's abuse in the cave, and destroyed the whip used on them. They fought alongside the party afterward.
+**[[Wolves (Freed Pack)|The freed wolves]]**: Freed three wolves chained near the [[Monsters Library#Goblins|goblin]] captor's abuse in the cave, and destroyed the whip used on them. They fought alongside the party afterward until one of them was killed off in the final goblin fight in [[Session Notes/Session 3|Session 3]].  The two remaining wolves continue to fight by his side.
 
 ## Trivia
 
-- Not yet discovered
+- Though he is able to read and write, he's unable to speak any tangible language and speaks only in gibberish
+- He is a clear animal lover
 
 ---
 
@@ -72,7 +73,7 @@ Unknown — he doesn't seem to be able to speak, though he can communicate throu
 > | Class & Level | Barbarian / Paladin |
 > | Key Abilities / Features | |
 > | Notable Items | |
-> | Languages | |
+> | Languages | ? |
 
 ## Inventory
 

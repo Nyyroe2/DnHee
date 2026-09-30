@@ -6,9 +6,9 @@ aliases: []
 race: Human
 compendium-ref:
 role: Shopkeeper at [[Locations/Phandalin/Shop - Lionshield Coster|Lionshield Coster]]
-religion: "[[z_5.5e Compendium/Deities#Tymora|Tymora]]"
+religion: "[[Deities#Tymora|Tymora]]"
 faction:
-residence: "[[Locations/Phandalin/_Phandalin Overview|Phandalin]]"
+residence: "[[Phandalin Overview|Phandalin]]"
 epithet: The Merchant of Phandalin
 tagline: Business-minded, no-nonsense, and the first friendly face the party found in town.
 location-met: "[[Locations/Phandalin/Shop - Lionshield Coster|Lionshield Coster]]"
@@ -32,7 +32,7 @@ friend:
 
 > _Business-minded, no-nonsense, and the first friendly face the party found in town._
 
-**[[z_Reference/Races/Human|Human]]** · **Shopkeeper** · From: [[Locations/Phandalin/_Phandalin Overview|Phandalin]] · Status: Alive · Trust: Friendly · Faith: [[z_5.5e Compendium/Deities#Tymora|Tymora]]
+**[[Compendium/Races/Human|Human]]** · **Shopkeeper** · From: [[Phandalin Overview|Phandalin]] · Status: Alive · Trust: Friendly · Faith: [[Deities#Tymora|Tymora]]
 
 ## Appearance
 
@@ -44,7 +44,7 @@ Seems business minded and no-nonsense — someone who deals in goods and favors 
 
 ## First Encounter
 
-The party met her at her shop in Phandalin, where they heard of her troubles with [[z_5.5e Compendium/Monsters Library#Goblins|goblins]] stealing her wares outside the town. She sold them some of her goods before requesting they handle the [[z_5.5e Compendium/Monsters Library#Goblins|goblins]] in exchange for 50 gp.
+The party met her at her shop in Phandalin, where they heard of her troubles with [[Monsters Library#Goblins|goblins]] stealing her wares outside the town. She sold them some of her goods before requesting they handle the [[Monsters Library#Goblins|goblins]] in exchange for 50 gp.
 
 ## Known For
 
@@ -65,15 +65,15 @@ The party met her at her shop in Phandalin, where they heard of her troubles wit
 
 ## Trivia
 
-- Worships [[z_5.5e Compendium/Deities#Tymora|Tymora]], goddess of luck — fitting for a merchant whose livelihood rides on which way a shipment's fortune turns.
+- Worships [[Deities#Tymora|Tymora]], goddess of luck — fitting for a merchant whose livelihood rides on which way a shipment's fortune turns.
 
 ---
 
 > [!info]- Mechanical Reference
 > | Stat | Value |
 > | --- | --- |
-> | Race | [[z_Reference/Races/Human|Human]] |
+> | Race | [[Compendium/Races/Human|Human]] |
 > | Faction | |
-> | Residence | [[Locations/Phandalin/_Phandalin Overview|Phandalin]] |
+> | Residence | [[Phandalin Overview|Phandalin]] |
 > | Location Met | [[Locations/Phandalin/Shop - Lionshield Coster|Lionshield Coster]] |
 > | Compendium Entry | — (ordinary human, no monster stat block) |

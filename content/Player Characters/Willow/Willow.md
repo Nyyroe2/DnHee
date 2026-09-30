@@ -36,7 +36,7 @@ tagline: "One thought at a time: save the forest, solve the dagger. Everything e
 
 > _One thought at a time: save the forest, solve the dagger. Everything else is noise._
 
-**[[z_Reference/Races/Elf (Wood Elf)|Wood Elf]]** · **[[z_5.5e Compendium/Classes#Druid|Druid]]** · **Alignment**: Unknown · **Faith**: Unknown
+**[[Compendium/Races/Elf (Wood Elf)|Wood Elf]]** · **[[Classes#Druid|Druid]]** · **Alignment**: Unknown · **Faith**: Unknown
 
 **Status**: Alive
 
@@ -46,11 +46,11 @@ A young adult wood elf with light, freckled skin, dark blonde hair, and green ey
 
 ## Personality & Demeanor
 
-Not yet discovered.
+She seems quite aloof and unaware of how the world works, likely from being raised in the woods, but she seems to mean well and has a special care for animals and nature.
 
 ## Background
 
-Currently unknown — she's mentioned a close connection with the forest and said she came from there in search of the cause of her forest's suffering, and of a strange glowing dagger she carries.
+She's mentioned she was raised by animals in nature, and often refers to herself as "The Daughter of the Woods". One can only assume the woods did their best.
 
 ## Known For
 
@@ -61,7 +61,7 @@ Currently Unknown
 ## Trivia
 
 - She carries a strange glowing dagger that seems important to her.
-- Vegetarian.
+- Vegetarian...
 
 ---
 

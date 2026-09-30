@@ -1,6 +1,7 @@
 ---
 publish: true
-type: index
+created: 2026-09-21T12:53:17.899Z
+modified: 2026-09-30T18:04:12.107Z
 tags:
   - index
 ---
@@ -8,13 +9,12 @@ tags:
 # Ownership
 
 > [!info]- How this page works
-> Pulled live from the `owner` property on every Item, Companion, Residence, and Bestiary page — set or change ownership on the thing itself, not here. [[Player Characters/The Party/The Party|The Party]] is a selectable owner alongside any individual PC or NPC, for anything that belongs to the group rather than one character.
+> Pulled live from the `owner` property on every Item, Companion, Residence, and Bestiary page. [[Player Characters/The Party/The Party|The Party]] is a selectable owner alongside any individual PC or NPC, for anything that belongs to the group rather than one character.
 
 ## Items, by Owner
 
-| owner                                                  | Type | Qty | Rarity |
-| ------------------------------------------------------ | ---- | --- | ------ |
-| [[Player Characters/Hilda/Hilda Trueshield.md\|Hilda]] | -   | -  | -     |
+| owner | Type | Qty | Rarity |
+| ----- | ---- | --- | ------ |
 
 ## Companions & Mounts, by Owner
 

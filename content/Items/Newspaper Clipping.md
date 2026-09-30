@@ -1,11 +1,7 @@
 ---
 publish: true
-type: item
-item-type: other
-name: Newspaper Clipping
-aliases: []
-rarity: mundane
-attunement: false
+created: 2026-09-29T22:14:04.279Z
+modified: 2026-09-30T18:17:10.849Z
 tags:
   - item
   - item/other
@@ -17,19 +13,14 @@ tags:
 
 ## Summary
 
-| Stat       | Value                                                                                                                                 |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Stat       | Value   |
+| ---------- | ------- |
 | Rarity     | Mundane |
-| Attunement | No |
+| Attunement | No      |
 
 ## Description
 
-> [!info] Details
-> A battered newspaper for [[The Chronicles of Greyhawk]],  which operates out of [[_Phandalin Overview]]. It's dated the 14th day of Harvestide, 1373 DR
-
-## Mechanical Effects
-
-Not yet discovered
+> A battered newspaper for [[The Chronicles of Greyhawk]],  which operates out of [[Phandalin Overview|Phandalin]]. It's dated the 14th day of Harvestide, 1373 DR
 
 ## History / Acquisition
 
@@ -39,7 +30,3 @@ Not yet discovered
 > > "You start the campaign with a newspaper clipping (unique to you).
 > > Will you decide to speak to the group about why you kept this clipping - maybe you'd planned to do something when you reach Phandalin. That choice is yours.
 > > No other players will see this unless you share it with them."
-
-## Notes
-
-Not yet discovered

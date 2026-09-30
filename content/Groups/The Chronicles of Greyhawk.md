@@ -67,4 +67,4 @@ Not yet discovered
 
 ## Additional Details 
 
-The publisher of the [[Newspaper Clipping]] [[Player Characters/Hilda/Hilda Trueshield|Hilda]] picked up upon entering [[Locations/Phandalin/_Phandalin Overview|Phandalin]].
+The publisher of the [[Newspaper Clipping]] [[Player Characters/Hilda/Hilda Trueshield|Hilda]] picked up upon entering [[Phandalin Overview|Phandalin]].

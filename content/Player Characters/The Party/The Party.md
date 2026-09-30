@@ -1,11 +1,7 @@
 ---
 publish: true
-type: party
-name: The Party
-aliases: []
-epithet: The Four
-tagline: Four strangers, one wagon, and a shared bank account.
-npcimage:
+created: 2026-09-21T12:53:18.039Z
+modified: 2026-09-30T17:34:14.783Z
 tags:
   - party
 ---
@@ -43,9 +39,6 @@ This page exists as a selectable **owner** for anything that belongs to the grou
 | ---- | ---- | ---- |
 
 ## Allied Creatures
-
-> [!info]- Why this is separate from "Owned"
-> Not everything traveling with the party is _owned_ in a clean sense — the freed wolf pack is an ally, not property. This table reads the `owner` property on Bestiary field-note pages, which is meant for exactly this looser kind of relationship.
 
 | File | Type | Threat |
 | ---- | ---- | ------ |

@@ -1,6 +1,7 @@
 ---
 publish: true
-type: index
+created: 2026-09-21T12:12:42.741Z
+modified: 2026-09-30T18:00:20.496Z
 tags:
   - index
 ---
@@ -8,7 +9,7 @@ tags:
 # Groups Index
 
 > [!info]- How this page works
-> Pulled live from each group's own properties. See [[Faction Reputation]] for a standing-sorted view across every group regardless of type.
+> Pulled live from group's own properties. See [[Faction Reputation]] for a standing-sorted view across every group regardless of type.
 
 ## Criminal
 

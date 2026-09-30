@@ -8,7 +8,7 @@ compendium-ref:
 role: Child
 faction:
 religion:
-residence: "[[Locations/Phandalin/_Phandalin Overview|Phandalin]]"
+residence: "[[Phandalin Overview|Phandalin]]"
 epithet: The Inn Boy
 tagline: Knew exactly whose ear to bend about goblin trouble.
 location-met: "[[Locations/Phandalin/Inn - Stonehill Inn|Stonehill Inn]]"
@@ -33,7 +33,7 @@ friend:
 
 > _Knew exactly whose ear to bend about goblin trouble._
 
-**[[z_Reference/Races/Human|Human]]** · **Child** · From: [[Locations/Phandalin/_Phandalin Overview|Phandalin]] · Status: Alive · Trust: Friendly
+**[[Compendium/Races/Human|Human]]** · **Child** · From: [[Phandalin Overview|Phandalin]] · Status: Alive · Trust: Friendly
 
 ## Appearance
 
@@ -45,7 +45,7 @@ Talkative and observant — the kind of kid who notices things adults miss and i
 
 ## First Encounter
 
-A small child the party encountered in [[Inn - Stonehill Inn|Stonehill Inn]] who told [[Player Characters/Alvar/Alvar Mistwater|Alvar]] about his friend [[Carp]], the farmer's boy who found a secret tunnel into the [[z_5.5e Compendium/Monsters Library#Goblins|goblin]] camp.
+A small child the party encountered in [[Inn - Stonehill Inn|Stonehill Inn]] who told [[Player Characters/Alvar/Alvar Mistwater|Alvar]] about his friend [[Carp]], the farmer's boy who found a secret tunnel into the [[Monsters Library#Goblins|goblin]] camp.
 
 ## Known For
 
@@ -76,6 +76,6 @@ A small child the party encountered in [[Inn - Stonehill Inn|Stonehill Inn]] who
 > | --- | --- |
 > | Faction | |
 > | Religion | |
-> | Residence | [[Locations/Phandalin/_Phandalin Overview|Phandalin]] |
+> | Residence | [[Phandalin Overview|Phandalin]] |
 > | Location Met | [[Locations/Phandalin/Inn - Stonehill Inn|Stonehill Inn]] |
 > | Compendium Entry | — (ordinary human, no monster stat block) |

@@ -1,10 +1,7 @@
 ---
 publish: true
-type: rumor
-status: Confirmed True
-source:
-related-npcs: []
-related-locations: []
+created: 2026-09-30T18:05:09.880Z
+modified: 2026-09-30T18:05:09.880Z
 tags:
   - rumor
 ---
@@ -13,10 +10,12 @@ tags:
 
 ## Summary
 
-| Stat   | Value                                                                                                               |
-| ------ | ------------------------------------------------------------------------------------------------------------------- |
-| Status | Confirmed True |
-| Source | The [[Inn - Stonehill Inn\|Stonehill Inn]] Barkeeper                                                                |
+| Stat   | Value                                                |
+| ------ | ---------------------------------------------------- |
+| Status | Confirmed True                                       |
+| Source | The [[Inn - Stonehill Inn\|Stonehill Inn]] Barkeeper |
+| Session Heard | Session 1 |
+| Session Resolved | — |
 
 ## The Rumor...
 

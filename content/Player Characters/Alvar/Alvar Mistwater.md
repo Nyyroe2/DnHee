@@ -33,9 +33,9 @@ tagline: Capable, courteous, and utterly unreadable about what he actually wants
 
 ### "The Guarded Stranger"
 
-> _Capable, courteous, and utterly unreadable about what he actually wants._
+> _Capable enough, but not very forthcoming_
 
-**[[z_Reference/Races/Fire Genasi|Fire Genasi]]** · **[[z_5.5e Compendium/Classes#Fighter|Fighter]] / [[z_5.5e Compendium/Classes#Wizard|Wizard]]** · **Chaotic Good** · **No Faith**
+**[[Compendium/Races/Fire Genasi|Fire Genasi]]** · **[[Classes#Fighter|Fighter]] / [[Classes#Wizard|Wizard]]** · **Chaotic Good** · **No Faith**
 
 **Status**: Alive
 
@@ -45,11 +45,11 @@ A young adult Fire Genasi with dark grey skin and red hair streaked with bright 
 
 ## Personality & Demeanor
 
-Not yet discovered.
+Not yet discovered
 
 ## Background
 
-Unknown — the party met him while he was escorting their cart to [[_Phandalin Overview|Phandalin]], though the friend he was meant to meet there wasn't where he expected.
+Unknown - He was first introduced while he was escorting the cart everyone was taking to [[Phandalin Overview|Phandalin]], though the friend he was meant to meet there wasn't where they'd agreed to meet.
 
 ## Known For
 
@@ -59,7 +59,7 @@ Not yet discovered.
 
 ## Trivia
 
-- Not yet discovered
+- He carries around a staff that seems important, though he hasn't used it for anything yet.
 
 ---
 

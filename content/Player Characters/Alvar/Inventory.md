@@ -1,6 +1,7 @@
 ---
 publish: true
-type: inventory
+created: 2026-09-30T18:07:03.400Z
+modified: 2026-09-30T18:07:03.400Z
 tags:
   - character
   - inventory
@@ -19,9 +20,19 @@ tags:
 ## Owned Items (Tracked)
 
 > [!info]- How this section works
-> Pulled live from every Item page's own `owner` property — this is for items notable enough to have their own page (magic items, sentimental gear), not a replacement for the plain-text list above.
+> Pulled live from every Item page's own `owner` property. This is for items notable enough to have their own page
 
 | File | Type | Qty | Rarity |
 | ---- | ---- | --- | ------ |
+
+## Companions & Mounts
+
+| File | Type | Status |
+| ---- | ---- | ------ |
+
+## Allied Creatures
+
+| File | Type | Threat |
+| ---- | ---- | ------ |
 
 Back to [[Alvar Mistwater|Alvar Mistwater]]

@@ -31,7 +31,7 @@ friend:
 
 > _Found a secret tunnel, then wisely ran the other way._
 
-**[[z_Reference/Races/Human|Human]]** · **Child** · From: [[Locations/Phandalin/Residence - Alderleaf Farm|Alderleaf Farm]] · Status: Alive · Trust: Friendly
+**[[Compendium/Races/Human|Human]]** · **Child** · From: [[Locations/Phandalin/Residence - Alderleaf Farm|Alderleaf Farm]] · Status: Alive · Trust: Friendly
 
 ## Appearance
 
@@ -43,7 +43,7 @@ Curious enough to go exploring near a goblin camp, but sensible enough to run on
 
 ## First Encounter
 
-Carp is a child who lives at [[Residence - Alderleaf Farm|Alderleaf Farm]] with his mother. His friend [[Pip]] told the party he had found a tunnel to somewhere near the [[z_5.5e Compendium/Monsters Library#Goblins|goblins]], before he got scared and ran away.
+Carp is a child who lives at [[Residence - Alderleaf Farm|Alderleaf Farm]] with his mother. His friend [[Pip]] told the party he had found a tunnel to somewhere near the [[Monsters Library#Goblins|goblins]], before he got scared and ran away.
 
 ## Relationships
 

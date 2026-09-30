@@ -1,6 +1,7 @@
 ---
 publish: true
-type: index
+created: 2026-09-20T22:40:54.000Z
+modified: 2026-09-30T17:59:23.410Z
 tags:
   - index
 ---

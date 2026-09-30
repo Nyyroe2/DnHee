@@ -1,13 +1,14 @@
 ---
 publish: true
-type: index
+created: 2026-09-21T09:42:48.000Z
+modified: 2026-09-30T18:02:59.700Z
 tags:
   - index
 ---
 
 # Loot and Treasury
 
-The party's shared stockpile — physically held by Hilda. Add a row here once an item's disposition (from a session's [[z_templates/Other/Loot Tracker|Loot Tracker]] note) is settled as "Kept with Hilda - Group Storage."
+The party's shared stockpile — physically held by Hilda. Add a row here once an item's disposition (from a session's [[templates/Other/Loot Tracker|Loot Tracker]] note) is settled as "Kept with Hilda - Group Storage."
 
 ## Group Inventory
 
@@ -26,7 +27,8 @@ The party's shared stockpile — physically held by Hilda. Add a row here once a
 ## Loot Logs (Reference)
 
 > [!info]- Why this is separate from the table above
-> The table above is this page's actual current contents — genuinely current state, not something Dataview can derive from a table cell. This list is different: every past loot session, pulled automatically by tag, so you can click into any of them for the full item-by-item breakdown and disposition history.
+> The table above is this page's actual current contents, whereas the table below holds individual loot tables from different instances
 
-| File | Session | date |
-| ---- | ------- | ---- |
+| File                                                         | Session | date               |
+| ------------------------------------------------------------ | ------- | ------------------ |
+| [[Session Notes/Loot/Loot - Session 3.md\|Loot - Session 3]] | 3       | September 30, 2026 |

@@ -5,8 +5,8 @@ location-type: shop
 name: Barthen's Provisions
 aliases: []
 shop-type: General Store
-located-in: "[[Locations/Phandalin/_Phandalin Overview|Phandalin]]"
-owner: "Barthen"
+located-in: "[[Phandalin Overview|Phandalin]]"
+owner: Barthen
 tags:
   - location
   - location/shop
@@ -14,14 +14,14 @@ tags:
 
 ### Barthen's Provisions
 
-![[z_miscImgs/Pasted image 20260829114349.png]]
+![[miscImgs/Pasted image 20260829114349.png]]
 
 ## Summary
 
 | Stat       | Value                                                                                                                                                                                                                      |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Shop Type  | General Store |
-| Located In | [[_Phandalin Overview\|Phandalin]]                                                                                                                                                                                         |
+| Located In | [[Phandalin Overview\|Phandalin]]                                                                                                                                                                                         |
 | Owner      | Barthen                                                                                                                                                                                                                    |
 
 ## First Impressions

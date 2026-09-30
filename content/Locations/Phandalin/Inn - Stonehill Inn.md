@@ -1,25 +1,20 @@
 ---
 publish: true
-type: location
-location-type: shop
-name: Stonehill Inn
-aliases: []
-shop-type: Tavern/Inn
-located-in: "[[Locations/Phandalin/_Phandalin Overview|Phandalin]]"
-owner:
+created: 2026-09-29T22:14:33.237Z
+modified: 2026-09-30T18:19:34.259Z
 tags:
   - location
   - location/shop
 ---
 
-![[z_miscImgs/Pasted image 20260829135727.png]]
+![[miscImgs/Pasted image 20260829135727.png]]
 
 ## Summary
 
 | Stat       | Value                                                                                                                                                                                                                      |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Shop Type  | Tavern/Inn |
-| Located In | [[_Phandalin Overview\|Phandalin]]                                                                                                                                                                                         |
+| Located In | [[Phandalin Overview\|Phandalin]]                                                                                                                                                                                         |
 | Owner      |                                                                                                                                                                                                                            |
 
 ## First Impressions

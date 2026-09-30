@@ -16,13 +16,13 @@ tags:
 
 ## Characters 
 
-**Nyyroe:** Hilda Trueshield, Lv 1 [[z_Reference/Races/Dwarf|Hill Dwarf]] [[z_5.5e Compendium/Classes#Cleric|Cleric]]
+**Nyyroe:** Hilda Trueshield, Lv 1 [[Compendium/Races/Dwarf|Hill Dwarf]] [[Classes#Cleric|Cleric]]
 
-**Alex:** Alvar Mistwater, Lv 1 [[z_Reference/Races/Fire Genasi|Fire Genasi]] [[z_5.5e Compendium/Classes#Fighter|Fighter]]
+**Alex:** Alvar Mistwater, Lv 1 [[Compendium/Races/Fire Genasi|Fire Genasi]] [[Classes#Fighter|Fighter]]
 
-**Liam:** Noxerik Frin, Lv 1 [[races/]] [[z_5.5e Compendium/Classes#Paladin|Paladin]]
+**Liam:** Noxerik Frin, Lv 1  [[Classes#Paladin|Paladin]]
 
-**MJ:** Willow, Lv 1 [[z_Reference/Races/Elf (Wood Elf)|Wood Elf]] [[z_5.5e Compendium/Classes#Druid|Druid]]
+**MJ:** Willow, Lv 1 [[Compendium/Races/Elf (Wood Elf)|Wood Elf]] [[Classes#Druid|Druid]]
 
 ## Session Summary
 

@@ -1,6 +1,7 @@
 ---
 publish: true
-type: inventory
+created: 2026-09-30T18:06:53.351Z
+modified: 2026-09-30T18:06:53.351Z
 tags:
   - character
   - inventory
@@ -19,18 +20,20 @@ tags:
 ## Owned Items (Tracked)
 
 > [!info]- How this section works
-> Pulled live from every Item page's own `owner` property — this is for items notable enough to have their own page (magic items, sentimental gear), not a replacement for the plain-text list above.
+> Pulled live from every Item page's own `owner` property. This is for items notable enough to have their own page
 
 | File | Type | Qty | Rarity |
 | ---- | ---- | --- | ------ |
 
-## Companions
+## Companions & Mounts
 
 | File | Type | Status |
 | ---- | ---- | ------ |
 
-| File                                                 | Type  | Threat     |
-| ---------------------------------------------------- | ----- | ---------- |
-| [[NPCs/Wolves (Freed Pack).md\|Wolves (Freed Pack)]] | Beast | Manageable |
+## Allied Creatures
+
+| File                                                     | Type  | Threat     |
+| -------------------------------------------------------- | ----- | ---------- |
+| [[Bestiary/Wolves (Freed Pack).md\|Wolves (Freed Pack)]] | Beast | Manageable |
 
 Back to [[Mophlin Grimsbourne|Mophlin Grimsbourne]]

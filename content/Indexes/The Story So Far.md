@@ -1,6 +1,7 @@
 ---
 publish: true
-type: index
+created: 2026-09-21T12:24:09.546Z
+modified: 2026-09-30T18:17:10.836Z
 tags:
   - index
 ---
@@ -9,7 +10,7 @@ tags:
 
 ## Session 0
 
-Character introductions and setting discussion. The party formed and began traveling toward [[Locations/Phandalin/_Phandalin Overview|Phandalin]].
+Character introductions and setting discussion. The party formed and began traveling toward [[Phandalin Overview|Phandalin]].
 
 ## Session 1
 
@@ -21,4 +22,4 @@ The party tried to enter a cave. The inhabitants were not thrilled, and chose to
 
 ## Session 3
 
-The party pushed deeper into the [[Locations/Phandalin/The Goblin Hideout|goblin hideout]], clearing the remaining rooms with help from Mophlin's freed [[Wolves (Freed Pack)|wolf pack]] — losing one wolf in the fighting — and finishing off the [[z_5.5e Compendium/Monsters Library#Bugbears|bugbear]] chief guarding the back rooms. Searching the lair turned up a new morningstar for Hilda and a letter revealing the bugbear's plan to kidnap one of Alvar's friends; following that lead, they found and freed a second kidnapping victim already being held in the cave and agreed to escort him back to Phandalin for 50 gp. The party leveled up during the fighting.
+The party pushed deeper into the [[Locations/Phandalin/The Goblin Hideout|goblin hideout]], clearing the remaining rooms with help from Mophlin's freed [[Wolves (Freed Pack)|wolf pack]] — losing one wolf in the fighting — and finishing off the [[Monsters Library#Bugbears|bugbear]] chief guarding the back rooms. Searching the lair turned up a new morningstar for Hilda and a letter revealing the bugbear's plan to kidnap one of Alvar's friends; following that lead, they found and freed a second kidnapping victim already being held in the cave and agreed to escort him back to Phandalin for 50 gp. The party leveled up during the fighting.
