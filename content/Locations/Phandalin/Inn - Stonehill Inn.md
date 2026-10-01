@@ -1,12 +1,7 @@
 ---
 publish: true
-type: location
-location-type: shop
-name: Stonehill Inn
-aliases: []
-shop-type: Tavern/Inn
-located-in: "[[Phandalin Overview|Phandalin]]"
-owner:
+created: 2026-09-29T22:14:33.237Z
+modified: 2026-10-01T21:12:41.192Z
 tags:
   - location
   - location/shop
@@ -29,14 +24,3 @@ A modest, welcoming inn, the kind of place where a stranger can get a room, an a
 ## Description
 
 The inn recommended to the party by [[Linene Graywind]]. They stayed here for a night in Phandalin and heard a strange rumor about someone renting [[The Sixth Room]].
-
-## What's Happened Here
-
-_Auto-populates from any Combat or Roleplay note whose location matches this page._
-
-| File | Outcome | Session |
-| ---- | ------- | ------- |
-
-## Notes
-
-Not yet discovered

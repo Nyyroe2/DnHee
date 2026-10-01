@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-01T18:39:49.757Z
-modified: 2026-10-01T18:53:36.026Z
+modified: 2026-10-01T21:09:29.187Z
 tags:
   - bestiary
 ---
@@ -15,10 +15,6 @@ tags:
 > _Ran the goblin hideout's back rooms and the kidnapping plot behind it, until Hilda's sacred flame caught up with him._
 
 **Humanoid** · **Dangerous** · From: [[Locations/Phandalin/The Goblin Hideout|The Goblin Hideout]] · Status: Dead · Trust: Hostile
-
-## Appearance
-
-Not yet described.
 
 ## First Encounter
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-21T19:06:11.062Z
-modified: 2026-10-01T18:16:22.620Z
+modified: 2026-10-01T21:15:00.989Z
 tags:
   - npc
 ---
@@ -13,10 +13,6 @@ tags:
 > _Knew exactly whose ear to bend about goblin trouble._
 
 **[[Compendium/Races/Human|Human]]** · **Child** · From: [[Phandalin Overview|Phandalin]] · Status: Alive · Trust: Friendly
-
-## Appearance
-
-Not yet described.
 
 ## Personality & Demeanor
 
@@ -34,10 +30,6 @@ A small child the party encountered in [[Inn - Stonehill Inn|Stonehill Inn]] who
 
 **[[Player Characters/Alvar/Alvar Mistwater|Alvar]]**: Told him directly about Carp's tunnel.
 **[[Carp]]**: Friends; the source of the tip.
-
-## Trivia
-
-- Not yet discovered
 
 ---
 

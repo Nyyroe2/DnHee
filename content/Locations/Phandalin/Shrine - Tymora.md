@@ -1,13 +1,7 @@
 ---
 publish: true
-type: location
-location-type: temple
-name: Shrine - Tymora
-aliases: []
-deity: "[[Deities#Tymora, Lady Luck|Tymora]]"
-denomination:
-located-in: "[[Phandalin Overview|Phandalin]]"
-clergy:
+created: 2026-10-01T14:42:27.535Z
+modified: 2026-10-01T21:13:29.713Z
 tags:
   - location
   - location/temple
@@ -23,13 +17,6 @@ tags:
 | ---------- | ------------------------------------- |
 | Deity      | [[Deities#Tymora, Lady Luck\|Tymora]] |
 | Located In | [[Phandalin Overview\|Phandalin]]     |
-
-## What's Happened Here
-
-_Auto-populates from any Combat or Roleplay note whose location matches this page._
-
-| File | Outcome | Session |
-| ---- | ------- | ------- |
 
 ## Notes
 

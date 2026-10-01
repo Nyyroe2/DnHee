@@ -1,15 +1,12 @@
 ---
 publish: true
 created: 2026-10-01T18:34:34.392Z
-modified: 2026-10-01T18:37:07.764Z
+modified: 2026-10-01T21:10:17.815Z
 tags:
   - index
 ---
 
 # Quest Board
-
-> [!info]- How this page works
-> Every table below reads directly from each quest's own frontmatter: NPCs, locations, and PCs involved are pulled automatically from three separate link fields, so a quest only needs its own page kept up to date, not this one too.
 
 ## Active Quests
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-29T22:14:28.815Z
-modified: 2026-10-01T18:04:25.275Z
+modified: 2026-10-01T21:12:55.962Z
 tags:
   - location
   - location/city
@@ -43,11 +43,3 @@ A small but respectable town with a few various shops, inns, and various other f
 | File                                                                              | resident                |
 | --------------------------------------------------------------------------------- | ----------------------- |
 | [[Locations/Phandalin/Residence - Alderleaf Farm.md\|Residence - Alderleaf Farm]] | [[Carp]] and his mother |
-
-## Notable NPCs
-
-- Not yet discovered
-
-## History
-
-We've heard mentions

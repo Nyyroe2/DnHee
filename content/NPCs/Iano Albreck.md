@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-01T17:55:04.691Z
-modified: 2026-10-01T18:15:50.065Z
+modified: 2026-10-01T21:14:26.640Z
 tags:
   - npc
 ---
@@ -11,14 +11,6 @@ tags:
 > _Sildar's companion - lost track of him, and nobody's seen him since._
 
 **[[Compendium/Races/Human|Human]]** · **Wizard** · From: Unknown · Status: Missing · Trust: Neutral
-
-## Appearance
-
-Not yet described.
-
-## Personality & Demeanor
-
-Not yet described. Not yet met directly.
 
 ## First Encounter
 
@@ -33,10 +25,6 @@ Not yet met. Mentioned by [[Sildar Hallwinter]] in Session 4 as a companion he's
 | File                                                         | Status |
 | ------------------------------------------------------------ | ------ |
 | [[Session Notes/Quests/Finding Gundren.md\|Finding Gundren]] | Active |
-
-## Trivia
-
-- Not yet discovered
 
 ---
 

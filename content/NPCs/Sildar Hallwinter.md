@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-01T18:44:40.652Z
-modified: 2026-10-01T18:44:40.656Z
+modified: 2026-10-01T21:15:27.568Z
 tags:
   - npc
 ---
@@ -14,13 +14,9 @@ tags:
 
 **[[Compendium/Races/Human|Human]]** · **Retired Soldier** · From: Unknown · Status: Alive · Trust: Friendly
 
-## Appearance
-
-Not yet described.
-
 ## Personality & Demeanor
 
-Dutiful and plainly grateful to the party for freeing him, but visibly worried underneath it, the kind of worry that comes from having lost track of people he's responsible for. Willing to talk, though he's holding details back until he feels safe.
+Dutiful and plainly grateful to the party for freeing him, but visibly worried underneath it. Willing to talk, though he's holding details back until he feels safe.
 
 ## First Encounter
 
@@ -38,9 +34,6 @@ Found as a second captive deep in [[Locations/Phandalin/The Goblin Hideout|the g
 **[[Iano Albreck]]**: A companion he's lost track of.
 
 ## Active Quests
-
-> [!info]- How this section works
-> Reads live from every quest's own `related-npcs` property. Link this NPC on the quest page, and it shows up here automatically as long as the quest's `status` is Active.
 
 | File                                                         | Status |
 | ------------------------------------------------------------ | ------ |

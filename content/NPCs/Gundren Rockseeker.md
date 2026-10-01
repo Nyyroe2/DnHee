@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Gundren
 created: 2026-10-01T18:44:36.086Z
-modified: 2026-10-01T18:44:36.086Z
+modified: 2026-10-01T21:14:17.118Z
 tags:
   - npc
 ---
@@ -13,14 +13,6 @@ tags:
 > _Hired Alvar to deliver goods to Phandalin, then vanished before anyone could meet him there._
 
 **[[Compendium/Races/Dwarf|Dwarf]]** · **Prospector / Employer** · From: Unknown · Status: Missing · Trust: Friendly
-
-## Appearance
-
-Not yet described - the party has never actually met him in person.
-
-## Personality & Demeanor
-
-Not yet described.
 
 ## First Encounter
 
@@ -39,16 +31,9 @@ Not yet met directly. Gundren is the one who hired [[Player Characters/Alvar/Alv
 
 ## Active Quests
 
-> [!info]- How this section works
-> Reads live from every quest's own `related-npcs` property. Link this NPC on the quest page, and it shows up here automatically as long as the quest's `status` is Active.
-
 | File                                                         | Status |
 | ------------------------------------------------------------ | ------ |
 | [[Session Notes/Quests/Finding Gundren.md\|Finding Gundren]] | Active |
-
-## Trivia
-
-- Not yet discovered
 
 ---
 

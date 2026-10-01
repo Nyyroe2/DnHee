@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-01T18:46:45.775Z
-modified: 2026-10-01T18:46:45.775Z
+modified: 2026-10-01T21:16:07.839Z
 tags:
   - quest
 ---
@@ -30,14 +30,6 @@ Picks up directly from [[Session Notes/Quests/Goblin Infestation|Goblin Infestat
 **[[Sildar Hallwinter]]**: Also searching for Gundren and [[Iano Albreck|Iano]]; the party's main source of information.
 **[[Gundren Rockseeker]]**: The missing person.
 **[[Iano Albreck]]**: Also missing, alongside Gundren.
-
-## Completion
-
-Not yet discovered. Still active.
-
-### Rewards
-
-Not yet discovered.
 
 ## Background
 

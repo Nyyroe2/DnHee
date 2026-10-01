@@ -1,12 +1,7 @@
 ---
 publish: true
-type: location
-location-type: shop
-name: Barthen's Provisions
-aliases: []
-shop-type: General Store
-located-in: "[[Phandalin Overview|Phandalin]]"
-owner: Barthen
+created: 2026-09-29T22:14:37.797Z
+modified: 2026-10-01T21:13:18.898Z
 tags:
   - location
   - location/shop
@@ -31,13 +26,6 @@ A practical general store rather than anywhere fancy, the kind of shop a town ac
 ## Description
 
 A small basic goods shop in Phandalin.
-
-## What's Happened Here
-
-_Auto-populates from any Combat or Roleplay note whose location matches this page._
-
-| File | Outcome | Session |
-| ---- | ------- | ------- |
 
 ## Notes
 

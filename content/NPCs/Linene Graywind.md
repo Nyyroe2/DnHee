@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-01T18:44:05.687Z
-modified: 2026-10-01T18:44:05.687Z
+modified: 2026-10-01T21:14:38.008Z
 tags:
   - npc
 ---
@@ -13,10 +13,6 @@ tags:
 > _Business-minded, no-nonsense, and the first friendly face the party found in town._
 
 **[[Compendium/Races/Human|Human]]** · **Shopkeeper** · From: [[Phandalin Overview|Phandalin]] · Status: Alive · Trust: Friendly · Faith: [[Deities#Tymora|Tymora]]
-
-## Appearance
-
-Not yet described.
 
 ## Personality & Demeanor
 
@@ -36,9 +32,6 @@ The party met her at her shop in Phandalin, where they heard of her troubles wit
 **[[Hilda Trueshield|Hilda]]**: Friendly first contact; Hilda took to her quickly.
 
 ## Active Quests
-
-> [!info]- How this section works
-> Reads live from every quest's own `related-npcs` property. Link this NPC on the quest page, and it shows up here automatically as long as the quest's `status` is Active.
 
 | File | Status |
 | ---- | ------ |

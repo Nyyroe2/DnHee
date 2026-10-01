@@ -4,7 +4,7 @@ aliases:
   - Goblin Hideout
   - Goblin Cave
 created: 2026-10-01T18:35:44.471Z
-modified: 2026-10-01T18:56:40.855Z
+modified: 2026-10-01T21:13:36.103Z
 tags:
   - location
   - location/point-of-interest
@@ -25,7 +25,3 @@ Damp, cramped, and hostile from the moment you step in. A stream runs through pa
 - **Trash chute** - a vertical passage up from the wolf pen, used to bypass the flooded stream.
 - **Main Storeroom** - reached via the chute; a fire pit and at least one [[Monsters Library#Goblins|goblin]] stationed inside.
 - **Big Wet Room** - a large cavernous room with a dam the goblins can trigger to flood the stream.
-
-## Notes
-
-Not yet discovered
