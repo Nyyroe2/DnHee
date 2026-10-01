@@ -28,7 +28,7 @@ _Auto-populates from anyone whose `race` field matches this page._
 
 | File                                                              | Role                  | status  |
 | ----------------------------------------------------------------- | --------------------- | ------- |
-| [[Player Characters/Hilda/Hilda Trueshield.md\|Hilda Trueshield]] | -                    | Alive   |
+| [[Player Characters/Hilda/Hilda Trueshield.md\|Hilda Trueshield]] | Acolyte               | Alive   |
 | [[NPCs/Gundren Rockseeker.md\|Gundren Rockseeker]]                | Prospector / Employer | Missing |
 
 ## Notes

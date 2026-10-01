@@ -26,12 +26,12 @@ The party's shared stockpile, physically held by Hilda. Both tables below are co
 
 |CP1|SP|EP|GP|PP|
 |---|---|---|---|---|
-|0|0|0|20|0|
+|0|0|0|0|0|
 
 ---
 
 ## Loot Logs (Reference)
 
-| File                                                                         | Session | date             |
-| ---------------------------------------------------------------------------- | ------- | ---------------- |
-| [[Session Notes/Loot/Klarg's Loot - Session 3.md\|Klarg's Loot - Session 3]] | 3       | October 01, 2026 |
+| File                                                                         | Session | date               |
+| ---------------------------------------------------------------------------- | ------- | ------------------ |
+| [[Session Notes/Loot/Klarg's Loot - Session 3.md\|Klarg's Loot - Session 3]] | 3       | September 19, 2026 |

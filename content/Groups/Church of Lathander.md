@@ -37,9 +37,9 @@ Missionary pilgrimages, public charity, healing work, and dawn rituals observed 
 
 ## Members
 
-| File                                                              | Role | Status | Trust |
-| ----------------------------------------------------------------- | ---- | ------ | ----- |
-| [[Player Characters/Hilda/Hilda Trueshield.md\|Hilda Trueshield]] | -   | Alive  | -    |
+| File                                                              | Role    | Status | Trust |
+| ----------------------------------------------------------------- | ------- | ------ | ----- |
+| [[Player Characters/Hilda/Hilda Trueshield.md\|Hilda Trueshield]] | Acolyte | Alive  | -    |
 
 ## Additional Details
 

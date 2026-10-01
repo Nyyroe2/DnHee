@@ -1,27 +1,23 @@
 ---
 publish: true
 created: 2026-09-21T12:53:18.039Z
-modified: 2026-09-30T17:34:14.783Z
+modified: 2026-10-01T20:22:22.962Z
 tags:
   - party
 ---
 
 # The Party
 
-### "The Four"
-
-> _Four strangers, one wagon, and a shared bank account._
-
 This page exists as a selectable **owner** for anything that belongs to the group collectively rather than to one character
 
 ## Members
 
-| File                                                                      | Player | Race        | Class     |
-| ------------------------------------------------------------------------- | ------ | ----------- | --------- |
-| [[Player Characters/Alvar/Alvar Mistwater.md\|Alvar Mistwater]]           | Alex   | Fire Genasi | Fighter   |
-| [[Player Characters/Mophlin/Mophlin Grimsbourne.md\|Mophlin Grimsbourne]] | Liam   | Gnome       | Barbarian |
-| [[Player Characters/Willow/Willow.md\|Willow]]                            | MJ     | Wood Elf    | Druid     |
-| [[Player Characters/Hilda/Hilda Trueshield.md\|Hilda Trueshield]]         | Nyyroe | Hill Dwarf  | Cleric    |
+| File                                                                      | Player | Race        | Class     | Multiclass |
+| ------------------------------------------------------------------------- | ------ | ----------- | --------- | ---------- |
+| [[Player Characters/Alvar/Alvar Mistwater.md\|Alvar Mistwater]]           | Alex   | Fire Genasi | Fighter   | Wizard     |
+| [[Player Characters/Mophlin/Mophlin Grimsbourne.md\|Mophlin Grimsbourne]] | Liam   | Gnome       | Barbarian | Paladin    |
+| [[Player Characters/Willow/Willow.md\|Willow]]                            | MJ     | Wood Elf    | Druid     | -         |
+| [[Player Characters/Hilda/Hilda Trueshield.md\|Hilda Trueshield]]         | Nyyroe | Hill Dwarf  | Cleric    | -         |
 
 ## Owned Items
 

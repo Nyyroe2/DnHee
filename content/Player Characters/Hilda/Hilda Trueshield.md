@@ -1,37 +1,11 @@
 ---
 publish: true
-type: pc
-player: Nyyroe
-name: Hilda Trueshield
-character-name: Hilda Trueshield
 aliases:
   - Hilda
-race: Hill Dwarf
-class: Cleric
-subclass:
-multiclass:
-status: Alive
-background: Acolyte
-alignment: Neutral Good
-faith: "[[Church of Lathander]]"
-pronouns: She/Her
-age: 349
-epithet: The Everlasting Acolyte
-tagline: 349 years of devotion, one spark of power, and a stubborn refusal to stop trying.
-languages:
-  - Celestial
-  - Common
-  - Dwarvish
-spellcasting-ability: WIS
-spellcasting-modifier: "+3"
-spell-save-dc: 13
-spell-attack-bonus: "+5"
+created: 2026-10-01T17:54:21.175Z
+modified: 2026-10-01T20:19:54.064Z
 tags:
   - pc
-friend:
-  - "[[Player Characters/Mophlin/Mophlin Grimsbourne]]"
-  - "[[Player Characters/Alvar/Alvar Mistwater]]"
-  - "[[Player Characters/Willow/Willow]]"
 ---
 
 ![[Player Characters/Hilda/Reference Images/Hilda-DressArmor.png]]

@@ -1,15 +1,12 @@
 ---
 publish: true
 created: 2026-09-20T22:40:54.000Z
-modified: 2026-10-01T17:48:12.282Z
+modified: 2026-10-01T20:15:56.115Z
 tags:
   - index
 ---
 
 # Character Gallery
-
-> [!info]- How this page works
-> A visual browse of the cast: portraits and epithets pulled live from each page's own properties. Add a portrait and an epithet to any PC or NPC page and it appears here automatically.
 
 ## The Party
 

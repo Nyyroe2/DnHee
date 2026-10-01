@@ -19,8 +19,8 @@ Full traits: Placeholder. Link the official rules text if this species exists in
 
 | Stat | Value |
 | --- | --- |
-| Size | `INPUT[text:size]` |
-| Speed | `INPUT[text:speed]` |
+| Size |  |
+| Speed |  |
 | Traits | Placeholder |
 
 _Placeholder. Any note worth flagging (a merged subrace, a homebrew variation from the book default, a lineage specific to one PC/NPC)._
