@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-21T12:53:03.235Z
-modified: 2026-09-30T18:01:30.537Z
+modified: 2026-10-01T17:53:09.625Z
 tags:
   - index
 ---
@@ -9,7 +9,7 @@ tags:
 # Items Index
 
 > [!info]- How this page works
-> Pulled live from each item's own properties. Update rarity, attunement, or type on the item's own page — this index just sorts and displays it.
+> Pulled from each item's properties. Update rarity, attunement, or type on the item's page; this index just sorts and displays it.
 
 ## By Type
 
@@ -19,9 +19,8 @@ tags:
 
 ## By Rarity
 
-| rarity  | Type | owner |
-| ------- | ---- | ----- |
-| mundane | -   | -    |
+| rarity | Type | owner |
+| ------ | ---- | ----- |
 
 ## By Owner
 

@@ -1,16 +1,16 @@
 ---
 publish: true
-type: race
-name: Kenku
-size: Medium or Small
-speed: 30 feet
+created: 2026-09-21T19:05:49.517Z
+modified: 2026-10-01T19:20:43.916Z
 tags:
   - race
 ---
 
 # Kenku
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022); this version speaks normally._
+![[miscImgs/Kenku.png]]
+
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022); this version speaks normally._
 
 Full traits: [[Character Origins#Kenku|Kenku (compendium)]]
 

@@ -1,31 +1,32 @@
 ---
 publish: true
-type: reference
+created: 2026-10-01T16:58:05.297Z
+modified: 2026-10-01T17:33:42.292Z
 tags:
   - reference
 ---
 
 # Class Index
 
-Every class, linking to its full write-up in the compendium — core traits, level-by-level features, and (for spellcasters) the full spell list. This is navigation, not new content; everything here already exists in `Compendium/Classes.md`.
+Every class, linking to its full write-up in the compendium: core traits, level-by-level features, and (for spellcasters) the full spell list. This is navigation, not new content; everything here already exists in `Compendium/Classes.md`.
 
 | Class | Full Write-up | Spell List |
 | --- | --- | --- |
-| Artificer _(expansion)_ | [[Classes#Artificer\|Artificer]] | — |
-| Barbarian | [[Classes#Barbarian\|Barbarian]] | — |
+| Artificer _(expansion)_ | [[Classes#Artificer\|Artificer]] | N/A |
+| Barbarian | [[Classes#Barbarian\|Barbarian]] | N/A |
 | Bard | [[Classes#Bard\|Bard]] | [[Classes#Bard Spell List\|Spell List]] |
 | Cleric | [[Classes#Cleric\|Cleric]] | [[Classes#Cleric Spell List\|Spell List]] |
 | Druid | [[Classes#Druid\|Druid]] | [[Classes#Druid Spell List\|Spell List]] |
-| Fighter | [[Classes#Fighter\|Fighter]] | — |
-| Monk | [[Classes#Monk\|Monk]] | — |
+| Fighter | [[Classes#Fighter\|Fighter]] | N/A |
+| Monk | [[Classes#Monk\|Monk]] | N/A |
 | Paladin | [[Classes#Paladin\|Paladin]] | [[Classes#Paladin Spell List\|Spell List]] |
 | Ranger | [[Classes#Ranger\|Ranger]] | [[Classes#Ranger Spell List\|Spell List]] |
-| Rogue | [[Classes#Rogue\|Rogue]] | — |
+| Rogue | [[Classes#Rogue\|Rogue]] | N/A |
 | Sorcerer | [[Classes#Sorcerer\|Sorcerer]] | [[Classes#Sorcerer Spell List\|Spell List]] |
 | Warlock | [[Classes#Warlock\|Warlock]] | [[Classes#Warlock Spell List\|Spell List]] |
 | Wizard | [[Classes#Wizard\|Wizard]] | [[Classes#Wizard Spell List\|Spell List]] |
 
-Artificer is an expansion class (Eberron: Rising from the Last War / Tasha's Cauldron of Everything) that predates the 2024 PHB and was never reprinted in its rules language — see the note at the top of its compendium entry.
+Artificer is an expansion class (Eberron: Rising from the Last War / Tasha's Cauldron of Everything) that predates the 2024 PHB and was never reprinted in its rules language. See the note at the top of its compendium entry.
 
 ## Subclasses
 
@@ -49,7 +50,7 @@ Every class's official 2024 PHB subclass set (4 each) is in the compendium, plus
 
 The four currently in play, for quick access:
 
-- [[Classes#Cleric|Cleric]] — [[Hilda Trueshield|Hilda]]
-- [[Classes#Fighter|Fighter]] — [[Alvar Mistwater|Alvar]]
-- [[Classes#Barbarian|Barbarian]] — [[Mophlin Grimsbourne|Mophlin]]
-- [[Classes#Druid|Druid]] — [[Willow|Willow]]
+- [[Classes#Cleric|Cleric]]: [[Hilda Trueshield|Hilda]]
+- [[Classes#Fighter|Fighter]]: [[Alvar Mistwater|Alvar]]
+- [[Classes#Barbarian|Barbarian]]: [[Mophlin Grimsbourne|Mophlin]]
+- [[Classes#Druid|Druid]]: [[Willow|Willow]]

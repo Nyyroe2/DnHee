@@ -1,14 +1,14 @@
 ---
 publish: true
-type: race
-name: Tiefling
-size: Medium or Small
-speed: 30 feet
+created: 2026-09-21T19:05:49.714Z
+modified: 2026-10-01T19:28:08.747Z
 tags:
   - race
 ---
 
 # Tiefling
+
+![[miscImgs/Tiefling markiplier.png]]
 
 Full traits: [[Character Origins#Tiefling|Tiefling (compendium)]]
 
@@ -18,7 +18,7 @@ Full traits: [[Character Origins#Tiefling|Tiefling (compendium)]]
 | --- | --- |
 | Size | Medium (4-7 ft) or Small (3-4 ft), chosen |
 | Speed | 30 feet |
-| Traits | Darkvision 60ft, Fiendish Legacy (choose Abyssal / Chthonic / Infernal — resistance + cantrip + spells at 3 and 5), Otherworldly Presence (Thaumaturgy cantrip) |
+| Traits | Darkvision 60ft, Fiendish Legacy (choose Abyssal / Chthonic / Infernal; resistance + cantrip + spells at 3 and 5), Otherworldly Presence (Thaumaturgy cantrip) |
 
 _Marked by an infernal or abyssal bloodline; frequently distrusted on sight regardless of character._
 

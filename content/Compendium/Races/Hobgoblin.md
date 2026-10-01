@@ -1,16 +1,16 @@
 ---
 publish: true
-type: race
-name: Hobgoblin
-size: Medium
-speed: 30 feet
+created: 2026-09-21T19:05:49.421Z
+modified: 2026-10-01T19:18:07.030Z
 tags:
   - race
 ---
 
 # Hobgoblin
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022). Also a goblinoid for any goblinoid prerequisite._
+![[miscImgs/Hobgoblin.png]]
+
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022). Also a goblinoid for any goblinoid prerequisite._
 
 Full traits: [[Character Origins#Hobgoblin|Hobgoblin (compendium)]]
 

@@ -1,16 +1,16 @@
 ---
 publish: true
-type: race
-name: Bugbear
-size: Medium
-speed: 30 feet
+created: 2026-09-21T19:05:48.957Z
+modified: 2026-10-01T19:03:43.976Z
 tags:
   - race
 ---
 
 # Bugbear
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022). Also a goblinoid for any goblinoid prerequisite._
+![[miscImgs/Bugbear.png]]
+
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022). Also a goblinoid for any goblinoid prerequisite._
 
 Full traits: [[Character Origins#Bugbear|Bugbear (compendium)]]
 
@@ -22,7 +22,7 @@ Full traits: [[Character Origins#Bugbear|Bugbear (compendium)]]
 | Speed | 30 feet |
 | Traits | Darkvision 60ft, Long-Limbed (+5ft melee reach), Powerful Build, Sneaky (Stealth prof, squeeze through Small spaces), Surprise Attack (+2d6 vs a target that hasn't acted yet) |
 
-_The party fought bugbears as the goblin hideout's chief and guards — see [[Session Notes/Session 3|Session 3]]._
+_The party fought bugbears as the goblin hideout's chief and guards. See [[Session Notes/Session 3|Session 3]]._
 
 ## Known Party Members / NPCs
 

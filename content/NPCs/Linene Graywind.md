@@ -1,29 +1,9 @@
 ---
 publish: true
-type: npc
-name: Linene Graywind
-aliases: []
-race: Human
-compendium-ref:
-role: Shopkeeper at [[Locations/Phandalin/Shop - Lionshield Coster|Lionshield Coster]]
-religion: "[[Deities#Tymora|Tymora]]"
-faction:
-residence: "[[Phandalin Overview|Phandalin]]"
-epithet: The Merchant of Phandalin
-tagline: Business-minded, no-nonsense, and the first friendly face the party found in town.
-location-met: "[[Locations/Phandalin/Shop - Lionshield Coster|Lionshield Coster]]"
-first-met-session: 1
-status: Alive
-trust: Friendly
-npcimage:
-related-quests:
-  - "[[Session Notes/Quests/Goblin Infestation|Goblin Infestation]]"
-related-pcs:
-  - "[[Hilda Trueshield|Hilda]]"
+created: 2026-10-01T18:44:05.687Z
+modified: 2026-10-01T18:44:05.687Z
 tags:
   - npc
-friend:
-  - "[[Player Characters/Hilda/Hilda Trueshield|Hilda]]"
 ---
 
 # Linene Graywind
@@ -40,7 +20,7 @@ Not yet described.
 
 ## Personality & Demeanor
 
-Seems business minded and no-nonsense — someone who deals in goods and favors plainly, without much sentiment attached.
+Seems business minded and no-nonsense, someone who deals in goods and favors plainly, without much sentiment attached.
 
 ## First Encounter
 
@@ -49,23 +29,23 @@ The party met her at her shop in Phandalin, where they heard of her troubles wit
 ## Known For
 
 - Giving the party their first real job in Phandalin: clearing out the goblins stealing her shipments (Session 1)
+- Getting her recovered stock back when the party stopped by after dealing with the goblins ([[Session Notes/Session 4|Session 4]])
 
 ## Relationships
 
-**[[Hilda Trueshield|Hilda]]** — Friendly first contact; Hilda took to her quickly.
+**[[Hilda Trueshield|Hilda]]**: Friendly first contact; Hilda took to her quickly.
 
 ## Active Quests
 
 > [!info]- How this section works
-> Reads live from every quest's own `related-npcs` property — link this NPC on the quest page, and it shows up here automatically as long as the quest's `status` is Active.
+> Reads live from every quest's own `related-npcs` property. Link this NPC on the quest page, and it shows up here automatically as long as the quest's `status` is Active.
 
-| File                                                               | Status |
-| ------------------------------------------------------------------ | ------ |
-| [[Session Notes/Quests/Goblin Infestation.md\|Goblin Infestation]] | Active |
+| File | Status |
+| ---- | ------ |
 
 ## Trivia
 
-- Worships [[Deities#Tymora|Tymora]], goddess of luck — fitting for a merchant whose livelihood rides on which way a shipment's fortune turns.
+- Worships [[Deities#Tymora|Tymora]], goddess of luck, fitting for a merchant whose livelihood rides on which way a shipment's fortune turns.
 
 ---
 
@@ -76,4 +56,4 @@ The party met her at her shop in Phandalin, where they heard of her troubles wit
 > | Faction | |
 > | Residence | [[Phandalin Overview|Phandalin]] |
 > | Location Met | [[Locations/Phandalin/Shop - Lionshield Coster|Lionshield Coster]] |
-> | Compendium Entry | — (ordinary human, no monster stat block) |
+> | Compendium Entry | None (ordinary human, no monster stat block) |

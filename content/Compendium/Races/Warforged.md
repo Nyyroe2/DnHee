@@ -1,16 +1,16 @@
 ---
 publish: true
-type: race
-name: Warforged
-size: Medium
-speed: 30 feet
+created: 2026-09-21T19:05:49.842Z
+modified: 2026-10-01T19:30:20.585Z
 tags:
   - race
 ---
 
 # Warforged
 
-_Expansion species — Eberron: Rising from the Last War (2019); not reprinted in MPMM, tied specifically to the Eberron setting._
+![[miscImgs/Warforged.png]]
+
+_Expansion species: Eberron: Rising from the Last War (2019); not reprinted in MPMM, tied specifically to the Eberron setting._
 
 Full traits: [[Character Origins#Warforged|Warforged (compendium)]]
 

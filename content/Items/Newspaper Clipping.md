@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-29T22:14:04.279Z
-modified: 2026-09-30T18:17:10.849Z
+created: 2026-10-01T14:56:03.132Z
+modified: 2026-10-01T18:02:55.259Z
 tags:
   - item
   - item/other
@@ -20,7 +20,7 @@ tags:
 
 ## Description
 
-> A battered newspaper for [[The Chronicles of Greyhawk]],  which operates out of [[Phandalin Overview|Phandalin]]. It's dated the 14th day of Harvestide, 1373 DR
+> A battered newspaper for The Chronicles of Greyhawk, which operates out of [[Phandalin Overview|Phandalin]]. It's dated the 14th day of Harvestide, 1373 DR
 
 ## History / Acquisition
 

@@ -1,5 +1,7 @@
 ---
 publish: true
+created: 2026-10-01T19:47:01.235Z
+modified: 2026-10-01T19:47:01.235Z
 ---
 
 ## Character Backgrounds
@@ -40,6 +42,22 @@ Each background offers a choice between a package of equipment and 50 GP.
 **Tool Proficiency:** Calligrapher's Supplies
 **Equipment:** _Choose A or B:_ (A) Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10 sheets), Robe, 8 GP; or (B) 50 GP
 
+#### Artisan
+
+**Ability Scores:** Strength, Dexterity, Intelligence
+**Feat:** Crafter (see "Feats")
+**Skill Proficiencies:** Investigation and Persuasion
+**Tool Proficiency:** _Choose one kind of_ Artisan's Tools (see "Equipment")
+**Equipment:** _Choose A or B:_ (A) Artisan's Tools (same as above), 2 Pouches, Traveler's Clothes, 32 GP; or (B) 50 GP
+
+#### Charlatan
+
+**Ability Scores:** Dexterity, Constitution, Charisma
+**Feat:** Skilled (see "Feats")
+**Skill Proficiencies:** Deception and Sleight of Hand
+**Tool Proficiency:** Forgery Kit
+**Equipment:** _Choose A or B:_ (A) Forgery Kit, Costume, Fine Clothes, 15 GP; or (B) 50 GP
+
 #### Criminal
 
 **Ability Scores:** Dexterity, Constitution, Intelligence
@@ -47,6 +65,62 @@ Each background offers a choice between a package of equipment and 50 GP.
 **Skill Proficiencies:** Sleight of Hand and Stealth
 **Tool Proficiency:** Thieves' Tools
 **Equipment:** _Choose A or B:_ (A) 2 Daggers, Thieves' Tools, Crowbar, 2 Pouches, Traveler's Clothes, 16 GP; or (B) 50 GP
+
+#### Entertainer
+
+**Ability Scores:** Strength, Dexterity, Charisma
+**Feat:** Musician (see "Feats")
+**Skill Proficiencies:** Acrobatics and Performance
+**Tool Proficiency:** _Choose one kind of_ Musical Instrument (see "Equipment")
+**Equipment:** _Choose A or B:_ (A) Musical Instrument (same as above), 2 Costumes, Mirror, Perfume, Traveler's Clothes, 11 GP; or (B) 50 GP
+
+#### Farmer
+
+**Ability Scores:** Strength, Constitution, Wisdom
+**Feat:** Tough (see "Feats")
+**Skill Proficiencies:** Animal Handling and Nature
+**Tool Proficiency:** Carpenter's Tools
+**Equipment:** _Choose A or B:_ (A) Sickle, Carpenter's Tools, Healer's Kit, Iron Pot, Shovel, Traveler's Clothes, 30 GP; or (B) 50 GP
+
+#### Guard
+
+**Ability Scores:** Strength, Intelligence, Wisdom
+**Feat:** Alert (see "Feats")
+**Skill Proficiencies:** Athletics and Perception
+**Tool Proficiency:** _Choose one kind of_ Gaming Set (see "Equipment")
+**Equipment:** _Choose A or B:_ (A) Spear, Light Crossbow, 20 Bolts, Gaming Set (same as above), Hooded Lantern, Manacles, Quiver, Traveler's Clothes, 12 GP; or (B) 50 GP
+
+#### Guide
+
+**Ability Scores:** Dexterity, Constitution, Wisdom
+**Feat:** Magic Initiate (Druid) (see "Feats")
+**Skill Proficiencies:** Stealth and Survival
+**Tool Proficiency:** Cartographer's Tools
+**Equipment:** _Choose A or B:_ (A) Shortbow, 20 Arrows, Cartographer's Tools, Bedroll, Quiver, Tent, Traveler's Clothes, 3 GP; or (B) 50 GP
+
+#### Hermit
+
+**Ability Scores:** Constitution, Wisdom, Charisma
+**Feat:** Healer (see "Feats")
+**Skill Proficiencies:** Medicine and Religion
+**Tool Proficiency:** Herbalism Kit
+**Equipment:** _Choose A or B:_ (A) Quarterstaff, Herbalism Kit, Bedroll, Book (philosophy), Lamp, 3 Flasks of Oil, Traveler's Clothes, 16 GP; or (B) 50 GP
+
+#### Merchant
+
+**Ability Scores:** Constitution, Intelligence, Charisma
+**Feat:** Lucky (see "Feats")
+**Skill Proficiencies:** Animal Handling and Persuasion
+**Tool Proficiency:** Navigator's Tools
+**Equipment:** _Choose A or B:_ (A) Navigator's Tools, 2 Pouches, Traveler's Clothes, 22 GP; or (B) 50 GP
+
+#### Noble
+
+**Ability Scores:** Strength, Intelligence, Charisma
+**Feat:** Skilled (see "Feats")
+**Skill Proficiencies:** History and Persuasion
+**Tool Proficiency:** _Choose one kind of_ Gaming Set (see "Equipment")
+**Equipment:** _Choose A or B:_ (A) Gaming Set (same as above), Fine Clothes, Perfume, 29 GP; or (B) 50 GP
 
 #### Sage
 
@@ -56,6 +130,22 @@ Each background offers a choice between a package of equipment and 50 GP.
 **Tool Proficiency:** Calligrapher's Supplies
 **Equipment:** _Choose A or B:_ (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP
 
+#### Sailor
+
+**Ability Scores:** Strength, Dexterity, Wisdom
+**Feat:** Tavern Brawler (see "Feats")
+**Skill Proficiencies:** Acrobatics and Perception
+**Tool Proficiency:** Navigator's Tools
+**Equipment:** _Choose A or B:_ (A) Dagger, Navigator's Tools, Rope (50 feet), Traveler's Clothes, 20 GP; or (B) 50 GP
+
+#### Scribe
+
+**Ability Scores:** Dexterity, Intelligence, Wisdom
+**Feat:** Skilled (see "Feats")
+**Skill Proficiencies:** Investigation and Perception
+**Tool Proficiency:** Calligrapher's Supplies
+**Equipment:** _Choose A or B:_ (A) Calligrapher's Supplies, Fine Clothes, Lamp, 3 Flasks of Oil, Parchment (12 sheets), 23 GP; or (B) 50 GP
+
 #### Soldier
 
 **Ability Scores:** Strength, Dexterity, Constitution
@@ -63,6 +153,14 @@ Each background offers a choice between a package of equipment and 50 GP.
 **Skill Proficiencies:** Athletics and Intimidation
 **Tool Proficiency:** _Choose one kind of_ Gaming Set (see "Equipment")
 **Equipment:** _Choose A or B:_ (A) Spear, Shortbow, 20 Arrows, Gaming Set (same as above), Healer's Kit, Quiver, Traveler's Clothes, 14 GP; or (B) 50 GP
+
+#### Wayfarer
+
+**Ability Scores:** Dexterity, Wisdom, Charisma
+**Feat:** Lucky (see "Feats")
+**Skill Proficiencies:** Insight and Stealth
+**Tool Proficiency:** Thieves' Tools
+**Equipment:** _Choose A or B:_ (A) 2 Daggers, Thieves' Tools, Gaming Set (choose one kind), Bedroll, 2 Pouches, Traveler's Clothes, 16 GP; or (B) 50 GP
 
 ## Character Species
 
@@ -99,7 +197,7 @@ Each species gives a character special traits—unique characteristics based on 
 #### Aarakocra
 
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Elemental Evil Player's Companion (2015) original. This is the version this vault uses._
-
+![[miscImgs/Aarakocra1.png]]
 **Creature Type:** Humanoid
 **Size:** Medium
 **Speed:** 30 feet
@@ -115,6 +213,8 @@ _Talons._ You are proficient with your Unarmed Strikes, which deal 1d6 Slashing 
 _Wind Caller._ Starting at character level 3, you can cast the [[Spells#Gust of Wind|Gust of Wind]] spell with this trait, without requiring a Material component. Once you cast the spell with this trait, you can't do so again until you finish a Long Rest. You can also cast the spell using a spell slot of 2nd level or higher, if you have one. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose when you select this species).
 
 #### Aasimar
+
+![[miscImgs/Aasimar.png]]
 
 **Creature Type:** Humanoid
 **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
@@ -142,6 +242,8 @@ _Light Bearer._ You know the Light cantrip. Charisma is your spellcasting abilit
 
 #### Bugbear
 
+![[miscImgs/Bugbear.png]]
+
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Volo's Guide to Monsters (2016) original. This is the version this vault uses._
 
 **Creature Type:** Humanoid (also considered a goblinoid for any prerequisite or effect that requires you to be a goblinoid)
@@ -164,6 +266,8 @@ _Surprise Attack._ If you hit a creature with an attack roll, that creature take
 
 #### Changeling
 
+![[miscImgs/Changeling.png]]
+
 **Creature Type:** Humanoid
 **Size:** Medium
 **Speed:** 30 feet
@@ -177,6 +281,8 @@ _Shapechanger._ As an action, you can change your appearance and your voice. You
 _Changeling Instincts._ You gain proficiency in two of the following skills of your choice: Deception, Insight, Intimidation, and Persuasion.
 
 #### Deep Gnome
+
+![[miscImgs/Deep Gnome.png]]
 
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Sword Coast Adventurer's Guide (2015) original. This is the version this vault uses. Also called Svirfneblin._
 
@@ -197,6 +303,8 @@ _Svirfneblin Camouflage._ You can make a Dexterity (Stealth) check with Advantag
 _Gift of the Svirfneblin._ Starting at character level 3, you can cast the [[Spells#Disguise Self|Disguise Self]] spell with this trait, and starting at level 5, you can also cast the [[Spells#Nondetection|Nondetection]] spell with it, without requiring a Material component. Once you cast either spell with this trait, you can't do so again with it until you finish a Long Rest. You can also cast either spell using a spell slot you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
 
 #### Dragonborn
+
+![[miscImgs/Dragonborn.png]]
 
 **Creature Type:** Humanoid
 **Size:** Medium (about 5–7 feet tall)
@@ -228,6 +336,8 @@ _Draconic Flight._ When you reach character level 5, you can channel draconic ma
 
 #### Duergar
 
+![[miscImgs/Duergar.png]]
+
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Sword Coast Adventurer's Guide (2015) original. This is the version this vault uses. A subterranean offshoot of the Dwarf people._
 
 **Creature Type:** Humanoid (also considered a dwarf for any prerequisite or effect that requires you to be a dwarf)
@@ -248,6 +358,8 @@ _Duergar Magic._ Starting at character level 3, you can cast the [[Spells#Enlarg
 
 #### Dwarf
 
+![[miscImgs/Dwarf.png]]
+
 **Creature Type:** Humanoid
 **Size:** Medium (about 4–5 feet tall)
 **Speed:** 30 feet
@@ -265,6 +377,8 @@ _Stonecunning._ As a Bonus Action, you gain Tremorsense with a range of 60 feet 
 You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 #### Eladrin
+
+![[miscImgs/Eladrin.png]]
 
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Mordenkainen's Tome of Foes (2018) original. This is the version this vault uses. A Feywild-touched offshoot of the Elf people._
 
@@ -298,6 +412,8 @@ Starting at character level 3, your Fey Step gains an additional effect based on
 
 #### Elf
 
+![[miscImgs/High Elf.png]]
+
 **Creature Type:** Humanoid
 **Size:** Medium (about 5–6 feet tall)
 **Speed:** 30 feet
@@ -328,6 +444,8 @@ _Trance._ You don't need to sleep, and magic can't put you to sleep. You can fin
 
 #### Genasi
 
+![[miscImgs/Genasi.png]]
+
 **Creature Type:** Humanoid
 **Size:** Medium or Small (about 4–6 feet tall), chosen when you select this species
 **Speed:** 30 feet (Air Genasi are the exception—see below)
@@ -342,6 +460,8 @@ When you select this species, choose one of the following elemental subtypes: Ai
 
 ##### Air Genasi
 
+![[miscImgs/Air Genasi.png]]
+
 **Speed.** Your Speed is 35 feet, rather than the Genasi base Speed of 30 feet.
 
 _Unending Breath._ You can hold your breath indefinitely while you aren't Incapacitated.
@@ -352,17 +472,23 @@ _Mingle with the Wind._ You know the [[Spells#Shocking Grasp|Shocking Grasp]] ca
 
 ##### Earth Genasi
 
+![[miscImgs/Earth Genasi.jpg]]
+
 _Earth Walk._ You can move across difficult terrain made of earth or stone without expending extra movement, as long as you're using your Speed on the ground or a floor.
 
 _Merge with Stone._ You know the [[Spells#Blade Ward|Blade Ward]] cantrip. You can also cast it as a Bonus Action a number of times equal to your Proficiency Bonus, regaining all expended uses when you finish a Long Rest. Starting at character level 5, you can cast [[Spells#Pass without Trace|Pass without Trace]] with this trait, without requiring a Material component, once per Long Rest; you can also cast it using a spell slot of 2nd level or higher, if you have one. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
 
 ##### Fire Genasi
 
+![[miscImgs/Fire Genasi.png]]
+
 _Fire Resistance._ You have Resistance to Fire damage.
 
 _Reach to the Blaze._ You know the [[Spells#Produce Flame|Produce Flame]] cantrip. Starting at character level 3, you can cast [[Spells#Burning Hands|Burning Hands]] with this trait, and starting at level 5, you can also cast [[Spells#Flame Blade|Flame Blade]] with this trait, without requiring a Material component. Once you cast [[Spells#Burning Hands|Burning Hands]] or [[Spells#Flame Blade|Flame Blade]] with this trait, you can't do so again with it until you finish a Long Rest. You can also cast either spell using a spell slot of the appropriate level, if you have one. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
 
 ##### Water Genasi
+
+![[miscImgs/Water Genasi.png]]
 
 _Acid Resistance._ You have Resistance to Acid damage.
 
@@ -373,6 +499,8 @@ _Swim Speed._ You have a Swim Speed equal to your Speed.
 _Call to the Wave._ You know the [[Spells#Acid Splash|Acid Splash]] cantrip. Starting at character level 3, you can cast [[Spells#Create or Destroy Water|Create or Destroy Water]] with this trait, and starting at level 5, you can also cast [[Spells#Water Walk|Water Walk]] with this trait, without requiring a Material component. Once you cast [[Spells#Create or Destroy Water|Create or Destroy Water]] or [[Spells#Water Walk|Water Walk]] with this trait, you can't do so again with it until you finish a Long Rest. You can also cast either spell using a spell slot of the appropriate level, if you have one. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
 
 #### Githyanki
+
+![[miscImgs/Githyanki.png]]
 
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Mordenkainen's Tome of Foes (2018) original. This is the version this vault uses. Native to the Astral Plane._
 
@@ -392,6 +520,8 @@ _Psychic Resilience._ You have Resistance to Psychic damage.
 
 #### Githzerai
 
+![[miscImgs/Githzerai.png]]
+
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Mordenkainen's Tome of Foes (2018) original. This is the version this vault uses. Native to the plane of Limbo._
 
 **Creature Type:** Humanoid
@@ -410,6 +540,8 @@ _Psychic Resilience._ You have Resistance to Psychic damage.
 
 #### Gnome
 
+![[miscImgs/Gnome.png]]
+
 **Creature Type:** Humanoid
 **Size:** Small (about 3–4 feet tall)
 **Speed:** 30 feet
@@ -427,6 +559,8 @@ _Gnomish Lineage._ You are part of a lineage that grants you supernatural abilit
 **Rock Gnome.** You know the [[Spells#Mending|Mending]] and [[Spells#Prestidigitation|Prestidigitation]] cantrips. In addition, you can spend 10 minutes casting [[Spells#Prestidigitation|Prestidigitation]] to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from [[Spells#Prestidigitation|Prestidigitation]]; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.
 
 #### Goblin
+
+![[miscImgs/Goblin.png]]
 
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Volo's Guide to Monsters (2016) original. This is the version this vault uses._
 
@@ -447,6 +581,8 @@ _Fury of the Small._ When you damage a creature with an attack or a spell and th
 _Nimble Escape._ You can take the Disengage or Hide action as a Bonus Action on each of your turns.
 
 #### Goliath
+
+![[miscImgs/Goliath.png]]
 
 **Creature Type:** Humanoid
 **Size:** Medium (about 7–8 feet tall)
@@ -474,6 +610,8 @@ _Powerful Build._ You have Advantage on any ability check you make to end the Gr
 
 #### Halfling
 
+![[miscImgs/Halfling.png]]
+
 **Creature Type:** Humanoid
 **Size:** Small (about 2–3 feet tall)
 **Speed:** 30 feet
@@ -489,6 +627,8 @@ _Luck._ When you roll a 1 on the d20 of a D20 Test, you can reroll the die, and 
 _Naturally Stealthy._ You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.
 
 #### Hobgoblin
+
+![[miscImgs/Hobgoblin.png]]
 
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Volo's Guide to Monsters (2016) original. This is the version this vault uses._
 
@@ -516,6 +656,8 @@ _Fortune from the Many._ When you miss with an attack roll, or fail an ability c
 
 #### Human
 
+![[miscImgs/Human.png]]
+
 **Creature Type:** Humanoid
 **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
 **Speed:** 30 feet
@@ -529,6 +671,8 @@ _Skillful._ You gain proficiency in one skill of your choice.
 _Versatile._ You gain an Origin feat of your choice (see "Feats"). Skilled is recommended.
 
 #### Kalashtar
+
+![[miscImgs/Kalashtar.png]]
 
 **Creature Type:** Humanoid
 **Size:** Medium
@@ -548,6 +692,8 @@ _Severed from Dreams._ Kalashtar sleep, but they don't connect to the plane of d
 
 #### Kenku
 
+![[miscImgs/Kenku.png]]
+
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Volo's Guide to Monsters (2016) original. This is the version this vault uses—notably, the original version couldn't speak at all, only mimic sounds it had heard; this version can speak normally._
 
 **Creature Type:** Humanoid
@@ -565,6 +711,8 @@ _Kenku Recall._ You gain proficiency in two skills of your choice. When you make
 _Mimicry._ You can accurately mimic sounds you have heard, including voices. A creature that hears the mimicry can tell it's a fake with a successful Wisdom (Insight) check (DC 8 plus your Proficiency Bonus and your Charisma modifier).
 
 #### Kobold
+
+![[miscImgs/Kobold.png|312]]
 
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Volo's Guide to Monsters (2016) original. This is the version this vault uses._
 
@@ -590,6 +738,8 @@ _Kobold Legacy._ Choose one of the following options when you select this specie
 
 #### Lizardfolk
 
+![[miscImgs/Lizardfolk.png]]
+
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Volo's Guide to Monsters (2016) original. This is the version this vault uses._
 
 **Creature Type:** Humanoid
@@ -612,6 +762,8 @@ _Nature's Intuition._ You gain proficiency in two skills of your choice from Ani
 
 #### Orc
 
+![[miscImgs/Orc.png]]
+
 **Creature Type:** Humanoid
 **Size:** Medium (about 6–7 feet tall)
 **Speed:** 30 feet
@@ -627,6 +779,8 @@ _Darkvision._ You have Darkvision with a range of 120 feet.
 _Relentless Endurance._ When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
 
 #### Shifter
+
+![[miscImgs/Shifter.png]]
 
 _Expansion species — Eberron: Rising from the Last War (2019). Note: Mordenkainen Presents: Monsters of the Multiverse (2022) later reprinted Shifter with a floating ability score increase and let any subrace choose any of the four skill proficiencies (rather than one fixed per subrace); the four Shifting sub-benefits are unchanged between versions. This entry uses the original Eberron sourcebook version._
 
@@ -648,6 +802,8 @@ _Ability Score Increase (2024 phrasing note: 2024 species don't grant ability sc
 
 ##### Beasthide
 
+![[miscImgs/Beasthide Shifter.png]]
+
 **Ability Score Increase.** Your Constitution score increases by 2, and your Strength score increases by 1.
 
 **Proficiency.** Athletics.
@@ -655,6 +811,8 @@ _Ability Score Increase (2024 phrasing note: 2024 species don't grant ability sc
 **Beasthide Shifting.** While shifted, you gain an extra 1d6 Temporary Hit Points (on top of the base amount from Shifting), and you gain a +1 bonus to Armor Class.
 
 ##### Longtooth
+
+![[miscImgs/Longtooth Shifter.png]]
 
 **Ability Score Increase.** Your Strength score increases by 2, and your Dexterity score increases by 1.
 
@@ -664,6 +822,8 @@ _Ability Score Increase (2024 phrasing note: 2024 species don't grant ability sc
 
 ##### Swiftstride
 
+![[miscImgs/Swiftstride Shifter.png]]
+
 **Ability Score Increase.** Your Dexterity score increases by 2, and your Charisma score increases by 1.
 
 **Proficiency.** Acrobatics.
@@ -672,6 +832,8 @@ _Ability Score Increase (2024 phrasing note: 2024 species don't grant ability sc
 
 ##### Wildhunt
 
+![[miscImgs/Wildhunt Shifter.png]]
+
 **Ability Score Increase.** Your Wisdom score increases by 2, and your Dexterity score increases by 1.
 
 **Proficiency.** Survival.
@@ -679,6 +841,8 @@ _Ability Score Increase (2024 phrasing note: 2024 species don't grant ability sc
 **Wildhunt Shifting.** While shifted, you have Advantage on Wisdom checks, and no creature within 30 feet of you can gain Advantage on an attack roll against you as a result of being Hidden from you, unless you have the Incapacitated condition.
 
 #### Tabaxi
+
+![[miscImgs/Tabaxi.png]]
 
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Volo's Guide to Monsters (2016) original. This is the version this vault uses._
 
@@ -698,6 +862,8 @@ _Cat's Talent._ You have proficiency in the Perception and Stealth skills.
 _Feline Agility._ When you move on your turn in combat, you can double your Speed until the end of that turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.
 
 #### Tiefling
+
+![[miscImgs/Tiefling markiplier.png]]
 
 **Creature Type:** Humanoid
 **Size:** Medium (about 4–7 feet tall) or Small (about 3–4 feet tall), chosen when you select this species
@@ -725,6 +891,8 @@ _Otherworldly Presence._ You know the [[Spells#Thaumaturgy|Thaumaturgy]] cantrip
 
 #### Tortle
 
+![[miscImgs/Tortle.png]]
+
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the original "Tortle Package" supplement (1983, adapted for 5e in 2017). This is the version this vault uses._
 
 **Creature Type:** Humanoid
@@ -747,6 +915,8 @@ _Nature's Intuition._ You gain proficiency in one skill of your choice from Anim
 
 #### Triton
 
+![[miscImgs/Triton.png]]
+
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Volo's Guide to Monsters (2016) original. This is the version this vault uses._
 
 **Creature Type:** Humanoid
@@ -768,6 +938,8 @@ _Guardians of the Depths._ You have Resistance to Cold damage.
 
 #### Warforged
 
+![[miscImgs/Warforged.png]]
+
 _Expansion species — Eberron: Rising from the Last War (2019). Not reprinted in Mordenkainen Presents: Monsters of the Multiverse—along with Kalashtar, this is one of the two Eberron species MPMM deliberately left untouched because their identity is tied specifically to that setting._
 
 **Creature Type:** Humanoid
@@ -787,6 +959,8 @@ _Integrated Protection._ Your body has built-in protective layers that can be en
 _Specialized Design._ You gain one skill proficiency and one tool proficiency of your choice.
 
 #### Yuan-ti Pureblood
+
+![[miscImgs/Yuan-ti Pureblood.png]]
 
 _Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022), reprinting and revising the Volo's Guide to Monsters (2016) original. This is the version this vault uses—notably, this version significantly reduces the original's poison immunity to resistance, since the original was considered one of the most overpowered options in the game._
 

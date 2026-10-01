@@ -1,13 +1,18 @@
 ---
 publish: true
-created: 2026-09-29T22:14:33.237Z
-modified: 2026-09-30T18:19:34.259Z
+type: location
+location-type: shop
+name: Stonehill Inn
+aliases: []
+shop-type: Tavern/Inn
+located-in: "[[Phandalin Overview|Phandalin]]"
+owner:
 tags:
   - location
   - location/shop
 ---
 
-![[miscImgs/Pasted image 20260829135727.png]]
+![[miscImgs/Stonehill Inn 1.png]]
 
 ## Summary
 
@@ -19,7 +24,7 @@ tags:
 
 ## First Impressions
 
-A modest, welcoming inn — the kind of place where a stranger can get a room, an ale, and more local gossip than they bargained for.
+A modest, welcoming inn, the kind of place where a stranger can get a room, an ale, and more local gossip than they bargained for.
 
 ## Description
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-30T18:05:09.880Z
-modified: 2026-09-30T18:05:09.880Z
+modified: 2026-10-01T18:36:37.808Z
 tags:
   - rumor
 ---
@@ -10,13 +10,15 @@ tags:
 
 ## Summary
 
-| Stat   | Value                                                |
-| ------ | ---------------------------------------------------- |
-| Status | Confirmed True                                       |
-| Source | The [[Inn - Stonehill Inn\|Stonehill Inn]] Barkeeper |
-| Session Heard | Session 1 |
-| Session Resolved | — |
+| Stat             | Value                                                |
+| ---------------- | ---------------------------------------------------- |
+| Status           | Confirmed True                                       |
+| Source           | The [[Inn - Stonehill Inn\|Stonehill Inn]] Barkeeper |
+| Session Heard    | Session 1                                            |
+| Session Resolved | Session 4                                            |
 
 ## The Rumor...
 
 There is one other room booked out in the [[Inn - Stonehill Inn|Stonehill Inn]], though the person meant to stay there hasn't returned in days.
+
+We discovered that the room had belonged to Sildar before he was kidnapped by the goblins.

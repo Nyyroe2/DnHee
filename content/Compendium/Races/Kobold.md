@@ -1,16 +1,16 @@
 ---
 publish: true
-type: race
-name: Kobold
-size: Small
-speed: 30 feet
+created: 2026-09-21T19:05:49.551Z
+modified: 2026-10-01T19:21:51.313Z
 tags:
   - race
 ---
 
 # Kobold
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022)._
+![[miscImgs/Kobold.png|381]]
+
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022)._
 
 Full traits: [[Character Origins#Kobold|Kobold (compendium)]]
 

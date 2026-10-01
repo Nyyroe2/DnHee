@@ -1,15 +1,14 @@
 ---
 publish: true
-type: race
-name: Changeling
-size: Medium
-speed: 30 feet
+created: 2026-09-21T19:05:48.991Z
+modified: 2026-10-01T19:04:31.515Z
 tags:
   - race
 ---
 
 # Changeling
 
+![[miscImgs/Changeling.png]]
 Full traits: [[Character Origins#Changeling|Changeling (compendium)]]
 
 ## Quick Reference

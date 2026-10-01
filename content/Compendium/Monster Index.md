@@ -1,15 +1,16 @@
 ---
 publish: true
-type: reference
+created: 2026-09-20T16:13:53.824Z
+modified: 2026-10-01T17:42:39.225Z
 tags:
   - reference
 ---
 
 # Monster Index
 
-Every creature in the compendium, alphabetically, linking directly to its full entry. This is the browsable front door to `Compendium/Monsters Library.md` — the entries themselves already exist there in full; this page just makes them findable rather than needing to scroll a 200+-entry file.
+Every creature in the compendium, alphabetically, linking directly to its full entry. This is the browsable front door to `Compendium/Monsters Library.md`. The entries themselves already exist there in full; this page just makes them findable rather than needing to scroll a 200+-entry file.
 
-Core 2024 Monster Manual creatures use the full stat-block format (AC, HP, ability scores, actions). Expansion creatures — a CR-appropriate subset from Volo's Guide to Monsters and Mordenkainen's Tome of Foes/Monsters of the Multiverse, picked for a low-level party — use a lighter "field guide" style instead: appearance, behavior, habitat, and notable traits, without exact combat statistics. Each expansion entry is tagged with its sourcebook in the compendium itself.
+Core 2024 Monster Manual creatures use the full stat-block format (AC, HP, ability scores, actions). Expansion creatures (a CR-appropriate subset from Volo's Guide to Monsters and Mordenkainen's Tome of Foes/Monsters of the Multiverse, picked for a low-level party) use a lighter "field guide" style instead: appearance, behavior, habitat, and notable traits, without exact combat statistics. Each expansion entry is tagged with its sourcebook in the compendium itself.
 
 ## A
 

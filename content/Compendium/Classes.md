@@ -1,8 +1,12 @@
 ---
 publish: true
+created: 2026-09-20T22:56:18.000Z
+modified: 2026-10-01T20:11:52.568Z
 ---
 
 ## Artificer
+
+![[miscImgs/Artificer.png]]
 
 _Expansion class — Eberron: Rising from the Last War (2019), reprinted for general use in Tasha's Cauldron of Everything (2020). Artificer has never been reprinted in 2024-rules language, so this entry keeps its original phrasing; parenthetical notes below flag the places that read differently from this compendium's other, 2024-style classes._
 
@@ -375,6 +379,8 @@ Your Arcane Jolt's extra damage or healing increases to 4d6. Your Steel Defender
 
 ## Barbarian
 
+![[miscImgs/Barbarian.png]]
+
 **Core Barbarian Traits**
 
 | Col 1 | Col 2 |
@@ -705,6 +711,8 @@ When you hit a creature with your natural weapon from Form of the Beast while yo
 When you activate your Rage, you can call out to up to a number of willing creatures within 30 feet of yourself equal to your Constitution modifier (minimum of one), designating them as part of your hunt. Each of those creatures gains 5 Temporary Hit Points. Until your Rage ends, each of those creatures can, once per turn when it hits a creature with an attack, roll a d6 and add the number rolled to the damage dealt. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 ## Bard
+
+![[miscImgs/Bard.png]]
 
 **Core Bard Traits**
 
@@ -1155,6 +1163,8 @@ Whenever a Humanoid dies within 30 feet of yourself, you can take a Reaction to 
 As an action, you can magically whisper a message that only one creature within 30 feet of yourself can hear, provided it can hear you at all (it automatically succeeds on the saving throw below if it can't hear you or doesn't share a language with you). The target must succeed on a Wisdom saving throw against your spell save DC or have the Charmed condition toward you for 8 hours. While Charmed this way, the target is convinced you know an embarrassing or ruinous secret about it (even though you don't) and acts on your suggestions and commands out of fear you'll expose it, including doing you favors or giving you gifts it would give to a close friend—though it won't act against its own self-preservation on your behalf unless it was already inclined to. Once you use this feature, you can't use it again until you finish a Long Rest.
 
 ## Cleric
+
+![[miscImgs/Cleric.png]]
 
 **Core Cleric Traits**
 
@@ -1884,6 +1894,8 @@ You and any allies within the sphere created by your Twilight Sanctuary have Hal
 
 ## Druid
 
+![[miscImgs/Druid.png]]
+
 **Core Druid Traits**
 
 | Col 1 | Col 2 |
@@ -2531,6 +2543,8 @@ If your wildfire spirit is within 120 feet of yourself when you drop to 0 Hit Po
 
 ## Fighter
 
+![[miscImgs/Fighter.png]]
+
 **Core Fighter Traits**
 
 | Col 1 | Col 2 |
@@ -3009,6 +3023,8 @@ If you have Advantage on an attack roll against a creature, you can forgo the Ad
 Your fighting spirit can delay the grip of death. If you're reduced to 0 Hit Points and don't die outright, you can take a Reaction to delay falling Unconscious, and you can immediately take an extra turn, following the normal rules for your turn. If you're still at 0 Hit Points when this extra turn ends, you fall Unconscious as normal, and you must make a Death Saving Throw as normal for that round. Once you use this feature, you can't use it again until you finish a Long Rest.
 
 ## Monk
+
+![[miscImgs/Monk.png]]
 
 **Core Monk Traits**
 
@@ -3508,6 +3524,8 @@ You are surrounded by a radiant light that harms those who would harm you. You s
 
 ## Paladin
 
+![[miscImgs/Paladin.png]]
+
 **Core Paladin Traits**
 
 | Col 1 | Col 2 |
@@ -3982,6 +4000,8 @@ If you end your turn in combat with half or fewer of your Hit Points remaining a
 You have Resistance to all damage dealt to you by other creatures. Whenever a creature damages you, it takes Radiant damage equal to half the damage it dealt. If you attack a creature, cast a harmful spell targeting it, or otherwise deal it damage by any means other than this feature, both of this feature's benefits stop working against that creature until you finish a Long Rest.
 
 ## Ranger
+
+![[miscImgs/Ranger.png]]
 
 **Core Ranger Traits**
 
@@ -4492,6 +4512,8 @@ When you take damage, you can take a Reaction to give yourself Resistance to tha
 
 ## Rogue
 
+![[miscImgs/Rogue.png]]
+
 **Core Rogue Traits**
 
 | Col 1 | Col 2 |
@@ -4920,6 +4942,8 @@ As a Bonus Action, you gain Advantage on the next Dexterity (Acrobatics) check o
 If you miss with an attack roll, you can roll it again with Advantage. Once you use this feature, you can't use it again until you finish a Short or Long Rest.
 
 ## Sorcerer
+
+![[miscImgs/Sorcerer.png]]
 
 **Core Sorcerer Traits**
 
@@ -5607,6 +5631,8 @@ When you're hit by a melee attack, you can take a Reaction to deal Lightning dam
 You have Immunity to Lightning and Thunder damage, and you have a magical Fly Speed of 60 feet. Once per Short or Long Rest, as an action, you can grant a Fly Speed of 30 feet for 1 hour to a number of creatures within 30 feet of yourself (which can include you) equal to 3 plus your Charisma modifier; while this benefit is in effect for others, your own Fly Speed drops to 30 feet for the same duration.
 
 ## Warlock
+
+![[miscImgs/Warlock.png]]
 
 **Core Warlock Traits**
 
@@ -6345,6 +6371,8 @@ When you use your Bottled Respite, you can bring up to five willing creatures wi
 As an action, you speak your desire to your vessel, duplicating the effect of any spell of level 6 or lower that has a casting time of an action, without needing that spell's components. Once you use this feature, you can't use it again until you finish 1d4 Long Rests.
 
 ## Wizard
+
+![[miscImgs/Wizard.png]]
 
 **Core Wizard Traits**
 

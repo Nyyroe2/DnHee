@@ -1,14 +1,14 @@
 ---
 publish: true
-type: race
-name: Halfling
-size: Small
-speed: 30 feet
+created: 2026-09-21T19:05:49.385Z
+modified: 2026-10-01T19:17:27.379Z
 tags:
   - race
 ---
 
 # Halfling
+
+![[miscImgs/Halfling.png]]
 
 Full traits: [[Character Origins#Halfling|Halfling (compendium)]]
 
@@ -20,7 +20,7 @@ Full traits: [[Character Origins#Halfling|Halfling (compendium)]]
 | Speed | 30 feet |
 | Traits | Brave (adv vs. Frightened), Halfling Nimbleness (move through larger creatures' spaces), Luck (reroll natural 1s), Naturally Stealthy (Hide behind a larger creature) |
 
-_Common in the Sword Coast's small towns and farmland — Phandalin likely has a few._
+_Common in the Sword Coast's small towns and farmland. Phandalin likely has a few._
 
 ## Known Party Members / NPCs
 

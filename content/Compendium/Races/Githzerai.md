@@ -1,16 +1,15 @@
 ---
 publish: true
-type: race
-name: Githzerai
-size: Medium
-speed: 30 feet
+created: 2026-09-21T19:05:49.269Z
+modified: 2026-10-01T19:13:05.309Z
 tags:
   - race
 ---
 
 # Githzerai
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022). Native to the plane of Limbo._
+![[miscImgs/Githzerai.png]]
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022). Native to the plane of Limbo._
 
 Full traits: [[Character Origins#Githzerai|Githzerai (compendium)]]
 

@@ -1,34 +1,37 @@
 ---
 publish: true
-created: 2026-09-21T09:42:48.000Z
-modified: 2026-09-30T18:02:59.700Z
+created: 2026-10-01T16:36:39.835Z
+modified: 2026-10-01T17:56:25.530Z
 tags:
   - index
 ---
 
 # Loot and Treasury
 
-The party's shared stockpile — physically held by Hilda. Add a row here once an item's disposition (from a session's [[templates/Other/Loot Tracker|Loot Tracker]] note) is settled as "Kept with Hilda - Group Storage."
+The party's shared stockpile, physically held by Hilda. Both tables below are computed live from every session's [[templates/Other/Loot Tracker|Loot Tracker]]
 
 ## Group Inventory
 
-| Item | Type | From Session |
-| --- | --- | --- |
-| | | |
+|Item7|Qty|Value (est.)|From Session|
+|---|---|---|---|
+|Silver and Bond Necklace|1|10 GP|[[Session Notes/Loot/Klarg's Loot - Session 3\|Klarg's Loot - Session 3]]|
+|Blackened Iron Key|1|Unknown|[[Session Notes/Loot/Klarg's Loot - Session 3\|Klarg's Loot - Session 3]]|
+|A pouch of gemstones|3|15 (5 each)|[[Session Notes/Loot/Klarg's Loot - Session 3\|Klarg's Loot - Session 3]]|
+|Javelins|3|Unknown|[[Session Notes/Loot/Klarg's Loot - Session 3\|Klarg's Loot - Session 3]]|
+|Silver Ring|1|15 gp|[[Session Notes/Loot/Klarg's Loot - Session 3\|Klarg's Loot - Session 3]]|
+|Child's Toy|1|Unknown|[[Session Notes/Loot/Klarg's Loot - Session 3\|Klarg's Loot - Session 3]]|
+|Klarg's Letter|1|Unknown|[[Session Notes/Loot/Klarg's Loot - Session 3\|Klarg's Loot - Session 3]]|
 
 ## Shared Party Funds
 
-| CP | SP | EP | GP | PP |
-| --- | --- | --- | --- | --- |
-| 0 | 0 | 0 | 0 | 0 |
+|CP1|SP|EP|GP|PP|
+|---|---|---|---|---|
+|0|0|0|20|0|
 
 ---
 
 ## Loot Logs (Reference)
 
-> [!info]- Why this is separate from the table above
-> The table above is this page's actual current contents, whereas the table below holds individual loot tables from different instances
-
-| File                                                         | Session | date               |
-| ------------------------------------------------------------ | ------- | ------------------ |
-| [[Session Notes/Loot/Loot - Session 3.md\|Loot - Session 3]] | 3       | September 30, 2026 |
+| File                                                                         | Session | date             |
+| ---------------------------------------------------------------------------- | ------- | ---------------- |
+| [[Session Notes/Loot/Klarg's Loot - Session 3.md\|Klarg's Loot - Session 3]] | 3       | October 01, 2026 |

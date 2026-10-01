@@ -1,16 +1,16 @@
 ---
 publish: true
-type: race
-name: Yuan-ti Pureblood
-size: Medium or Small
-speed: 30 feet
+created: 2026-09-21T19:05:49.887Z
+modified: 2026-10-01T19:33:53.781Z
 tags:
   - race
 ---
 
 # Yuan-ti Pureblood
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022); poison immunity reduced to resistance from the original printing._
+![[miscImgs/Yuan-ti Pureblood.png]]
+
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022); poison immunity reduced to resistance from the original printing._
 
 Full traits: [[Character Origins#Yuan-ti Pureblood|Yuan-ti Pureblood (compendium)]]
 

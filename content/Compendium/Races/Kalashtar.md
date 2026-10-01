@@ -1,14 +1,14 @@
 ---
 publish: true
-type: race
-name: Kalashtar
-size: Medium
-speed: 30 feet
+created: 2026-09-21T19:05:49.487Z
+modified: 2026-10-01T19:19:04.735Z
 tags:
   - race
 ---
 
 # Kalashtar
+
+![[miscImgs/Kalashtar.png]]
 
 Full traits: [[Character Origins#Kalashtar|Kalashtar (compendium)]]
 

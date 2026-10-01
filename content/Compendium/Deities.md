@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-30T18:03:45.136Z
-modified: 2026-09-30T18:27:24.557Z
+created: 2026-10-01T13:54:47.448Z
+modified: 2026-10-01T17:40:51.804Z
 tags:
   - reference
   - pantheon
@@ -10,7 +10,7 @@ tags:
 # Deities
 
 > [!info]- About this page
-> Alignment, domain, and symbol here are checked against real 2024 rules content rather than reconstructed from memory. See [[The Faerûnian Pantheon]] for the full browsable index including minor deities not detailed on this page.
+> Information is summarized based on the 2024 rules . See [[The Faerûnian Pantheon]] for a full browsable index including minor deities not detailed on this page.
 
 ## Lathander, The Morninglord
 
@@ -21,19 +21,19 @@ tags:
 | Symbol | Rising sun, usually rendered in gold and red, with rose and violet as associated colors |
 | Portfolio | Dawn, birth, renewal, self-perfection |
 
-God of dawn, birth, renewal, and self-perfection. Clergy are typically called Dawnbringers once ordained. The mace — traditionally called the Dawnspeaker in older lore — is his favored weapon, which is why it's standard-issue for Lathanderite clergy.
+God of dawn, birth, renewal, and self-perfection. Clergy are typically called Dawnbringers once ordained. The mace (traditionally called the Dawnspeaker in older lore) is his favored weapon, which is why it's standard-issue for Lathanderite clergy.
 
 ### Faith and Beliefs
 
-Dawn as a daily proof that ruin is never final. Devotees are encouraged toward action over contemplation — missionary work, charity, and plain kindness are treated as valid expressions of devotion, on equal footing with miracle-working. The faith holds a particular antipathy toward necromancy and undeath, seeing the perversion of death and decay as the direct inverse of everything dawn represents.
+Dawn as a daily proof that ruin is never final. Devotees are encouraged toward action over contemplation; missionary work, charity, and plain kindness are treated as valid expressions of devotion, on equal footing with miracle-working. The faith holds a particular antipathy toward necromancy and undeath, seeing the perversion of death and decay as the direct inverse of everything dawn represents.
 
 ### Relationships
 
-Generally on good terms with other benevolent faiths. Lathander's most significant documented rival is [[Deities#Shar|Shar]], goddess of darkness, loss, and secrets — the literal narrative opposite of dawn.
+Generally on good terms with other benevolent faiths. Lathander's most significant documented rival is [[Deities#Shar|Shar]], goddess of darkness, loss, and secrets, the literal narrative opposite of dawn.
 
 ### See Also
 
-[[Church of Lathander]] — the specific temple and clergy this campaign's cleric belongs to.
+[[Church of Lathander]]: the specific temple and clergy Hilda belongs to.
 
 ---
 
@@ -543,11 +543,11 @@ Close kinship with Silvanus; natural opposition to anything that would clear-cut
 | Symbol | A white jawless skull on a black or purple sunburst |
 | Portfolio | Murder, lies, intrigue, illusion |
 
-God of murder, lies, and strife — one of the youngest deities in the pantheon, having clawed his way to godhood during the Time of Troubles by killing three older gods outright (Bhaal, Bane, and Myrkul). Widely regarded as the most dangerous and least stable deity in the Realms.
+God of murder, lies, and strife, one of the youngest deities in the pantheon, having clawed his way to godhood during the Time of Troubles by killing three older gods outright (Bhaal, Bane, and Myrkul). Widely regarded as the most dangerous and least stable deity in the Realms.
 
 ### Profile
 
-Cyric's church is a font of paranoia by design — he demands his clergy compete viciously for his favor, and rewards betrayal of rivals within his own faith as readily as betrayal of outsiders. Assassins, liars, and the ambitious gravitate toward him.
+Cyric's church is a font of paranoia by design: he demands his clergy compete viciously for his favor, and rewards betrayal of rivals within his own faith as readily as betrayal of outsiders. Assassins, liars, and the ambitious gravitate toward him.
 
 ### Faith and Beliefs
 
@@ -572,7 +572,7 @@ Despises nearly everyone, but reserves special hatred for **Mystra** (whose port
 | Symbol | A dragon's head in profile, or a platinum dragon |
 | Portfolio | Good dragons, justice, protection, nobility |
 
-Father of good dragons and a patron of justice and nobility more broadly — worshipped by good-aligned dragonborn and metallic dragons across the multiverse, not exclusively tied to Faerûn the way most of this pantheon is.
+Father of good dragons and a patron of justice and nobility more broadly, worshipped by good-aligned dragonborn and metallic dragons across the multiverse, not exclusively tied to Faerûn the way most of this pantheon is.
 
 ### Profile
 
@@ -584,11 +584,11 @@ Strength exists to protect the weak, not dominate them. Justice should be temper
 
 ### Relationships
 
-Eternal enemy of **Tiamat**, his five-headed opposite — their rivalry predates the current cosmology and is treated as a near-metaphysical constant.
+Eternal enemy of **Tiamat**, his five-headed opposite; their rivalry predates the current cosmology and is treated as a near-metaphysical constant.
 
 ### Notes
 
-Relevant to this table given Dragonborn is a playable species — a Bahamut-worshipping dragonborn PC or NPC would be an unremarkable, even expected, choice.
+Relevant to this table given Dragonborn is a playable species: a Bahamut-worshipping dragonborn PC or NPC would be an unremarkable, even expected, choice.
 
 ---
 
@@ -603,7 +603,7 @@ Relevant to this table given Dragonborn is a playable species — a Bahamut-wors
 | Symbol | A dragon's claw clutching five gems, one of each chromatic color |
 | Portfolio | Evil dragons, greed, envy, wealth, vengeance |
 
-Mother of evil dragons and a genuine cosmic power in her own right — currently imprisoned in the Nine Hells as part of a long-standing debt to Asmodeus, which does nothing to diminish how seriously her cults are taken.
+Mother of evil dragons and a genuine cosmic power in her own right, currently imprisoned in the Nine Hells as part of a long-standing debt to Asmodeus, which does nothing to diminish how seriously her cults are taken.
 
 ### Profile
 
@@ -611,7 +611,7 @@ Her cults are typically secretive and cell-based rather than public temples, oft
 
 ### Faith and Beliefs
 
-Greed is not a vice but a virtue — what you can take and hold is rightfully yours. Envy of what others have is simply correct appraisal.
+Greed is not a vice but a virtue; what you can take and hold is rightfully yours. Envy of what others have is simply correct appraisal.
 
 ### Relationships
 
@@ -632,7 +632,7 @@ Eternal enemy of **Bahamut**. Maintains a wary, transactional relationship with 
 | Symbol | Three lightning bolts radiating from a central point |
 | Portfolio | Storms, destruction, natural disasters, rebellion against order |
 
-God of storms and destruction, worshipped less out of devotion than out of fear — coastal and mountain communities exposed to his wrath often maintain small shrines purely to be left alone.
+God of storms and destruction, worshipped less out of devotion than out of fear. Coastal and mountain communities exposed to his wrath often maintain small shrines purely to be left alone.
 
 ### Profile
 
@@ -640,7 +640,7 @@ Talos has almost no organized clergy in the conventional sense; worship tends to
 
 ### Faith and Beliefs
 
-Destruction is generative, not merely negative — the storm that levels the old village clears ground for something new, whether or not that's cold comfort to the villagers.
+Destruction is generative, not merely negative; the storm that levels the old village clears ground for something new, whether or not that's cold comfort to the villagers.
 
 ### Relationships
 
@@ -661,7 +661,7 @@ Loosely allied with the other members of the so-called Dark Three (**Bane**, **M
 | Symbol | A white snowflake, or a six-pointed snowflake |
 | Portfolio | Winter, cold, ice, frost |
 
-Goddess of winter's cruelty — not the changing of the seasons in the abstract, but the specific, personal malice of a blizzard that catches travelers exposed. Especially relevant to any Icewind Dale-adjacent or far-northern content.
+Goddess of winter's cruelty: not the changing of the seasons in the abstract, but the specific, personal malice of a blizzard that catches travelers exposed. Especially relevant to any Icewind Dale-adjacent or far-northern content.
 
 ### Profile
 
@@ -673,7 +673,7 @@ Winter is not a season to endure but a force to be respected as an equal, even s
 
 ### Relationships
 
-Natural antagonist to any deity of warmth, growth, or civilization's comfort — **Chauntea** and **Sune** most directly.
+Natural antagonist to any deity of warmth, growth, or civilization's comfort; **Chauntea** and **Sune** most directly.
 
 ### Notes
 
@@ -686,19 +686,19 @@ Natural antagonist to any deity of warmth, growth, or civilization's comfort —
 | Stat | Value |
 | --- | --- |
 | Alignment | Lawful Neutral |
-| Domain(s) | Death, Grave |
+| Domain(s) | Death, [[Classes#Cleric Subclass: Grave Domain\|Grave]] |
 | Symbol | A vertical skeletal arm holding a set of balance scales |
 | Portfolio | Death, the dead, judgment of souls |
 
-God of death and judge of the dead — ruler of the Fugue Plane, where mortal souls go to be sorted according to their faith (or lack of it) in life. Rose to godhood during the Time of Troubles, taking the death portfolio from the murdered Myrkul.
+God of death and judge of the dead, ruler of the Fugue Plane, where mortal souls go to be sorted according to their faith (or lack of it) in life. Rose to godhood during the Time of Troubles, taking the death portfolio from the murdered Myrkul.
 
 ### Profile
 
-Kelemvor's faith is one of the more universally tolerated in the Realms — nearly everyone dies, and few begrudge the god whose entire function is making sure that process is orderly and fair rather than left to chance or corruption.
+Kelemvor's faith is one of the more universally tolerated in the Realms: nearly everyone dies, and few begrudge the god whose entire function is making sure that process is orderly and fair rather than left to chance or corruption.
 
 ### Faith and Beliefs
 
-Death is not evil, only natural and inevitable; what matters is whether it comes justly and whether the dead are shown proper respect afterward. Undeath is an abomination — a mockery of the order he was raised up specifically to enforce.
+Death is not evil, only natural and inevitable; what matters is whether it comes justly and whether the dead are shown proper respect afterward. Undeath is an abomination, a mockery of the order he was raised up specifically to enforce.
 
 ### Relationships
 
@@ -719,11 +719,11 @@ Bitter enemy of **Cyric**, who wanted the death portfolio for himself and has ne
 | Symbol | A toothed cog with four spokes |
 | Portfolio | Craft, invention, smithwork, engineering |
 
-God of craft and invention — patron of smiths, engineers, and tinkerers, with a reputation for favoring bold (occasionally reckless) experimentation over cautious, proven technique.
+God of craft and invention, patron of smiths, engineers, and tinkerers, with a reputation for favoring bold (occasionally reckless) experimentation over cautious, proven technique.
 
 ### Profile
 
-The Church of Gond runs more like a guild than a conventional temple — workshops attached to shrines, apprenticeships treated as a form of religious service, and "Gondsmen" who travel selling inventions as much as preaching.
+The Church of Gond runs more like a guild than a conventional temple: workshops attached to shrines, apprenticeships treated as a form of religious service, and "Gondsmen" who travel selling inventions as much as preaching.
 
 ### Faith and Beliefs
 
@@ -748,11 +748,11 @@ Friendly rivalry with **Oghma** over whether raw knowledge or its practical appl
 | Symbol | A black mask |
 | Portfolio | Thieves, thievery, shadows, intrigue |
 
-Patron god of thieves and those who operate in shadow — less interested in grand cosmic evil than in the practical business of taking what isn't freely given.
+Patron god of thieves and those who operate in shadow, less interested in grand cosmic evil than in the practical business of taking what isn't freely given.
 
 ### Profile
 
-Worship is almost entirely clandestine — hidden shrines in thieves' guild halls, private rites rather than public temples. Most cities' criminal underworlds have at least a token nod to Mask somewhere in their operation.
+Worship is almost entirely clandestine: hidden shrines in thieves' guild halls, private rites rather than public temples. Most cities' criminal underworlds have at least a token nod to Mask somewhere in their operation.
 
 ### Faith and Beliefs
 
@@ -777,7 +777,7 @@ Old and complicated rivalry with **Cyric**, who briefly absorbed Mask's portfoli
 | Symbol | A black mask with two crossed swords |
 | Portfolio | Drow males, thievery, treachery, surface raiding |
 
-God of drow males specifically — a direct reaction against **Lolth**'s matriarchal Underdark order, championing drow who'd rather raid and reclaim the surface than serve the Spider Queen's priestesses.
+God of drow males specifically, a direct reaction against **Lolth**'s matriarchal Underdark order, championing drow who'd rather raid and reclaim the surface than serve the Spider Queen's priestesses.
 
 ### Profile
 
@@ -808,11 +808,11 @@ Relevant given several playable species in this compendium (Duergar, Deep Gnome)
 | Symbol | A sword-wielding, dancing drow female silhouetted against a full moon |
 | Portfolio | Good-aligned drow, dance, song, moonlight, redemption |
 
-Goddess of good-aligned drow — offers a path of redemption for drow who reject Lolth's cruelty, encouraging them to reclaim the surface world through music, dance, and swordplay rather than raiding or conquest.
+Goddess of good-aligned drow, offering a path of redemption for drow who reject Lolth's cruelty, encouraging them to reclaim the surface world through music, dance, and swordplay rather than raiding or conquest.
 
 ### Profile
 
-Her worship exists almost entirely in secret, scattered surface shrines and hidden Underdark groves — actively hunted by Lolth's church wherever discovered, making a drow who follows her a marked individual by definition.
+Her worship exists almost entirely in secret, scattered surface shrines and hidden Underdark groves, actively hunted by Lolth's church wherever discovered, making a drow who follows her a marked individual by definition.
 
 ### Faith and Beliefs
 
@@ -820,7 +820,7 @@ Redemption is always possible, even for a people as thoroughly associated with e
 
 ### Relationships
 
-Direct opposite of **Lolth**, and the deity her church most actively works to undermine. Sympathetic but distant relationship with **Vhaeraun**'s followers — shared enemy, incompatible methods.
+Direct opposite of **Lolth**, and the deity her church most actively works to undermine. Sympathetic but distant relationship with **Vhaeraun**'s followers: shared enemy, incompatible methods.
 
 ### Notes
 
@@ -837,15 +837,15 @@ Direct opposite of **Lolth**, and the deity her church most actively works to un
 | Symbol | A black spider, sometimes with a female drow head |
 | Portfolio | Drow, spiders, chaos, evil, assassins |
 
-The dominant goddess of the drow — a demon lord elevated to full godhood, whose matriarchal priesthood effectively rules most Underdark drow society. Treats her own faithful as expendable pieces in a game only she fully understands.
+The dominant goddess of the drow, a demon lord elevated to full godhood, whose matriarchal priesthood effectively rules most Underdark drow society. Treats her own faithful as expendable pieces in a game only she fully understands.
 
 ### Profile
 
-Her church is the drow ruling class in most Underdark cities — matron mothers and high priestesses hold both religious and civil authority simultaneously, and advancement within the church is explicitly encouraged to happen through betrayal and assassination of rivals.
+Her church is the drow ruling class in most Underdark cities: matron mothers and high priestesses hold both religious and civil authority simultaneously, and advancement within the church is explicitly encouraged to happen through betrayal and assassination of rivals.
 
 ### Faith and Beliefs
 
-Chaos and betrayal are not flaws in the order of things but the order of things — loyalty is a tool for the weak to extract from others, never one to extend upward.
+Chaos and betrayal are not flaws in the order of things but the order of things; loyalty is a tool for the weak to extract from others, never one to extend upward.
 
 ### Relationships
 

@@ -1,30 +1,13 @@
 ---
 publish: true
-type: pc
-player: Liam
-character-name: Mophlin Grimsbourne
 aliases:
   - Mophlin Grimsbourne
   - Mophlin
   - little gnome weasel
-race: Gnome
-class: Barbarian
-subclass:
-multiclass: Paladin
-status: Alive
-background: Unknown
-alignment: Unknown
-faith: Unknown
-pronouns: He/Him
-languages: []
-npcimage:
-related-npcs: []
+created: 2026-10-01T17:54:29.427Z
+modified: 2026-10-01T17:54:29.428Z
 tags:
   - pc
-friend:
-  - "[[Player Characters/Hilda/Hilda Trueshield]]"
-tagline: Small enough to underestimate. Enemies rarely get the chance to reconsider.
-epithet: The Wordless Berserker
 ---
 
 ![[Player Characters/Mophlin/Reference Images/Pasted image 20260823204245.png|201]]
@@ -51,8 +34,6 @@ An endearing goblin who is only able to babble incoherently. He seems friendly i
 
 Unknown - Though he seems reluctant to share his name easily.
 
-## Known For
-
 ## NPC Relationships
 
 **[[Wolves (Freed Pack)|The freed wolves]]**: Freed three wolves chained near the [[Monsters Library#Goblins|goblin]] captor's abuse in the cave, and destroyed the whip used on them. They fought alongside the party afterward until one of them was killed off in the final goblin fight in [[Session Notes/Session 3|Session 3]].  The two remaining wolves continue to fight by his side.
@@ -71,7 +52,7 @@ Unknown - Though he seems reluctant to share his name easily.
 > | Stat | Value |
 > | --- | --- |
 > | Class & Level | Barbarian / Paladin |
-> | Key Abilities / Features | |
+> | Key Abilities / Features | Darkvision |
 > | Notable Items | |
 > | Languages | ? |
 

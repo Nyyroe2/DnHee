@@ -1,16 +1,16 @@
 ---
 publish: true
-type: race
-name: Eladrin
-size: Medium
-speed: 30 feet
+created: 2026-09-21T19:05:49.131Z
+modified: 2026-10-01T19:08:37.166Z
 tags:
   - race
 ---
 
 # Eladrin
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022). A Feywild-touched offshoot of the Elf people; considered an elf for any elf prerequisite._
+![[miscImgs/Eladrin.png]]
+
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022). A Feywild-touched offshoot of the Elf people; considered an elf for any elf prerequisite._
 
 Full traits: [[Character Origins#Eladrin|Eladrin (compendium)]]
 

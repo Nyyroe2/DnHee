@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-21T12:12:42.741Z
-modified: 2026-09-30T18:00:20.496Z
+modified: 2026-10-01T17:49:17.883Z
 tags:
   - index
 ---
@@ -9,7 +9,7 @@ tags:
 # Groups Index
 
 > [!info]- How this page works
-> Pulled live from group's own properties. See [[Faction Reputation]] for a standing-sorted view across every group regardless of type.
+> Pulled from group's properties. See [[Faction Reputation]] for a standing-sorted view across every group regardless of type.
 
 ## Criminal
 
@@ -23,14 +23,14 @@ tags:
 
 ## Commerce
 
-| File                                                                 | Alignment | Standing |
-| -------------------------------------------------------------------- | --------- | -------- |
-| [[Groups/The Chronicles of Greyhawk.md\|The Chronicles of Greyhawk]] | Unaligned | Neutral  |
+| File | Alignment | Standing |
+| ---- | --------- | -------- |
 
 ## Government
 
-| File | Alignment | Standing |
-| ---- | --------- | -------- |
+| File                                         | Alignment      | Standing |
+| -------------------------------------------- | -------------- | -------- |
+| [[Groups/Lords Alliance.md\|Lords Alliance]] | Lawful Neutral | Friendly |
 
 ## Military
 

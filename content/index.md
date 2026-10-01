@@ -1,15 +1,15 @@
 ---
 publish: true
 title: Welcome
-created: 2026-09-30T21:34:50.446Z
-modified: 2026-09-30T22:34:34.950Z
+created: 2026-10-01T16:55:24.274Z
+modified: 2026-10-01T17:18:39.659Z
 tags:
   - index
 ---
 
 # Dungeons & Piggles
 
-A Forgotten Realms campaign following four scrubs — [[Player Characters/Hilda/Hilda Trueshield|Hilda]], [[Player Characters/Alvar/Alvar Mistwater|Alvar]], [[Player Characters/Mophlin/Mophlin Grimsbourne|Mophlin]], and [[Player Characters/Willow/Willow|Willow]] — thrown together on a wagon to Phandalin and the trouble that's followed them since.
+A Forgotten Realms campaign following four scrubs: [[Player Characters/Hilda/Hilda Trueshield|Hilda]], [[Player Characters/Alvar/Alvar Mistwater|Alvar]], [[Player Characters/Mophlin/Mophlin Grimsbourne|Mophlin]], and [[Player Characters/Willow/Willow|Willow]], thrown together on a wagon to Phandalin and the trouble that's followed them since.
 
 ## Start Here
 
@@ -26,10 +26,10 @@ A Forgotten Realms campaign following four scrubs — [[Player Characters/Hilda/
 
 ## Rules Reference
 
-- [[Compendium/Species Index|Species Index]] : every playable race, including whoever's currently in the party.
+- [[Compendium/Species Index|Species Index]]: every playable race, including whoever's currently in the party.
 - [[Compendium/Class Index|Class Index]]: classes and subclasses in play.
 - [[Compendium/Deities|Deities]]: the Faerûnian pantheon as it matters to this table.
 
 ---
 
-_This site updates as the campaign continues — check back after each session._
+_This site updates as the campaign continues. Check back after each session._

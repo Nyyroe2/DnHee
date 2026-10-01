@@ -1,16 +1,16 @@
 ---
 publish: true
-type: race
-name: Tabaxi
-size: Medium or Small
-speed: 30 feet (Climb 30 feet)
+created: 2026-09-21T19:05:49.680Z
+modified: 2026-10-01T19:27:18.203Z
 tags:
   - race
 ---
 
 # Tabaxi
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022)._
+![[miscImgs/Tabaxi.png]]
+
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022)._
 
 Full traits: [[Character Origins#Tabaxi|Tabaxi (compendium)]]
 

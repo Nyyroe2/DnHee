@@ -1,16 +1,15 @@
 ---
 publish: true
-type: race
-name: Aarakocra
-size: Medium
-speed: 30 feet (Fly Speed equal to Speed)
+created: 2026-09-21T19:05:48.880Z
+modified: 2026-10-01T18:59:09.701Z
 tags:
   - race
 ---
 
 # Aarakocra
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022)._
+![[miscImgs/Aarakocra1.png]]
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022)._
 
 Full traits: [[Character Origins#Aarakocra|Aarakocra (compendium)]]
 

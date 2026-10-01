@@ -1,13 +1,14 @@
 ---
 publish: true
-type: reference
+created: 2026-09-20T00:03:08.403Z
+modified: 2026-10-01T17:41:38.797Z
 tags:
   - reference
 ---
 
 # Equipment Index
 
-Navigation into `Compendium/Equipment.md` — the actual tables and rules already live there in full.
+Navigation into `Compendium/Equipment.md`. The actual tables and rules already live there in full.
 
 | Section | Link |
 | --- | --- |
@@ -21,7 +22,5 @@ Navigation into `Compendium/Equipment.md` — the actual tables and rules alread
 | Food, Drink, and Lodging | [[Equipment#Food, Drink, and Lodging\|Food, Drink, and Lodging]] |
 | Hirelings | [[Equipment#Hirelings\|Hirelings]] |
 | Magic Items | [[Equipment#Magic Items\|Magic Items]] |
-
-Individual items (a mace, a bedroll, a torch) are rows within these tables rather than separately linkable — this index gets you to the right table, not the exact row.
 
 For every named magic item (core and expansion alike), see [[Magic Item Index]] instead, which links straight to each item's full write-up in `Compendium/Magic Items.md`.

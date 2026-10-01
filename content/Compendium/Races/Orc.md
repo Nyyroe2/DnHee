@@ -1,14 +1,14 @@
 ---
 publish: true
-type: race
-name: Orc
-size: Medium
-speed: 30 feet
+created: 2026-09-21T19:05:49.614Z
+modified: 2026-10-01T19:24:51.276Z
 tags:
   - race
 ---
 
 # Orc
+
+![[miscImgs/Orc.png]]
 
 Full traits: [[Character Origins#Orc|Orc (compendium)]]
 

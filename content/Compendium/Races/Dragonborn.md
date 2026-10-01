@@ -1,14 +1,14 @@
 ---
 publish: true
-type: race
-name: Dragonborn
-size: Medium
-speed: 30 feet
+created: 2026-09-21T19:05:49.058Z
+modified: 2026-10-01T19:05:51.630Z
 tags:
   - race
 ---
 
 # Dragonborn
+
+![[miscImgs/Dragonborn.png]]
 
 Full traits: [[Character Origins#Dragonborn|Dragonborn (compendium)]]
 

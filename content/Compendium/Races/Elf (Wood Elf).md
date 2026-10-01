@@ -1,16 +1,15 @@
 ---
 publish: true
-type: race
-name: Elf (Wood Elf)
-size: Medium
-speed: 35 feet
+created: 2026-09-21T19:05:58.533Z
+modified: 2026-10-01T19:10:20.387Z
 tags:
   - race
 ---
 
 # Elf (Wood Elf)
 
-Full traits: [[Character Origins#Elf|Elf (compendium)]] — Wood Elf is one of three Elven Lineages listed there (alongside Drow and High Elf).
+![[miscImgs/Wood Elf.png]]
+Full traits: [[Character Origins#Elf|Elf (compendium)]]. Wood Elf is one of three Elven Lineages listed there (alongside Drow and High Elf).
 
 ## Quick Reference
 
@@ -32,4 +31,4 @@ _Auto-populates from anyone whose `race` field matches this page._
 
 ## Notes
 
-Worth knowing: the Wood Elf's innate Druidcraft cantrip pairs naturally with [[Willow|Willow]] already being a Druid — not a coincidence most players make, but a genuinely synergistic pick.
+Worth knowing: the Wood Elf's innate Druidcraft cantrip pairs naturally with [[Willow|Willow]] already being a Druid. Not a coincidence most players make, but a genuinely synergistic pick.

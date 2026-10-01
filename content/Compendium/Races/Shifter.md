@@ -1,18 +1,20 @@
 ---
 publish: true
-type: race
-name: Shifter
-size: Medium
-speed: 30 feet
+created: 2026-10-01T17:48:23.184Z
+modified: 2026-10-01T19:25:35.150Z
 tags:
   - race
 ---
 
 # Shifter
 
-_Expansion species — Eberron: Rising from the Last War (2019)._
+![[miscImgs/Shifter.png]]
+
+_Expansion species: Eberron: Rising from the Last War (2019)._
 
 Full traits: [[Character Origins#Shifter|Shifter (compendium)]]
+
+This is the base Shifter entry. Use it for any shifter whose specific subrace doesn't matter or isn't yet known. Each subrace has its own page with subrace-specific traits: [[Compendium/Races/Beasthide Shifter|Beasthide]], [[Compendium/Races/Longtooth Shifter|Longtooth]], [[Compendium/Races/Swiftstride Shifter|Swiftstride]], [[Compendium/Races/Wildhunt Shifter|Wildhunt]].
 
 ## Quick Reference
 

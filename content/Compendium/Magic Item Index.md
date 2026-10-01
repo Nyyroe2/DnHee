@@ -1,13 +1,14 @@
 ---
 publish: true
-type: reference
+created: 2026-09-20T00:03:02.430Z
+modified: 2026-10-01T17:41:50.728Z
 tags:
   - reference
 ---
 
 # Magic Item Index
 
-Every magic item in the compendium, alphabetically, linking directly to its full rules text. This is the browsable front door to `Compendium/Magic Items.md` — the descriptions themselves already exist there in full; this page just makes them findable rather than needing to scroll a 390+-entry file. Includes both the core magic items and expansion items from Xanathar's Guide to Everything, Tasha's Cauldron of Everything, Mordenkainen's Tome of Foes, Eberron: Rising from the Last War, and Fizban's Treasury of Dragons (each tagged with its sourcebook in the compendium entry itself). For the mundane equipment tables (weapons, armor, tools, gear), see [[Equipment Index]] instead.
+Every magic item in the compendium, alphabetically, linking directly to its full rules text. This is the browsable front door to `Compendium/Magic Items.md`. The descriptions themselves already exist there in full; this page just makes them findable rather than needing to scroll a 390+-entry file. Includes both the core magic items and expansion items from Xanathar's Guide to Everything, Tasha's Cauldron of Everything, Mordenkainen's Tome of Foes, Eberron: Rising from the Last War, and Fizban's Treasury of Dragons (each tagged with its sourcebook in the compendium entry itself). For the mundane equipment tables (weapons, armor, tools, gear), see [[Equipment Index]] instead.
 
 ## A
 

@@ -1,14 +1,10 @@
 ---
 publish: true
-type: index
+created: 2026-09-21T12:12:13.011Z
+modified: 2026-10-01T17:53:30.754Z
 tags:
   - index
 ---
-
-# Locations Index
-
-> [!info]- How this page works
-> Pulled live from each location's own properties, grouped by subtype. Update a location's own page to change what shows here.
 
 ## Cities
 
@@ -27,9 +23,9 @@ tags:
 
 ## Temples
 
-| File                                                        | deity  | City | clergy |
-| ----------------------------------------------------------- | ------ | ---- | ------ |
-| [[Locations/Phandalin/Shrine - Tymora.md\|Shrine - Tymora]] | Tymora | -   | -     |
+| File                                                        | deity                                              | City                                                     | clergy |
+| ----------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------ |
+| [[Locations/Phandalin/Shrine - Tymora.md\|Shrine - Tymora]] | [[Compendium/Deities.md#Tymora Lady Luck\|Tymora]] | [[Locations/Phandalin/Phandalin Overview.md\|Phandalin]] | -     |
 
 ## Residences
 
@@ -39,6 +35,7 @@ tags:
 
 ## Points of Interest
 
-| File                                                              | Type | Danger    |
-| ----------------------------------------------------------------- | ---- | --------- |
-| [[Locations/Phandalin/The Goblin Hideout.md\|The Goblin Hideout]] | lair | dangerous |
+| File                                                              | Type           | Danger    |
+| ----------------------------------------------------------------- | -------------- | --------- |
+| [[Locations/Phandalin/Wave Echo Cave.md\|Wave Echo Cave]]         | Legendary Site | Unknown   |
+| [[Locations/Phandalin/The Goblin Hideout.md\|The Goblin Hideout]] | lair           | dangerous |

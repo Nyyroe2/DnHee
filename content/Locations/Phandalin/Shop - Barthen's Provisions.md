@@ -14,7 +14,7 @@ tags:
 
 ### Barthen's Provisions
 
-![[miscImgs/Pasted image 20260829114349.png]]
+![[miscImgs/Barthen's Provisions.png]]
 
 ## Summary
 
@@ -26,7 +26,7 @@ tags:
 
 ## First Impressions
 
-A practical general store rather than anywhere fancy — the kind of shop a town actually needs, run by a shopkeeper who comes across as kind rather than shrewd.
+A practical general store rather than anywhere fancy, the kind of shop a town actually needs, run by a shopkeeper who comes across as kind rather than shrewd.
 
 ## Description
 

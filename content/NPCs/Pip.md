@@ -1,30 +1,9 @@
 ---
 publish: true
-type: npc
-name: Pip
-aliases: []
-race: Human
-compendium-ref:
-role: Child
-faction:
-religion:
-residence: "[[Phandalin Overview|Phandalin]]"
-epithet: The Inn Boy
-tagline: Knew exactly whose ear to bend about goblin trouble.
-location-met: "[[Locations/Phandalin/Inn - Stonehill Inn|Stonehill Inn]]"
-first-met-session: 1
-status: Alive
-trust: Friendly
-npcimage:
-related-quests:
-  - "[[Session Notes/Quests/Goblin Infestation|Goblin Infestation]]"
-related-pcs:
-  - "[[Player Characters/Alvar/Alvar Mistwater|Alvar]]"
+created: 2026-09-21T19:06:11.062Z
+modified: 2026-10-01T18:16:22.620Z
 tags:
   - npc
-friend:
-  - "[[Carp]]"
-  - "[[Player Characters/Alvar/Alvar Mistwater|Alvar]]"
 ---
 
 # Pip
@@ -41,7 +20,7 @@ Not yet described.
 
 ## Personality & Demeanor
 
-Talkative and observant — the kind of kid who notices things adults miss and isn't shy about sharing them.
+Talkative and observant, the kind of kid who notices things adults miss and isn't shy about sharing them.
 
 ## First Encounter
 
@@ -53,17 +32,8 @@ A small child the party encountered in [[Inn - Stonehill Inn|Stonehill Inn]] who
 
 ## Relationships
 
-**[[Player Characters/Alvar/Alvar Mistwater|Alvar]]** — Told him directly about Carp's tunnel.
-**[[Carp]]** — Friends; the actual source of the tip.
-
-## Active Quests
-
-> [!info]- How this section works
-> Reads live from every quest's own `related-npcs` property — link this NPC on the quest page, and it shows up here automatically as long as the quest's `status` is Active.
-
-| File                                                               | Status |
-| ------------------------------------------------------------------ | ------ |
-| [[Session Notes/Quests/Goblin Infestation.md\|Goblin Infestation]] | Active |
+**[[Player Characters/Alvar/Alvar Mistwater|Alvar]]**: Told him directly about Carp's tunnel.
+**[[Carp]]**: Friends; the source of the tip.
 
 ## Trivia
 
@@ -78,4 +48,4 @@ A small child the party encountered in [[Inn - Stonehill Inn|Stonehill Inn]] who
 > | Religion | |
 > | Residence | [[Phandalin Overview|Phandalin]] |
 > | Location Met | [[Locations/Phandalin/Inn - Stonehill Inn|Stonehill Inn]] |
-> | Compendium Entry | — (ordinary human, no monster stat block) |
+> | Compendium Entry | None (ordinary human, no monster stat block) |

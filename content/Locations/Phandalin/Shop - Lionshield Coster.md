@@ -1,18 +1,13 @@
 ---
 publish: true
-type: location
-location-type: shop
-name: Lionshield Coster
-aliases: []
-shop-type: Blacksmith/Weaponsmith
-located-in: "[[Phandalin Overview|Phandalin]]"
-owner: "[[Linene Graywind]]"
+created: 2026-09-29T22:14:42.765Z
+modified: 2026-10-01T18:56:33.870Z
 tags:
   - location
   - location/shop
 ---
 
-![[miscImgs/Pasted image 20260829135951.png]]
+![[miscImgs/Lionshield Coster.png]]
 
 > [!Quote] **Linene Graywind, Proprietor**
 > “Quality goods, Fair prices...”
@@ -27,7 +22,7 @@ tags:
 
 ## First Impressions
 
-A well-kept shop with a no-nonsense, businesslike air — the kind of place that posts firm rules on the wall (no credit, no sales to known criminals) rather than relying on charm. Clean, organized, and clearly run by someone who takes the trade seriously.
+A well-kept shop with a no-nonsense, businesslike air, the kind of place that posts firm rules on the wall (no credit, no sales to known criminals) rather than relying on charm. Clean, organized, and clearly run by someone who takes the trade seriously.
 
 ## Inventory
 
@@ -107,7 +102,7 @@ A well-kept shop with a no-nonsense, businesslike air — the kind of place that
 
 ### Shields
 
-**Shield — 10 gp**
+**Shield: 10 gp**
 
 Some heavier and more expensive armour may need to be ordered in advance.
 
@@ -146,22 +141,23 @@ Some heavier and more expensive armour may need to be ordered in advance.
 
 ## LIONSHIELD SPECIALS
 
-**Recently Arrived — Limited Stock**
+**Recently Arrived: Limited Stock**
 
-> **“These don't come through Phandalin every day.”**\
-> — Linene
+> **“These don't come through Phandalin every day.”**
+>
+> - Linene
 
-**Fine Hunting Bow — 60 gp**\
+**Fine Hunting Bow: 60 gp**\
 A beautifully made longbow, slightly more expensive than the common variety.
 
-**Reinforced Leather Armour — 15 gp**\
+**Reinforced Leather Armour: 15 gp**\
 Sturdy leather armour designed for travellers and hunters.
 
-**Decorated Dagger — 5 gp**\
+**Decorated Dagger: 5 gp**\
 A perfectly serviceable dagger with an ornate hilt.\
 _Mostly decorative. Still sharp._
 
-**Heavy Traveller's Cloak — 1 gp**\
+**Heavy Traveller's Cloak: 1 gp**\
 Water-resistant and lined for cold nights on the road.
 
 ## What's Happened Here

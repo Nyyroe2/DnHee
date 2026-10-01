@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-29T22:14:28.815Z
-modified: 2026-09-30T18:18:53.747Z
+modified: 2026-10-01T18:04:25.275Z
 tags:
   - location
   - location/city
@@ -9,16 +9,16 @@ tags:
 
 ### Phandalin City Skyline
 
-![[miscImgs/Pasted image 20260823040806.png]]
+![[miscImgs/Phandalin.png]]
 
 ## Summary
 
-| Stat            | Value                                                                                                                                                                            |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Region          |                                                                                                                                                                                  |
-| Population      |                                                                                                                                                                                  |
+| Stat            | Value                    |
+| --------------- | ------------------------ |
+| Region          |                          |
+| Population      |                          |
 | Government Type | Self-Governed/Small Town |
-| Danger Level    | Uneasy |
+| Danger Level    | Uneasy                   |
 
 ## Overview
 
@@ -34,8 +34,9 @@ A small but respectable town with a few various shops, inns, and various other f
 
 ## Notable Temples
 
-| File | deity | clergy |
-| ---- | ----- | ------ |
+| File                                                        | deity                                              | clergy |
+| ----------------------------------------------------------- | -------------------------------------------------- | ------ |
+| [[Locations/Phandalin/Shrine - Tymora.md\|Shrine - Tymora]] | [[Compendium/Deities.md#Tymora Lady Luck\|Tymora]] | -     |
 
 ## Notable Residences
 

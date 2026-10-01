@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-30T18:07:03.400Z
-modified: 2026-09-30T18:07:03.400Z
+modified: 2026-10-01T14:51:06.819Z
 tags:
   - character
   - inventory
@@ -18,9 +18,6 @@ tags:
 | | |
 
 ## Owned Items (Tracked)
-
-> [!info]- How this section works
-> Pulled live from every Item page's own `owner` property. This is for items notable enough to have their own page
 
 | File | Type | Qty | Rarity |
 | ---- | ---- | --- | ------ |

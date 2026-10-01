@@ -1,6 +1,7 @@
 ---
 publish: true
-type: reference
+created: 2026-09-20T00:38:20.887Z
+modified: 2026-10-01T17:45:55.250Z
 tags:
   - reference
   - spells
@@ -8,7 +9,7 @@ tags:
 
 # Spell Index
 
-Every spell in the compendium, alphabetically, linking directly to its full rules text. This is the browsable front door to `Compendium/Spells.md` — the descriptions themselves already exist there in full; this page just makes them findable rather than needing to scroll a 400+-entry file. Includes both the core 2024 Player's Handbook spells and expansion spells from Xanathar's Guide to Everything, Tasha's Cauldron of Everything, and Fizban's Treasury of Dragons (each tagged with its sourcebook in the compendium entry itself).
+Every spell in the compendium, alphabetically, linking directly to its full rules text. This is the browsable front door to `Compendium/Spells.md`. The descriptions themselves already exist there in full; this page just makes them findable rather than needing to scroll a 400+-entry file. Includes both the core 2024 Player's Handbook spells and expansion spells from Xanathar's Guide to Everything, Tasha's Cauldron of Everything, and Fizban's Treasury of Dragons (each tagged with its sourcebook in the compendium entry itself).
 
 ## A
 

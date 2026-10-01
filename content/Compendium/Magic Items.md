@@ -1,5 +1,7 @@
 ---
 publish: true
+created: 2026-09-20T00:33:42.977Z
+modified: 2026-10-01T17:42:13.134Z
 ---
 
 Magic items are gleaned from the hoards of felled monsters or discovered in long-lost vaults. Such items grant capabilities a character could rarely have otherwise, or they complement their owner's capabilities in wondrous ways.
@@ -124,7 +126,7 @@ For its magic to function, an item in the Ring category must be worn on a finger
 
 ### Rods
 
-An item in the Rod category is a scepter usually made of metal, wood, or bone. A typical rod weighs 2 to 5 pounds.
+An item in the Rod category is a sceptre usually made of metal, wood, or bone. A typical rod weighs 2 to 5 pounds.
 
 Unless its description notes otherwise, a rod can be used as an Arcane Focus.
 

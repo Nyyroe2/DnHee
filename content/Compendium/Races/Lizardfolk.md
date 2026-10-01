@@ -1,16 +1,16 @@
 ---
 publish: true
-type: race
-name: Lizardfolk
-size: Medium
-speed: 30 feet (Swim 30 feet)
+created: 2026-09-21T19:05:49.585Z
+modified: 2026-10-01T19:22:37.989Z
 tags:
   - race
 ---
 
 # Lizardfolk
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022)._
+![[miscImgs/Lizardfolk.png]]
+
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022)._
 
 Full traits: [[Character Origins#Lizardfolk|Lizardfolk (compendium)]]
 

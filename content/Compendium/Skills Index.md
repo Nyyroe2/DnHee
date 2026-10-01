@@ -7,7 +7,7 @@ tags:
 
 # Skills Index
 
-The full skill-to-ability table already exists in the compendium — this just points at it.
+The full skill-to-ability table already exists in the compendium; this just points at it.
 
 [[Playing the Game#Skill Proficiencies|Skill Proficiencies (full table with example uses)]]
 

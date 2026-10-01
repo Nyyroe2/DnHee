@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-20T21:50:50.000Z
-modified: 2026-09-30T18:05:38.606Z
+created: 2026-10-01T18:34:34.392Z
+modified: 2026-10-01T18:37:07.764Z
 tags:
   - index
 ---
@@ -9,22 +9,21 @@ tags:
 # Quest Board
 
 > [!info]- How this page works
-> Every table below reads directly from each quest's own frontmatter — NPCs, locations, and PCs involved are pulled automatically from three separate link fields, so a quest only needs its own page kept up to date, not this one too.
+> Every table below reads directly from each quest's own frontmatter: NPCs, locations, and PCs involved are pulled automatically from three separate link fields, so a quest only needs its own page kept up to date, not this one too.
 
 ## Active Quests
 
-| File                                                               | NPCs                                                                                                                          | Locations                                                                            | PCs Involved |
-| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------ |
-| [[Session Notes/Quests/Goblin Infestation.md\|Goblin Infestation]] | <ul><li>[[NPCs/Linene Graywind.md\|Linene Graywind]]</li><li>[[NPCs/Carp.md\|Carp]]</li><li>[[NPCs/Pip.md\|Pip]]</li></ul> | <ul><li>[[Locations/Phandalin/The Goblin Hideout.md\|The Goblin Hideout]]</li></ul> | <ul></ul>    |
+| File                                                         | NPCs                                                                                                                                                                            | Locations                                                                                                                                               | PCs Involved                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Quests/Finding Gundren.md\|Finding Gundren]] | <ul><li>[[NPCs/Sildar Hallwinter.md\|Sildar Hallwinter]]</li><li>[[NPCs/Gundren Rockseeker.md\|Gundren Rockseeker]]</li><li>[[NPCs/Iano Albreck.md\|Iano Albreck]]</li></ul> | <ul><li>[[Locations/Phandalin/The Goblin Hideout.md\|The Goblin Hideout]]</li><li>[[Locations/Phandalin/Wave Echo Cave.md\|Wave Echo Cave]]</li></ul> | <ul><li>[[Player Characters/Hilda/Hilda Trueshield.md\|Hilda]]</li><li>[[Player Characters/Alvar/Alvar Mistwater.md\|Alvar]]</li><li>[[Player Characters/Mophlin/Mophlin Grimsbourne.md\|Mophlin]]</li><li>[[Player Characters/Willow/Willow.md\|Willow]]</li></ul> |
 
 ## Completed Quests
 
-| File | NPCs | Locations |
-| ---- | ---- | --------- |
+| File                                                               | NPCs                                                                                                                                                                                                                                                                                      | Locations                                                                            |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [[Session Notes/Quests/Goblin Infestation.md\|Goblin Infestation]] | <ul><li>[[NPCs/Linene Graywind.md\|Linene Graywind]]</li><li>[[NPCs/Carp.md\|Carp]]</li><li>[[NPCs/Pip.md\|Pip]]</li><li>[[Bestiary/Klarg.md\|Klarg]]</li><li>[[NPCs/Sildar Hallwinter.md\|Sildar Hallwinter]]</li><li>[[NPCs/Gundren Rockseeker.md\|Gundren Rockseeker]]</li></ul> | <ul><li>[[Locations/Phandalin/The Goblin Hideout.md\|The Goblin Hideout]]</li></ul> |
 
-## Related Combat & Roleplay
+## Related Roleplay
 
-| File                                                                                                     | Quest                                                                                 | Session |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------- |
-| [[Session Notes/Encounters/Session 1 - Goblin Skirmish.md\|Session 1 - Goblin Skirmish]]                 | <ul><li>[[Session Notes/Quests/Goblin Infestation.md\|Goblin Infestation]]</li></ul> | -      |
-| [[Session Notes/Encounters/Session 1 - Goblin Hideout Entrance.md\|Session 1 - Goblin Hideout Entrance]] | <ul><li>[[Session Notes/Quests/Goblin Infestation.md\|Goblin Infestation]]</li></ul> | -      |
+| File | Quest | Session |
+| ---- | ----- | ------- |

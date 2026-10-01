@@ -1,16 +1,16 @@
 ---
 publish: true
-type: race
-name: Githyanki
-size: Medium
-speed: 30 feet
+created: 2026-09-21T19:05:49.234Z
+modified: 2026-10-01T19:12:40.217Z
 tags:
   - race
 ---
 
 # Githyanki
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022). Native to the Astral Plane._
+![[miscImgs/Githyanki.png]]
+
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022). Native to the Astral Plane._
 
 Full traits: [[Character Origins#Githyanki|Githyanki (compendium)]]
 

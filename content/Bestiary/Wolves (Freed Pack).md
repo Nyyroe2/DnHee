@@ -1,40 +1,37 @@
 ---
 publish: true
-type: bestiary
-name: Wolves (Freed Pack)
-compendium-ref: Wolf
-creature-type: Beast
-threat-level: Manageable
-owner: "[[Player Characters/Mophlin/Mophlin Grimsbourne|Mophlin]]"
-related-quests:
-  - "[[Session Notes/Quests/Goblin Infestation|Goblin Infestation]]"
+created: 2026-10-01T18:40:16.545Z
+modified: 2026-10-01T18:54:27.059Z
 tags:
   - bestiary
-ally:
-  - "[[Player Characters/Mophlin/Mophlin Grimsbourne]]"
 ---
 
-## Quick Reference
+# Wolves (Freed Pack)
 
-| Stat             | Value                                             |
-| ---------------- | ------------------------------------------------- |
-| Compendium Entry | [[Monsters Library#Wolf\|Wolf]] |
-| Threat Level     | Manageable                                        |
-| Owner            | [[Player Characters/Mophlin/Mophlin Grimsbourne\|Mophlin]] |
+**Beast** · **Manageable** · From: [[Locations/Phandalin/The Goblin Hideout|The Goblin Hideout]] · Status: Alive · Trust: Trusted
 
-## Summary
+## First Encounter
 
-Three wolves found chained near the entrance to [[Locations/Phandalin/The Goblin Hideout|The Goblin Hideout]], abused by one of the [[Monsters Library#Goblins|goblin]] captors (killed in the return trip through the cave). [[Player Characters/Mophlin/Mophlin Grimsbourne|Mophlin]] freed them and destroyed the whip used on them — they're now allied with the party rather than hostile.
+Three wolves found chained near the entrance to [[Locations/Phandalin/The Goblin Hideout|The Goblin Hideout]], abused by one of the [[Monsters Library#Goblins|goblin]] captors. [[Player Characters/Mophlin/Mophlin Grimsbourne|Mophlin]] freed them and destroyed the whip used on them; they're now allied with the party rather than hostile, though one died in the fight against the goblins within.
 
-## Weaknesses
+## Known For
 
-None observed yet — this is a relationship, not an obstacle.
+- [[Session Notes/Session 2|Session 2]]: The wolves were found and freed, then Mophlin assisted in killing their former captor; one bit Willow after being alerted, but stood down once it recognized the rest of the pack was safe.
+- [[Session Notes/Session 3|Session 3]]: One of the wolves was killed in the fight against the goblins. Mophlin covered him with his cloak and he and Hilda held a funeral for him.
+- [[Session Notes/Session 4|Session 4]]: The wolves now follow Mophlin around, much to the dismay of local bartenders everywhere.
 
-## Encounters
+## Relationships
 
-- [[Session 1 - Goblin Hideout Entrance]] — where they were found and freed.
-- [[Session Notes/Session 2|Session 2]] — assisted in killing their former captor; one bit Willow after being alerted, but stood down once it recognized the rest of the pack was safe.
+**[[Player Characters/Mophlin/Mophlin Grimsbourne|Mophlin]]**: Freed them from captivity; they now follow him as pack.
 
-## Notes
+---
 
-A bloody scrap of Willow's clothing, given to one of the wolves, was used to convince the [[Monsters Library#Goblins|goblins]] she'd been killed
+> [!info]- Mechanical Reference
+> | Stat | Value |
+> | --- | --- |
+> | Faction | |
+> | Religion | |
+> | Residence | [[Locations/Phandalin/The Goblin Hideout|The Goblin Hideout]] |
+> | Location Met | [[Locations/Phandalin/The Goblin Hideout|The Goblin Hideout]] |
+> | Owner (if allied/tamed) | [[Player Characters/Mophlin/Mophlin Grimsbourne|Mophlin]] |
+> | Compendium Entry | [[Compendium/Monsters Library#Wolf|Wolf]] |

@@ -1,14 +1,14 @@
 ---
 publish: true
-type: race
-name: Goliath
-size: Medium
-speed: 35 feet
+created: 2026-09-21T19:05:49.348Z
+modified: 2026-10-01T19:16:58.639Z
 tags:
   - race
 ---
 
 # Goliath
+
+![[miscImgs/Goliath.png]]
 
 Full traits: [[Character Origins#Goliath|Goliath (compendium)]]
 

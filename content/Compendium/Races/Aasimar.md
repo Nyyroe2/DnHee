@@ -1,15 +1,14 @@
 ---
 publish: true
-type: race
-name: Aasimar
-size: Medium or Small
-speed: 30 feet
+created: 2026-09-21T19:05:48.914Z
+modified: 2026-10-01T19:01:18.063Z
 tags:
   - race
 ---
 
 # Aasimar
 
+![[miscImgs/Aasimar.png]]
 Full traits: [[Character Origins#Aasimar|Aasimar (compendium)]]
 
 ## Quick Reference

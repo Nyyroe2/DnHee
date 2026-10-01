@@ -1,16 +1,16 @@
 ---
 publish: true
-type: race
-name: Deep Gnome
-size: Small
-speed: 30 feet
+created: 2026-09-21T19:05:49.025Z
+modified: 2026-10-01T19:05:12.931Z
 tags:
   - race
 ---
 
 # Deep Gnome
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022). Also called Svirfneblin; considered a gnome for any gnome prerequisite._
+![[miscImgs/Deep Gnome.png]]
+
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022). Also called Svirfneblin; considered a gnome for any gnome prerequisite._
 
 Full traits: [[Character Origins#Deep Gnome|Deep Gnome (compendium)]]
 

@@ -1,16 +1,16 @@
 ---
 publish: true
-type: race
-name: Tortle
-size: Medium or Small
-speed: 30 feet
+created: 2026-09-21T19:05:49.750Z
+modified: 2026-10-01T19:28:49.685Z
 tags:
   - race
 ---
 
 # Tortle
 
-_Expansion species — Mordenkainen Presents: Monsters of the Multiverse (2022)._
+![[miscImgs/Tortle.png]]
+
+_Expansion species: Mordenkainen Presents: Monsters of the Multiverse (2022)._
 
 Full traits: [[Character Origins#Tortle|Tortle (compendium)]]
 

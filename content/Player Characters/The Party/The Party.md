@@ -25,8 +25,9 @@ This page exists as a selectable **owner** for anything that belongs to the grou
 
 ## Owned Items
 
-| File | Type | Qty | Rarity |
-| ---- | ---- | --- | ------ |
+| File                                        | Type  | Qty | Rarity  |
+| ------------------------------------------- | ----- | --- | ------- |
+| [[Items/Klarg's Letter.md\|Klarg's Letter]] | other | 1   | Mundane |
 
 ## Owned Companions & Mounts
 

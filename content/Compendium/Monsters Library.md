@@ -1,5 +1,7 @@
 ---
 publish: true
+created: 2026-09-20T22:55:52.000Z
+modified: 2026-10-01T17:42:59.060Z
 ---
 
 ## Aboleth
@@ -33,7 +35,7 @@ _Large Aberration, Lawful Evil_
 **_Legendary Resistance (3/Day, or 4/Day in Lair)._** If the aboleth fails a saving throw, it can choose to succeed instead.
 
 **_Mucus Cloud._** While underwater, the aboleth is surrounded by mucus. _Constitution Saving Throw:_ DC 14, each creature in a 5-foot Emanation originating from the aboleth at the end of the aboleth's turn. _Failure:_ The target is cursed. Until the curse ends, the target's skin becomes slimy, the target can breathe air and water, and it can't regain Hit Points unless it is underwater. <br>
- While the cursed creature is outside a body of water, the creature takes 6 (1d12) Acid damage at the end of every 10 minutes unless moisture is applied to its skin before those minutes have passed.
+While the cursed creature is outside a body of water, the creature takes 6 (1d12) Acid damage at the end of every 10 minutes unless moisture is applied to its skin before those minutes have passed.
 
 **_Probing Telepathy._** If a creature the aboleth can see communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires.
 
