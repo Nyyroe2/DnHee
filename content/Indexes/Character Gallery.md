@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-20T22:40:54.000Z
-modified: 2026-10-01T20:15:56.115Z
+created: 2026-10-01T22:05:57.104Z
+modified: 2026-10-01T22:05:57.104Z
 tags:
   - index
 ---
@@ -10,12 +10,12 @@ tags:
 
 ## The Party
 
-| File                                                                      | Known As                |
-| ------------------------------------------------------------------------- | ----------------------- |
-| [[Player Characters/Alvar/Alvar Mistwater.md\|Alvar Mistwater]]           | The Guarded Stranger    |
-| [[Player Characters/Mophlin/Mophlin Grimsbourne.md\|Mophlin Grimsbourne]] | The Wordless Berserker  |
-| [[Player Characters/Willow/Willow.md\|Willow]]                            | Daughter of the Woods   |
-| [[Player Characters/Hilda/Hilda Trueshield.md\|Hilda Trueshield]]         | The Everlasting Acolyte |
+| File                                                                      | Portrait                                                                                                        | Known As                |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[Player Characters/Alvar/Alvar Mistwater.md\|Alvar Mistwater]]           | [[Player Characters/Alvar/Reference Images/Alex Reference Image.png\|Alex Reference Image.png]]                 | The Guarded Stranger    |
+| [[Player Characters/Mophlin/Mophlin Grimsbourne.md\|Mophlin Grimsbourne]] | [[Player Characters/Mophlin/Reference Images/Pasted image 20260823204245.png\|Pasted image 20260823204245.png]] | The Wordless Berserker  |
+| [[Player Characters/Willow/Willow.md\|Willow]]                            | [[Player Characters/Willow/Reference Images/Pasted image 20260823205144.png\|Pasted image 20260823205144.png]]  | Daughter of the Woods   |
+| [[Player Characters/Hilda/Hilda Trueshield.md\|Hilda Trueshield]]         | [[Player Characters/Hilda/Reference Images/Hilda-DressArmor.png\|Hilda-DressArmor.png]]                         | The Everlasting Acolyte |
 
 ## Notable NPCs
 

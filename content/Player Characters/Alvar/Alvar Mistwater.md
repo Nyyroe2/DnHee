@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Alvar Mistwater
   - Alvar
-created: 2026-10-01T17:54:13.196Z
-modified: 2026-10-01T17:54:13.196Z
+created: 2026-10-01T22:05:19.079Z
+modified: 2026-10-01T22:05:19.079Z
 tags:
   - pc
 ---

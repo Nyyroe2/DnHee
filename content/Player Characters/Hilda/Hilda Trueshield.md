@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Hilda
-created: 2026-10-01T17:54:21.175Z
-modified: 2026-10-01T20:19:54.064Z
+created: 2026-10-01T22:05:27.803Z
+modified: 2026-10-01T22:05:27.804Z
 tags:
   - pc
 ---
@@ -35,8 +35,6 @@ Warm, patient, and quick to worry over people half her age, with a demeanor clos
 ## Background
 
 Raised from infancy at Sunrise House, a small orphanage-temple of the Church of Lathander, Hilda has spent her entire life in devoted service without ever advancing past the rank of Acolyte, no matter how faithfully she's served.
-
-Full backstory: [[Backstory|Backstory]]
 
 ## Trivia
 

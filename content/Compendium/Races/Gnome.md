@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-21T19:05:58.481Z
-modified: 2026-10-01T19:13:32.045Z
+created: 2026-10-01T21:54:04.500Z
+modified: 2026-10-01T21:54:04.500Z
 tags:
   - race
 ---
@@ -33,4 +33,4 @@ _Auto-populates from anyone whose `race` field matches this page._
 
 ## Notes
 
-[[Mophlin Grimsbourne|Mophlin]] being able to speak with the horses and deer (noted in [[Personal Notes/Goals/Little Gnome Weasel|Little Gnome Weasel]]) isn't mysterious. It lines up exactly with the **Forest Gnome** lineage's Speak with Animals trait. Worth confirming with Liam whether that's the lineage he actually picked.
+[[Mophlin Grimsbourne|Mophlin]] being able to speak with the horses and deer isn't mysterious. It lines up exactly with the **Forest Gnome** lineage's Speak with Animals trait. Worth confirming with Liam whether that's the lineage he actually picked.

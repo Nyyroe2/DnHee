@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-10-01T16:36:39.835Z
-modified: 2026-10-01T17:56:25.530Z
+created: 2026-10-01T21:54:08.426Z
+modified: 2026-10-01T21:54:08.426Z
 tags:
   - index
 ---
 
 # Loot and Treasury
 
-The party's shared stockpile, physically held by Hilda. Both tables below are computed live from every session's [[templates/Other/Loot Tracker|Loot Tracker]]
+The party's shared stockpile, physically held by Hilda. Both tables below are computed live from every session's Loot Tracker
 
 ## Group Inventory
 

@@ -4,8 +4,8 @@ aliases:
   - Mophlin Grimsbourne
   - Mophlin
   - little gnome weasel
-created: 2026-10-01T17:54:29.427Z
-modified: 2026-10-01T17:54:29.428Z
+created: 2026-10-01T22:05:33.377Z
+modified: 2026-10-01T22:05:33.378Z
 tags:
   - pc
 ---

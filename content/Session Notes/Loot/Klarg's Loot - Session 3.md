@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-09-19
-modified: 2026-10-01T20:35:49.522Z
+modified: 2026-10-01T21:53:03.412Z
 tags:
   - loot
 ---
 
-**Originating Session Note**: [[Session 3]]
+**Originating Session Note**: [[Session Notes/Session 3|Session 3]]
 
 # Loot - Session 3
 

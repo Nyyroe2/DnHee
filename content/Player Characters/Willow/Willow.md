@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Willow
   - Daughter of the Woods
-created: 2026-10-01T17:54:35.895Z
-modified: 2026-10-01T17:54:35.895Z
+created: 2026-10-01T22:05:37.564Z
+modified: 2026-10-01T22:05:37.564Z
 tags:
   - pc
 ---
