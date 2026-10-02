@@ -10,12 +10,12 @@ tags:
 
 ## The Party
 
-| File                                                                      | Portrait                                                                                                        | Known As                |
-| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[Player Characters/Alvar/Alvar Mistwater.md\|Alvar Mistwater]]           | [[Player Characters/Alvar/Reference Images/Alex Reference Image.png\|Alex Reference Image.png]]                 | The Guarded Stranger    |
-| [[Player Characters/Mophlin/Mophlin Grimsbourne.md\|Mophlin Grimsbourne]] | [[Player Characters/Mophlin/Reference Images/Pasted image 20260823204245.png\|Pasted image 20260823204245.png]] | The Wordless Berserker  |
-| [[Player Characters/Willow/Willow.md\|Willow]]                            | [[Player Characters/Willow/Reference Images/Pasted image 20260823205144.png\|Pasted image 20260823205144.png]]  | Daughter of the Woods   |
-| [[Player Characters/Hilda/Hilda Trueshield.md\|Hilda Trueshield]]         | [[Player Characters/Hilda/Reference Images/Hilda-DressArmor.png\|Hilda-DressArmor.png]]                         | The Everlasting Acolyte |
+| File                                                                      | Portrait                                                                                                       | Known As                |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[Player Characters/Alvar/Alvar Mistwater.md\|Alvar Mistwater]]           | [[Player Characters/Alvar/Reference Images/Alex Reference Image.png\|Alex Reference Image.png]]                | The Guarded Stranger    |
+| [[Player Characters/Mophlin/Mophlin Grimsbourne.md\|Mophlin Grimsbourne]] | [[Pasted image 20260823204245.png\|Pasted image 20260823204245.png]]                                           | The Wordless Berserker  |
+| [[Player Characters/Willow/Willow.md\|Willow]]                            | [[Player Characters/Willow/Reference Images/Pasted image 20260823205144.png\|Pasted image 20260823205144.png]] | Daughter of the Woods   |
+| [[Player Characters/Hilda/Hilda Trueshield.md\|Hilda Trueshield]]         | [[Player Characters/Hilda/Reference Images/Hilda-DressArmor.png\|Hilda-DressArmor.png]]                        | The Everlasting Acolyte |
 
 ## Notable NPCs
 

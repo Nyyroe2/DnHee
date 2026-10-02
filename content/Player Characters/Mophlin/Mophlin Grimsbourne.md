@@ -5,12 +5,12 @@ aliases:
   - Mophlin
   - little gnome weasel
 created: 2026-10-01T22:05:33.377Z
-modified: 2026-10-02T15:19:56.988Z
+modified: 2026-10-02T21:32:39.068Z
 tags:
   - pc
 ---
 
-![[Player Characters/Mophlin/Reference Images/Pasted image 20260823204245.png|201]]
+![[Player Characters/Mophlin/Reference Images/Pasted image 20261002223227.png|529]]
 
 # Mophlin Grimsbourne
 
@@ -28,7 +28,7 @@ Not yet discovered.
 
 ## Personality & Demeanor
 
-An endearing goblin who is only able to babble incoherently. He seems friendly if not a bit chaotic.
+An endearing gnome who is only able to babble incoherently. He seems friendly if not a bit chaotic.
 
 ## Background
 
