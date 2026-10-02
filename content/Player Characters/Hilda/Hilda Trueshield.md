@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Hilda
 created: 2026-10-01T22:05:27.803Z
-modified: 2026-10-01T22:05:27.804Z
+modified: 2026-10-02T14:23:30.026Z
 tags:
   - pc
 ---
@@ -25,8 +25,6 @@ Background: [[Compendium/Character Origins#Acolyte|Acolyte]]
 ## Appearance
 
 Hilda stands a stout 4'2", her long grey hair kept in two thick braids that fall past her shoulders, a style she's worn unchanged for longer than most people's whole lives. Warm brown eyes and a face lined with 349 years of sun, worry, and laughter. Her skin, light and spotted with age, doesn't hide how much time she's carried. She's most often seen in dress armor stamped with Lathander's rising sun, though a lighter, more travel-worn version comes out when the road matters more than appearances.
-
-Other images: [[hilda-casual.png|Casual]] · [[hilda lightly armored.png|Lightly Armored]] · [[young hilda.png|Younger Years]]
 
 ## Personality & Demeanor
 

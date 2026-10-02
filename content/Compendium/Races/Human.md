@@ -28,10 +28,10 @@ _Auto-populates from anyone whose `race` field matches this page._
 
 | File                                             | Role                                                                              | status  |
 | ------------------------------------------------ | --------------------------------------------------------------------------------- | ------- |
-| [[NPCs/Iano Albreck.md\|Iano Albreck]]           | Wizard                                                                            | Missing |
 | [[NPCs/Sildar Hallwinter.md\|Sildar Hallwinter]] | Retired Soldier                                                                   | Alive   |
 | [[NPCs/Pip.md\|Pip]]                             | Child                                                                             | Alive   |
 | [[NPCs/Linene Graywind.md\|Linene Graywind]]     | Shopkeeper at [[Locations/Phandalin/Shop - Lionshield Coster\|Lionshield Coster]] | Alive   |
+| [[NPCs/Iano Albreck.md\|Iano Albreck]]           | Wizard                                                                            | Missing |
 | [[NPCs/Carp.md\|Carp]]                           | Child                                                                             | Alive   |
 
 ## Notes
