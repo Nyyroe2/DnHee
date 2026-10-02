@@ -1,22 +1,42 @@
 ---
 publish: true
-created: 2026-10-01T18:44:05.687Z
-modified: 2026-10-01T21:14:38.008Z
+type: npc
+name: Linene Graywind
+aliases: []
+race: Human
+compendium-ref:
+role: Shopkeeper at [[Locations/Phandalin/Shop - Lionshield Coster|Lionshield Coster]]
+religion: "[[Deities#Tymora|Tymora]]"
+faction:
+residence: "[[Phandalin Overview|Phandalin]]"
+epithet: The Merchant of Phandalin
+tagline: Runs the Lionshield Coster, and was the first friendly face the party found in town.
+location-met: "[[Locations/Phandalin/Shop - Lionshield Coster|Lionshield Coster]]"
+first-met-session: 1
+status: Alive
+trust: Friendly
+npcimage:
+related-quests:
+  - "[[Session Notes/Quests/Goblin Infestation|Goblin Infestation]]"
+related-pcs:
+  - "[[Hilda Trueshield|Hilda]]"
 tags:
   - npc
+friend:
+  - "[[Player Characters/Hilda/Hilda Trueshield|Hilda]]"
 ---
 
 # Linene Graywind
 
 ### "The Merchant of Phandalin"
 
-> _Business-minded, no-nonsense, and the first friendly face the party found in town._
+> _Runs the Lionshield Coster, and was the first friendly face the party found in town._
 
 **[[Compendium/Races/Human|Human]]** · **Shopkeeper** · From: [[Phandalin Overview|Phandalin]] · Status: Alive · Trust: Friendly · Faith: [[Deities#Tymora|Tymora]]
 
 ## Personality & Demeanor
 
-Seems business minded and no-nonsense, someone who deals in goods and favors plainly, without much sentiment attached.
+Seems business minded and plain-spoken. She trades goods and favors without much sentiment.
 
 ## First Encounter
 
@@ -38,7 +58,7 @@ The party met her at her shop in Phandalin, where they heard of her troubles wit
 
 ## Trivia
 
-- Worships [[Deities#Tymora|Tymora]], goddess of luck, fitting for a merchant whose livelihood rides on which way a shipment's fortune turns.
+- Worships [[Deities#Tymora|Tymora]], the goddess of luck.
 
 ---
 

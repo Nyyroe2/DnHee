@@ -1,7 +1,12 @@
 ---
 publish: true
-created: 2026-09-29T22:14:37.797Z
-modified: 2026-10-01T21:13:18.898Z
+type: location
+location-type: shop
+name: Barthen's Provisions
+aliases: []
+shop-type: General Store
+located-in: "[[Phandalin Overview|Phandalin]]"
+owner: Barthen
 tags:
   - location
   - location/shop
@@ -21,7 +26,7 @@ tags:
 
 ## First Impressions
 
-A practical general store rather than anywhere fancy, the kind of shop a town actually needs, run by a shopkeeper who comes across as kind rather than shrewd.
+A practical general store, nothing fancy. The shopkeeper comes across as kind.
 
 ## Description
 

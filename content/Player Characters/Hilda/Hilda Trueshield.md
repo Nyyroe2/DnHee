@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Hilda
 created: 2026-10-01T22:05:27.803Z
-modified: 2026-10-02T14:23:30.026Z
+modified: 2026-10-02T15:18:23.659Z
 tags:
   - pc
 ---
@@ -12,9 +12,9 @@ tags:
 
 # Hilda Trueshield
 
-### "The Everlasting Acolyte"
+### The Everlasting Acolyte
 
-> _Still unable to improve after nearly 350 years... Is it her own failure, or is something stopping her?_
+> _"Will scold you, heal you,  feed you, and scold you again – usually in that order."_
 
 **[[Compendium/Races/Dwarf|Hill Dwarf]]** · **[[Classes#Cleric|Cleric]]** · **Neutral Good** · **[[Church of Lathander|Lathander]]**
 
@@ -24,15 +24,15 @@ Background: [[Compendium/Character Origins#Acolyte|Acolyte]]
 
 ## Appearance
 
-Hilda stands a stout 4'2", her long grey hair kept in two thick braids that fall past her shoulders, a style she's worn unchanged for longer than most people's whole lives. Warm brown eyes and a face lined with 349 years of sun, worry, and laughter. Her skin, light and spotted with age, doesn't hide how much time she's carried. She's most often seen in dress armor stamped with Lathander's rising sun, though a lighter, more travel-worn version comes out when the road matters more than appearances.
+Hilda stands a stout 4'2" with long grey hair in two thick braids that fall past her shoulders, a style she's worn longer than most people have been alive. She has warm brown eyes and a lined face, and her light skin is spotted with age. She's usually in dress armor stamped with Lathander's rising sun, with a lighter, more travel-worn set for the road.
 
 ## Personality & Demeanor
 
-Warm, patient, and quick to worry over people half her age, with a demeanor closer to a grandmother than a battle cleric. She prays before hard tasks out of habit rather than performance, and treats kindness as a genuine act of faith rather than a soft option. Slow to anger, but not blind to being wronged.
+Warm and patient, and quick to worry over people half her age. She comes across more like a grandmother than a battle cleric. She prays before hard tasks out of habit and treats kindness as part of her faith. Slow to anger, but she notices when she's been wronged.
 
 ## Background
 
-Raised from infancy at Sunrise House, a small orphanage-temple of the Church of Lathander, Hilda has spent her entire life in devoted service without ever advancing past the rank of Acolyte, no matter how faithfully she's served.
+Raised from infancy at Sunrise House, a small orphanage-temple of the Church of Lathander, Hilda has spent her whole life in service to the church and never advanced past the rank of Acolyte.
 
 ## Trivia
 

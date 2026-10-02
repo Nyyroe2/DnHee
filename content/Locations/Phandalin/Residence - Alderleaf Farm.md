@@ -1,7 +1,12 @@
 ---
 publish: true
-created: 2026-09-29T22:14:47.332Z
-modified: 2026-10-01T18:04:33.061Z
+type: location
+location-type: residence
+name: Alderleaf Farm
+aliases: []
+residence-type: Farm
+located-in: "[[Phandalin Overview|Phandalin]]"
+resident: "[[Carp]] and his mother"
 tags:
   - location
   - location/residence
@@ -21,7 +26,7 @@ tags:
 
 ## First Impressions
 
-A small, working farm rather than anything grand, the kind of place where a visitor is more likely to meet a curious kid than an adult with time to talk.
+A small working farm. On the party's visit, the only one with time to talk was Carp.
 
 ## Description
 

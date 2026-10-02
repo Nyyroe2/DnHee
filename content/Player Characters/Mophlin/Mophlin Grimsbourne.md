@@ -5,7 +5,7 @@ aliases:
   - Mophlin
   - little gnome weasel
 created: 2026-10-01T22:05:33.377Z
-modified: 2026-10-01T22:05:33.378Z
+modified: 2026-10-02T15:19:56.988Z
 tags:
   - pc
 ---
@@ -14,9 +14,9 @@ tags:
 
 # Mophlin Grimsbourne
 
-### "The Wordless Berserker"
+### The Wordless Berserker
 
-> _Small enough to underestimate. Enemies rarely get the chance to reconsider_
+> _"Small enough to underestimate. Enemies rarely get the chance to reconsider"_
 
 **[[Compendium/Races/Gnome|Gnome]]** · **[[Classes#Barbarian|Barbarian]] / [[Classes#Paladin|Paladin]]** · **Alignment**: Chaotic Good · **Faith**: Unknown
 

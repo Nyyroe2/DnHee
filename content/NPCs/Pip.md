@@ -1,9 +1,30 @@
 ---
 publish: true
-created: 2026-09-21T19:06:11.062Z
-modified: 2026-10-01T21:15:00.989Z
+type: npc
+name: Pip
+aliases: []
+race: Human
+compendium-ref:
+role: Child
+faction:
+religion:
+residence: "[[Phandalin Overview|Phandalin]]"
+epithet: The Inn Boy
+tagline: Knew exactly whose ear to bend about goblin trouble.
+location-met: "[[Locations/Phandalin/Inn - Stonehill Inn|Stonehill Inn]]"
+first-met-session: 1
+status: Alive
+trust: Friendly
+npcimage:
+related-quests:
+  - "[[Session Notes/Quests/Goblin Infestation|Goblin Infestation]]"
+related-pcs:
+  - "[[Player Characters/Alvar/Alvar Mistwater|Alvar]]"
 tags:
   - npc
+friend:
+  - "[[Carp]]"
+  - "[[Player Characters/Alvar/Alvar Mistwater|Alvar]]"
 ---
 
 # Pip
@@ -16,7 +37,7 @@ tags:
 
 ## Personality & Demeanor
 
-Talkative and observant, the kind of kid who notices things adults miss and isn't shy about sharing them.
+Talkative and observant. He notices things adults miss and tells people about them.
 
 ## First Encounter
 

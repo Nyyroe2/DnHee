@@ -1,7 +1,9 @@
 ---
 publish: true
-created: 2026-09-21T19:05:58.533Z
-modified: 2026-10-01T19:10:20.387Z
+type: race
+name: Elf (Wood Elf)
+size: Medium
+speed: 35 feet
 tags:
   - race
 ---
@@ -31,4 +33,4 @@ _Auto-populates from anyone whose `race` field matches this page._
 
 ## Notes
 
-Worth knowing: the Wood Elf's innate Druidcraft cantrip pairs naturally with [[Willow|Willow]] already being a Druid. Not a coincidence most players make, but a genuinely synergistic pick.
+Worth knowing: the Wood Elf's innate Druidcraft cantrip pairs well with [[Willow|Willow]] already being a Druid.

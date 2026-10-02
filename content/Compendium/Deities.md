@@ -1,7 +1,6 @@
 ---
 publish: true
-created: 2026-10-01T13:54:47.448Z
-modified: 2026-10-01T17:40:51.804Z
+type: reference
 tags:
   - reference
   - pantheon
@@ -29,7 +28,7 @@ Dawn as a daily proof that ruin is never final. Devotees are encouraged toward a
 
 ### Relationships
 
-Generally on good terms with other benevolent faiths. Lathander's most significant documented rival is [[Deities#Shar|Shar]], goddess of darkness, loss, and secrets, the literal narrative opposite of dawn.
+Generally on good terms with other benevolent faiths. Lathander's most significant documented rival is [[Deities#Shar|Shar]], goddess of darkness, loss, and secrets, who stands opposite dawn.
 
 ### See Also
 
@@ -56,7 +55,7 @@ Worship tends to be casual and personal rather than formalized – a coin flippe
 
 ### Faith and Beliefs
 
-The core belief: fortune favors the bold, not the cautious. Tymora's faithful are encouraged to take chances rather than play it safe.
+The core belief is that fortune favors the bold. Tymora's faithful are encouraged to take chances.
 
 ### Relationships
 
@@ -85,7 +84,7 @@ Rural, humble worship. Small shrines at field edges, first-harvest offerings, bl
 
 ### Faith and Beliefs
 
-Life and growth are sacred; the land is to be tended, not just taken from. Farmers who work with the land rather than exhaust it are living her teaching whether they know her name or not.
+Life and growth are sacred, and the land is to be tended as well as used. Farmers who work with the land instead of exhausting it are living her teaching.
 
 ### Relationships
 
@@ -135,7 +134,7 @@ The rivalry between Shar and Lathander is one of the most storied in the pantheo
 | Symbol | An upright flaming sword |
 | Portfolio | War, battle, honorable combat |
 
-God of war itself, indifferent to which side is righteous – what matters to him is that a fight is fought with honor and courage, not the cause behind it.
+God of war itself, indifferent to which side is righteous – what matters to him is that a fight is fought with honor and courage, whatever the cause.
 
 ### Profile
 
@@ -143,7 +142,7 @@ Worshipped openly by soldiers, mercenaries, and warriors on every side of a conf
 
 ### Faith and Beliefs
 
-Courage and honorable conduct in battle matter more than victory. Cowardice and needless cruelty are the real sins, not violence itself.
+Courage and honorable conduct in battle matter more than victory. Cowardice and needless cruelty are the real sins; violence itself is fine.
 
 ### Relationships
 
@@ -172,7 +171,7 @@ Disciplined and dutiful rather than glamorous. Clergy often serve as literal gua
 
 ### Faith and Beliefs
 
-Duty fulfilled without deviation, even at personal cost. A Helmite doesn't abandon a post because the situation changed; the post is the point.
+Duty fulfilled without deviation, even at personal cost. A Helmite doesn't abandon a post because the situation changed.
 
 ### Relationships
 
@@ -201,7 +200,7 @@ Worship centers on libraries, archives, and the act of teaching. Clergy often fu
 
 ### Faith and Beliefs
 
-Knowledge should be gathered, preserved, and shared – hoarding it or letting it die with its keeper is treated as a genuine failing.
+Knowledge should be gathered, preserved, and shared – hoarding it or letting it die with its keeper is treated as a failing.
 
 ### Relationships
 
@@ -251,11 +250,11 @@ Her sister **Shar** is her opposite and rival – the two are often described as
 | Symbol | A circle of seven stars around a flowing red mist, or simply a seven-pointed star |
 | Portfolio | Magic itself, the Weave |
 
-Goddess of magic – not just a patron of magic-users but the literal embodiment of the Weave, the underlying fabric that makes arcane spellcasting possible at all.
+Goddess of magic and the embodiment of the Weave, the fabric that makes arcane spellcasting possible.
 
 ### Profile
 
-Worshipped by wizards and sages of virtually any alignment; magic users often pay her respect regardless of their personal faith, given how directly she's tied to their power actually functioning.
+Worshipped by wizards and sages of virtually any alignment; magic users often pay her respect regardless of their personal faith, given how directly she's tied to their power working.
 
 ### Faith and Beliefs
 
@@ -263,7 +262,7 @@ Magic is a gift to be used responsibly – Mystra has historically taken direct,
 
 ### Relationships
 
-Works closely with Oghma; broadly opposed by anyone seeking to seize or corrupt the Weave itself rather than simply use it.
+Works closely with Oghma; broadly opposed by anyone seeking to seize or corrupt the Weave itself rather than use it.
 
 ### Notes
 
@@ -317,7 +316,7 @@ Popular with paladins and soldiers who serve a cause rather than just a paycheck
 
 ### Faith and Beliefs
 
-Duty and loyalty carried through even at great personal cost – courage isn't the absence of fear, it's acting despite it.
+Duty and loyalty carried through even at great personal cost, and courage means acting despite fear.
 
 ### Relationships
 
@@ -338,7 +337,7 @@ Part of the Triad alongside **Tyr** and **Ilmater**.
 | Symbol | An upright black right hand, clawed and clenched |
 | Portfolio | Tyranny, hatred, fear, control |
 
-God of tyranny – rule through fear and absolute control rather than any pretense of fairness. One of the most commonly invoked patrons of genuinely villainous organizations across the Realms.
+God of tyranny – rule through fear and absolute control rather than any pretense of fairness. One of the most commonly invoked patrons of villainous organizations across the Realms.
 
 ### Profile
 
@@ -346,7 +345,7 @@ Worship tends to appear wherever petty tyrants and oppressive regimes need a doc
 
 ### Faith and Beliefs
 
-Power justifies its own use. The strong rule the weak, and that's simply the correct order of things.
+Power justifies its own use. The strong rule the weak, and that's the correct order of things.
 
 ### Relationships
 
@@ -354,7 +353,7 @@ Rival to virtually every good-aligned deity by nature; frequently allied in fict
 
 ### Notes
 
-Worth recognizing on sight – Bane's symbol showing up anywhere is a strong signal of genuine, organized villainy rather than simple banditry.
+Bane's symbol showing up anywhere is a strong signal of organized villainy rather than simple banditry.
 
 ---
 
@@ -369,7 +368,7 @@ Worth recognizing on sight – Bane's symbol showing up anywhere is a strong sig
 | Symbol | Two hands bound at the wrist by a red cord |
 | Portfolio | Endurance, suffering, martyrdom, perseverance |
 
-God of endurance through suffering – patron of the oppressed, the enslaved, and anyone enduring hardship not by choice but by circumstance.
+God of endurance through suffering – patron of the oppressed, the enslaved, and anyone enduring hardship they didn't choose.
 
 ### Profile
 
@@ -402,11 +401,11 @@ Goddess of love and beauty in every sense – physical beauty, romantic love, an
 
 ### Profile
 
-Worship is joyful and sensory – festivals, art, romance treated as genuinely sacred rather than frivolous.
+Worship is joyful and sensory – festivals, art, romance treated as sacred.
 
 ### Faith and Beliefs
 
-Beauty and love are worth celebrating openly, not treated as guilty pleasures.
+Beauty and love are worth celebrating openly.
 
 ### Relationships
 
@@ -456,11 +455,11 @@ Close kinship with **Mielikki** and other nature-aligned deities; a natural coun
 | Symbol | A wave curling left and right |
 | Portfolio | The sea, its fury and unpredictability |
 
-Goddess of the sea's destructive, uncaring power – sailors pay her respect not out of devotion but out of genuine fear, tossing coins overboard to buy safe passage.
+Goddess of the sea's destructive, uncaring power – sailors pay her respect out of fear and toss coins overboard to buy safe passage.
 
 ### Profile
 
-Worship is transactional and fearful rather than loving – offerings made to avoid her wrath, not to earn her favor.
+Worship is transactional and fearful, with offerings made to avoid her wrath.
 
 ### Faith and Beliefs
 
@@ -468,7 +467,7 @@ The sea owes nothing to anyone, and neither does she. Appeasement is the only sa
 
 ### Relationships
 
-Feared and grudgingly respected by sailors of every other faith, since ignoring her is considered simply reckless.
+Feared and grudgingly respected by sailors of every other faith, since ignoring her is considered reckless.
 
 ### Notes
 
@@ -522,7 +521,7 @@ Rangers, foresters, and druids who see themselves as the forest's caretaker rath
 
 ### Faith and Beliefs
 
-The forest is worth protecting actively, not just left alone – a subtly more interventionist take on nature-worship.
+The forest is worth protecting actively, which makes this a more interventionist take on nature-worship.
 
 ### Relationships
 
@@ -547,11 +546,11 @@ God of murder, lies, and strife, one of the youngest deities in the pantheon, ha
 
 ### Profile
 
-Cyric's church is a font of paranoia by design: he demands his clergy compete viciously for his favor, and rewards betrayal of rivals within his own faith as readily as betrayal of outsiders. Assassins, liars, and the ambitious gravitate toward him.
+Cyric's church runs on paranoia by design: he demands his clergy compete viciously for his favor, and rewards betrayal of rivals within his own faith as readily as betrayal of outsiders. Assassins, liars, and the ambitious gravitate toward him.
 
 ### Faith and Beliefs
 
-Truth is a weapon to be wielded, not a virtue to be upheld. Followers are taught that any lie which advances Cyric's cause, or their own standing within his church, is righteous by definition.
+Truth is a weapon to be wielded. Followers are taught that any lie which advances Cyric's cause, or their own standing within his church, is righteous by definition.
 
 ### Relationships
 
@@ -580,15 +579,15 @@ Bahamut is said to wander the Material Plane in mortal disguise (often as an old
 
 ### Faith and Beliefs
 
-Strength exists to protect the weak, not dominate them. Justice should be tempered with mercy, but never abandoned for convenience.
+Strength exists to protect the weak. Justice should be tempered with mercy and never abandoned for convenience.
 
 ### Relationships
 
-Eternal enemy of **Tiamat**, his five-headed opposite; their rivalry predates the current cosmology and is treated as a near-metaphysical constant.
+Eternal enemy of **Tiamat**, his five-headed opposite; their rivalry predates the current cosmology.
 
 ### Notes
 
-Relevant to this table given Dragonborn is a playable species: a Bahamut-worshipping dragonborn PC or NPC would be an unremarkable, even expected, choice.
+Relevant to this table given Dragonborn is a playable species: a Bahamut-worshipping dragonborn PC or NPC would be an ordinary choice.
 
 ---
 
@@ -603,7 +602,7 @@ Relevant to this table given Dragonborn is a playable species: a Bahamut-worship
 | Symbol | A dragon's claw clutching five gems, one of each chromatic color |
 | Portfolio | Evil dragons, greed, envy, wealth, vengeance |
 
-Mother of evil dragons and a genuine cosmic power in her own right, currently imprisoned in the Nine Hells as part of a long-standing debt to Asmodeus, which does nothing to diminish how seriously her cults are taken.
+Mother of evil dragons and a cosmic power in her own right, currently imprisoned in the Nine Hells as part of a long-standing debt to Asmodeus.
 
 ### Profile
 
@@ -611,7 +610,7 @@ Her cults are typically secretive and cell-based rather than public temples, oft
 
 ### Faith and Beliefs
 
-Greed is not a vice but a virtue; what you can take and hold is rightfully yours. Envy of what others have is simply correct appraisal.
+Greed is a virtue; what you can take and hold is rightfully yours. Envy of what others have is correct appraisal.
 
 ### Relationships
 
@@ -636,11 +635,11 @@ God of storms and destruction, worshipped less out of devotion than out of fear.
 
 ### Profile
 
-Talos has almost no organized clergy in the conventional sense; worship tends to be either fearful placation by ordinary folk, or genuine fanatical devotion by those who find purpose in tearing things down.
+Talos has almost no organized clergy in the conventional sense; worship tends to be either fearful placation by ordinary folk, or fanatical devotion by those who find purpose in tearing things down.
 
 ### Faith and Beliefs
 
-Destruction is generative, not merely negative; the storm that levels the old village clears ground for something new, whether or not that's cold comfort to the villagers.
+Destruction clears ground for something new. The storm that levels the old village leaves room for what comes next, which is little comfort to the villagers.
 
 ### Relationships
 
@@ -661,15 +660,15 @@ Loosely allied with the other members of the so-called Dark Three (**Bane**, **M
 | Symbol | A white snowflake, or a six-pointed snowflake |
 | Portfolio | Winter, cold, ice, frost |
 
-Goddess of winter's cruelty: not the changing of the seasons in the abstract, but the specific, personal malice of a blizzard that catches travelers exposed. Especially relevant to any Icewind Dale-adjacent or far-northern content.
+Goddess of winter's cruelty, meaning the personal malice of a blizzard that catches travelers exposed. Especially relevant to any Icewind Dale-adjacent or far-northern content.
 
 ### Profile
 
-Her faithful are rare and mostly found in the frozen North; the Ten Towns of Icewind Dale in particular have an uneasy, propitiatory relationship with her rather than one of genuine devotion.
+Her faithful are rare and mostly found in the frozen North; the Ten Towns of Icewind Dale in particular have an uneasy, propitiatory relationship with her.
 
 ### Faith and Beliefs
 
-Winter is not a season to endure but a force to be respected as an equal, even superior, power to the sun's warmth.
+Winter is a force to be respected as an equal, even superior, power to the sun's warmth.
 
 ### Relationships
 
@@ -698,7 +697,7 @@ Kelemvor's faith is one of the more universally tolerated in the Realms: nearly 
 
 ### Faith and Beliefs
 
-Death is not evil, only natural and inevitable; what matters is whether it comes justly and whether the dead are shown proper respect afterward. Undeath is an abomination, a mockery of the order he was raised up specifically to enforce.
+Death is natural and inevitable. What matters is whether it comes justly and whether the dead are shown proper respect afterward. Undeath is an abomination, a mockery of the order he was raised up specifically to enforce.
 
 ### Relationships
 
@@ -785,7 +784,7 @@ His worship is suppressed wherever Lolth's church holds power (which is most Und
 
 ### Faith and Beliefs
 
-Drow deserve the surface world stolen from them in ages past, and the matriarchal order Lolth enforces is itself the true betrayal of drow potential, not an eternal truth.
+Drow deserve the surface world stolen from them in ages past, and the matriarchal order Lolth enforces is itself a betrayal of drow potential.
 
 ### Relationships
 
@@ -816,7 +815,7 @@ Her worship exists almost entirely in secret, scattered surface shrines and hidd
 
 ### Faith and Beliefs
 
-Redemption is always possible, even for a people as thoroughly associated with evil as the drow; joy, art, and swordplay in moonlight are themselves sacred acts, not distractions from devotion.
+Redemption is always possible, even for a people as thoroughly associated with evil as the drow; joy, art, and swordplay in moonlight are themselves sacred acts.
 
 ### Relationships
 
@@ -845,11 +844,11 @@ Her church is the drow ruling class in most Underdark cities: matron mothers and
 
 ### Faith and Beliefs
 
-Chaos and betrayal are not flaws in the order of things but the order of things; loyalty is a tool for the weak to extract from others, never one to extend upward.
+Chaos and betrayal are the order of things. Loyalty is a tool for the weak to extract from others, never one to extend upward.
 
 ### Relationships
 
-Enforces harsh suppression of both **Vhaeraun** and **Eilistraee** worship as existential threats to her control over drow society. Relationship with other demon lords and the Abyss generally is one of the few areas of genuine (if still treacherous) cooperation.
+Enforces harsh suppression of both **Vhaeraun** and **Eilistraee** worship as existential threats to her control over drow society. Relationship with other demon lords and the Abyss generally is one of the few areas of cooperation, though it's still treacherous.
 
 ### Notes
 

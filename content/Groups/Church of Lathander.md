@@ -21,7 +21,7 @@ The specific temple and clergy [[Hilda Trueshield|Hilda]] belongs to. For the de
 
 ## Profile
 
-Lathandrite temples favor small, active congregations over grand cathedrals; the emphasis is on daily practice, not spectacle. Morning prayer is near-universal among the devout, and most temples run some form of community service: kitchens, clinics, or orphanages, depending on the needs of wherever they're rooted.
+Lathandrite temples favor small, active congregations over grand cathedrals; the emphasis is on daily practice. Morning prayer is near-universal among the devout, and most temples run some form of community service: kitchens, clinics, or orphanages, depending on the needs of wherever they're rooted.
 
 ## Story
 

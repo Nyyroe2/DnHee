@@ -1,7 +1,28 @@
 ---
 publish: true
-created: 2026-10-01T18:39:49.757Z
-modified: 2026-10-01T21:09:29.187Z
+type: bestiary
+name: Klarg
+aliases: []
+creature-type: Humanoid
+compendium-ref: Bugbears
+threat-level: Dangerous
+faction:
+religion:
+residence: "[[Locations/Phandalin/The Goblin Hideout|The Goblin Hideout]]"
+epithet: The Bugbear Chief
+tagline: Ran the goblin hideout's back rooms and the kidnapping plot, and died to Hilda's sacred flame in Session 3.
+location-met: "[[Locations/Phandalin/The Goblin Hideout|The Goblin Hideout]]"
+first-met-session: 3
+status: Dead
+trust: Hostile
+owner:
+npcimage:
+related-quests:
+  - "[[Session Notes/Quests/Goblin Infestation|Goblin Infestation]]"
+  - "[[Session Notes/Quests/Finding Gundren|Finding Gundren]]"
+related-pcs:
+  - "[[Player Characters/Hilda/Hilda Trueshield|Hilda]]"
+  - "[[Player Characters/Mophlin/Mophlin Grimsbourne|Mophlin]]"
 tags:
   - bestiary
 ---
@@ -12,7 +33,7 @@ tags:
 
 ### "The Bugbear Chief"
 
-> _Ran the goblin hideout's back rooms and the kidnapping plot behind it, until Hilda's sacred flame caught up with him._
+> _Ran the goblin hideout's back rooms and the kidnapping plot, and died to Hilda's sacred flame in Session 3._
 
 **Humanoid** · **Dangerous** · From: [[Locations/Phandalin/The Goblin Hideout|The Goblin Hideout]] · Status: Dead · Trust: Hostile
 

@@ -1,7 +1,9 @@
 ---
 publish: true
-created: 2026-09-21T19:05:58.425Z
-modified: 2026-10-01T19:11:26.822Z
+type: race
+name: Fire Genasi
+size: Medium
+speed: 30 feet
 tags:
   - race
 ---
@@ -32,4 +34,4 @@ _Auto-populates from anyone whose `race` field matches this page._
 
 ## Notes
 
-[[Alvar Mistwater|Alvar]]'s flame-streaked hair and Fire Genasi heritage are the same thing narratively as they are mechanically. The fire resistance and Produce Flame cantrip aren't just flavor; they're a real part of who he is elementally.
+[[Alvar Mistwater|Alvar]]'s flame-streaked hair and Fire Genasi heritage are the same thing narratively and mechanically. The fire resistance and Produce Flame cantrip are part of who he is.

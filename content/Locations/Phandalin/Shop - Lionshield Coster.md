@@ -1,7 +1,12 @@
 ---
 publish: true
-created: 2026-09-29T22:14:42.765Z
-modified: 2026-10-01T18:56:33.870Z
+type: location
+location-type: shop
+name: Lionshield Coster
+aliases: []
+shop-type: Blacksmith/Weaponsmith
+located-in: "[[Phandalin Overview|Phandalin]]"
+owner: "[[Linene Graywind]]"
 tags:
   - location
   - location/shop
@@ -22,7 +27,7 @@ tags:
 
 ## First Impressions
 
-A well-kept shop with a no-nonsense, businesslike air, the kind of place that posts firm rules on the wall (no credit, no sales to known criminals) rather than relying on charm. Clean, organized, and clearly run by someone who takes the trade seriously.
+A clean, well-organized shop with firm rules posted on the wall (no credit, no sales to known criminals). Linene runs it like someone who takes the trade seriously.
 
 ## Inventory
 

@@ -1,9 +1,29 @@
 ---
 publish: true
-created: 2026-10-01T18:44:40.652Z
-modified: 2026-10-01T21:15:27.568Z
+type: npc
+name: Sildar Hallwinter
+aliases: []
+race: Human
+compendium-ref:
+role: Retired Soldier
+faction: "[[Groups/Lords Alliance|Lords Alliance]]"
+religion:
+residence:
+epithet: The Grateful Captive
+tagline: Freed from a goblin cage, worried sick about his missing friends.
+location-met: "[[Locations/Phandalin/The Goblin Hideout|The Goblin Hideout]]"
+first-met-session: 3
+status: Alive
+trust: Friendly
+npcimage:
+related-quests:
+  - "[[Session Notes/Quests/Finding Gundren|Finding Gundren]]"
+related-pcs: []
 tags:
   - npc
+friend:
+  - "[[Gundren Rockseeker]]"
+  - "[[Iano Albreck]]"
 ---
 
 # Sildar Hallwinter
@@ -16,7 +36,7 @@ tags:
 
 ## Personality & Demeanor
 
-Dutiful and plainly grateful to the party for freeing him, but visibly worried underneath it. Willing to talk, though he's holding details back until he feels safe.
+Dutiful and grateful to the party for freeing him, and worried about his missing friends. Willing to talk, though he's holding details back until he feels safe.
 
 ## First Encounter
 

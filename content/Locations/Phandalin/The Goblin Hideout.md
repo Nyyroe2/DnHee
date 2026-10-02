@@ -1,13 +1,19 @@
 ---
 publish: true
+type: location
+location-type: point-of-interest
+name: The Goblin Hideout
 aliases:
   - Goblin Hideout
   - Goblin Cave
-created: 2026-10-01T18:35:44.471Z
-modified: 2026-10-01T21:13:36.103Z
+poi-type: lair
+danger-level: dangerous
+related-quests:
+  - "[[Session Notes/Quests/Goblin Infestation|Goblin Infestation]]"
 tags:
   - location
   - location/point-of-interest
+located-in: "[[Phandalin Overview|Phandalin]]"
 ---
 
 ## Overview
@@ -16,7 +22,7 @@ A cave system serving as a [[Monsters Library#Goblins|goblin]] lair, entered via
 
 ## First Impressions
 
-Damp, cramped, and hostile from the moment you step in. A stream runs through part of the cave, and the goblins have learned to weaponize it, flooding the entrance on demand to keep intruders out.
+Damp and cramped, and hostile as soon as you step in. The goblins use the stream to flood the entrance when they want intruders out.
 
 ## Notable Areas
 

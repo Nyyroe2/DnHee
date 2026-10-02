@@ -4,7 +4,7 @@ aliases:
   - Alvar Mistwater
   - Alvar
 created: 2026-10-01T22:05:19.079Z
-modified: 2026-10-01T22:05:19.079Z
+modified: 2026-10-02T15:11:35.657Z
 tags:
   - pc
 ---
@@ -13,9 +13,9 @@ tags:
 
 # Alvar Mistwater
 
-### "The Guarded Stranger"
+### The Guarded Stranger
 
-> _Capable enough, but not very forthcoming_
+> _"Capable enough, but not very forthcoming"_
 
 **[[Compendium/Races/Fire Genasi|Fire Genasi]]** · **[[Classes#Fighter|Fighter]] / [[Classes#Wizard|Wizard]]** · **Chaotic Good** · **No Faith**
 

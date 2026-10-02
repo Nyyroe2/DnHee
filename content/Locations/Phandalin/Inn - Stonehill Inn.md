@@ -1,7 +1,12 @@
 ---
 publish: true
-created: 2026-09-29T22:14:33.237Z
-modified: 2026-10-01T21:12:41.192Z
+type: location
+location-type: shop
+name: Stonehill Inn
+aliases: []
+shop-type: Tavern/Inn
+located-in: "[[Phandalin Overview|Phandalin]]"
+owner:
 tags:
   - location
   - location/shop
@@ -19,7 +24,7 @@ tags:
 
 ## First Impressions
 
-A modest, welcoming inn, the kind of place where a stranger can get a room, an ale, and more local gossip than they bargained for.
+A modest, welcoming inn. The locals talk freely here, which is how the party first heard about the goblins.
 
 ## Description
 

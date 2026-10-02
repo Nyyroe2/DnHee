@@ -1,7 +1,11 @@
 ---
 publish: true
-created: 2026-09-21T12:53:18.039Z
-modified: 2026-10-01T20:22:22.962Z
+type: party
+name: The Party
+aliases: []
+epithet: The Four
+tagline: Four strangers from one wagon, now sharing funds.
+npcimage:
 tags:
   - party
 ---

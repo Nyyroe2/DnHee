@@ -23,7 +23,7 @@ A loose alliance between a number of the North's major cities and towns, such as
 
 ## Profile
 
-Respected more than loved; the kind of organization people assume is doing something useful somewhere, without much visibility into what. Ordinary folk mostly encounter its effects rather than its members: a well-patrolled trade road, a bounty notice, a representative passing through town on business nobody asks too many questions about.
+Respected more than loved. People assume it's doing something useful, but few know what. Most folk only see its effects, like a well-patrolled trade road or a bounty notice.
 
 ## Powers and Duties
 

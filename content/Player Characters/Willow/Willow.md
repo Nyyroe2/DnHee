@@ -4,7 +4,7 @@ aliases:
   - Willow
   - Daughter of the Woods
 created: 2026-10-01T22:05:37.564Z
-modified: 2026-10-01T22:05:37.564Z
+modified: 2026-10-02T15:14:32.121Z
 tags:
   - pc
 ---
@@ -13,9 +13,9 @@ tags:
 
 # Willow
 
-### "Daughter of the Woods"
+### Daughter of the Woods
 
-> _One thought at a time: save the forest, solve the dagger. Everything else is noise._
+> _"Carries the forest's kindness in her, and a little of its wildness too."_
 
 **[[Compendium/Races/Elf (Wood Elf)|Wood Elf]]** · **[[Classes#Druid|Druid]]** · **Alignment**: Unknown · **Faith**: Unknown
 
