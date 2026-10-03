@@ -1,32 +1,11 @@
 ---
 publish: true
-type: npc
-name: Gundren Rockseeker
 aliases:
   - Gundren
-race: Dwarf
-compendium-ref:
-role: Prospector / Employer
-faction:
-religion:
-residence:
-epithet: The Missing Employer
-tagline: Hired Alvar to deliver goods to Phandalin, then vanished before anyone could meet him there.
-location-met:
-first-met-session:
-status: Missing
-trust: Friendly
-npcimage:
-related-quests:
-  - "[[Session Notes/Quests/Finding Gundren|Finding Gundren]]"
-related-pcs:
-  - "[[Player Characters/Alvar/Alvar Mistwater|Alvar]]"
+created: 2026-10-01T18:44:36.086Z
+modified: 2026-10-03T11:28:34.449Z
 tags:
   - npc
-friend:
-  - "[[Sildar Hallwinter]]"
-  - "[[Player Characters/Alvar/Alvar Mistwater]]"
-  - "[[Elmina]]"
 ---
 
 ### "The Missing Employer"
@@ -43,8 +22,9 @@ Not yet met directly. Gundren is the one who hired [[Player Characters/Alvar/Alv
 
 - Being the reason the party ended up traveling to Phandalin at all, as he hired [[Player Characters/Alvar/Alvar Mistwater|Alvar]] for the delivery.
 - Being the target of the kidnapping plot the party uncovered in [[Locations/Phandalin/The Goblin Hideout|the goblin hideout]] (Session 3); the goblins had already moved him elsewhere by the time the party arrived.
-- Possibly being held at the manor [[Carp]] stumbled onto back in Session 1, per the party's own deduction in [[Session Notes/Session 4|Session 4]] matching it to [[Sildar Hallwinter|Sildar]]'s description.
+- Possibly being held at [[Locations/Phandalin/Tressinder Manor|Tressinder Manor]], the manor [[Carp]] stumbled onto back in Session 1, per the party's own deduction in [[Session Notes/Session 4|Session 4]] matching it to [[Sildar Hallwinter|Sildar]]'s description.
 - Called a friend by [[Elmina]], who says the party will likely find him wherever the [[Groups/Redbrands|Redbrands]] are (Session 5).
+- Has a birthmark that [[Elmina]] quizzed [[Player Characters/Alvar/Alvar Mistwater|Alvar]] about before she would talk (Session 5). Where it is hasn't been written down.
 
 ## Relationships
 

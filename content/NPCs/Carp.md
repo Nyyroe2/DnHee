@@ -1,28 +1,9 @@
 ---
 publish: true
-type: npc
-name: Carp
-aliases: []
-race: Human
-compendium-ref:
-role: Child
-faction:
-religion:
-residence: "[[Locations/Phandalin/Residence - Alderleaf Farm|Alderleaf Farm]]"
-epithet: The Farmer's Boy
-tagline: Found a secret tunnel and ran the other way.
-location-met: "[[Locations/Phandalin/Residence - Alderleaf Farm|Alderleaf Farm]]"
-first-met-session: 1
-status: Alive
-trust: Friendly
-npcimage:
-related-quests:
-  - "[[Session Notes/Quests/Goblin Infestation|Goblin Infestation]]"
-related-pcs: []
+created: 2026-10-01T18:44:17.539Z
+modified: 2026-10-03T11:28:29.267Z
 tags:
   - npc
-friend:
-  - "[[Pip]]"
 ---
 
 # Carp
@@ -39,8 +20,8 @@ Carp is a child who lives at [[Residence - Alderleaf Farm|Alderleaf Farm]] with 
 
 ## Known For
 
-- Finding a secret tunnel near a manor and a goblin's letter there, then running off before anyone caught him (Session 1)
-- In [[Session Notes/Session 4|Session 4]] the party matched the manor he stumbled onto to the one [[Sildar Hallwinter|Sildar]] described as where [[Gundren Rockseeker|Gundren]] is being held.
+- Finding a secret tunnel near a manor ([[Locations/Phandalin/Tressinder Manor|Tressinder Manor]]) and a goblin's letter there, then running off before anyone caught him (Session 1)
+- In [[Session Notes/Session 4|Session 4]] the party matched the manor he stumbled onto, which turned out to be [[Locations/Phandalin/Tressinder Manor|Tressinder Manor]], to the one [[Sildar Hallwinter|Sildar]] described as where [[Gundren Rockseeker|Gundren]] is being held.
 
 ## Relationships
 

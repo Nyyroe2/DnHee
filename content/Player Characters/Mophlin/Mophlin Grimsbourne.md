@@ -1,32 +1,13 @@
 ---
 publish: true
-type: pc
-player: Liam
-character-name: Mophlin Grimsbourne
 aliases:
   - Mophlin Grimsbourne
   - Mophlin
   - little gnome weasel
-race: Gnome
-class: Barbarian
-subclass:
-multiclass: Paladin
-status: Alive
-background: Unknown
-alignment: Unknown
-faith: Unknown
-pronouns: He/Him
-languages: []
-npcimage: "[[Pasted image 20261002223227.png]]"
-related-npcs: []
+created: 2026-10-01T22:05:33.377Z
+modified: 2026-10-03T11:27:49.396Z
 tags:
   - pc
-friend:
-  - "[[Player Characters/Hilda/Hilda Trueshield]]"
-  - "[[Player Characters/Alvar/Alvar Mistwater]]"
-  - "[[Player Characters/Willow/Willow]]"
-tagline: Small enough to underestimate. Enemies rarely get the chance to reconsider.
-epithet: The Wordless Berserker
 ---
 
 ![[Player Characters/Mophlin/Reference Images/Pasted image 20261002223227.png|529]]
@@ -55,7 +36,7 @@ Unknown - Though he seems reluctant to share his name easily.
 
 ## NPC Relationships
 
-**[[Wolves (Freed Pack)|The freed wolves]]**: Freed three wolves chained near the [[Monsters Library#Goblins|goblin]] captor's abuse in the cave, and destroyed the whip used on them. They fought alongside the party afterward until one of them was killed off in the final goblin fight in [[Session Notes/Session 3|Session 3]].  He has three wolves with him now, and they continue to fight by his side.
+**[[Wolves (Freed Pack)|The freed wolves]]**: Freed three wolves chained near the [[Monsters Library#Goblins|goblin]] captor's abuse in the cave, plus a fourth that had been kept inside the hideout, and destroyed the whip used on them. They fought alongside the party afterward until one of them was killed in the final goblin fight in [[Session Notes/Session 3|Session 3]]. He has three wolves with him now, and they continue to fight by his side.
 
 ## Trivia
 

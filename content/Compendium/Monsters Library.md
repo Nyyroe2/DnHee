@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T22:55:52.000Z
-modified: 2026-10-01T17:42:59.060Z
+modified: 2026-10-03T11:29:55.529Z
 ---
 
 ## Aboleth
@@ -501,6 +501,48 @@ _Medium or Small Humanoid, Neutral_
 <hr>
 
 **_Parry._** _Trigger:_ The bandit is hit by a melee attack roll while holding a weapon. _Response:_ The bandit adds 2 to its AC against that attack, possibly causing it to miss.
+
+## Banshee
+
+### Banshee
+
+_Medium Undead, Chaotic Evil_
+
+**AC** 12 **Initiative** +2 (12) <br>
+**HP** 58 (13d8) <br>
+**Speed** 0 ft., Fly 40 ft. (hover) <br>
+
+|   |   | MOD | SAVE |   |   | MOD | SAVE |   |   | MOD | SAVE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <strong>STR</strong> | 1 | −5 | −5 | <strong>DEX</strong> | 14 | +2 | +2 | <strong>CON</strong> | 10 | +0 | +0 |
+| <strong>INT</strong> | 12 | +1 | +1 | <strong>WIS</strong> | 11 | +0 | +2 | <strong>CHA</strong> | 17 | +3 | +5 |
+
+**Resistances** Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks<br>
+**Immunities** Cold, Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained<br>
+**Senses** Darkvision 60 ft.; Passive Perception 10<br>
+**Languages** Common, Elvish<br>
+**CR** 4 (XP 1,100; PB +2)
+
+> [!note] Condensed entry
+> This is the older Monster Manual banshee, with the ability text condensed in my own words. Check the book for exact wording.
+
+#### Traits
+
+<hr>
+
+**_Detect Life._** The banshee can sense creatures within 5 miles that aren't Undead or Constructs. She knows which direction they're in but not exactly where.
+
+**_Incorporeal Movement._** The banshee can move through creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if she ends her turn inside an object.
+
+#### Actions
+
+<hr>
+
+**_Corrupting Touch._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 12 (3d6 + 2) Necrotic damage.
+
+**_Horrifying Visage._** _Wisdom Saving Throw:_ DC 13, each non-Undead creature within 60 feet that can see the banshee. _Failure:_ Frightened for 1 minute. The target repeats the save at the end of each of its turns, with Disadvantage while the banshee is in line of sight, and the condition ends on a success. _Success:_ The target is immune to this banshee's Horrifying Visage for 24 hours.
+
+**_Wail (1/Day)._** The banshee can only use this while not in sunlight, and it doesn't affect Constructs or Undead. _Constitution Saving Throw:_ DC 13, each other creature within 30 feet that can hear her. _Failure:_ The target is reduced to 0 Hit Points. _Success:_ 10 (3d6) Psychic damage.
 
 ## Barbed Devil
 

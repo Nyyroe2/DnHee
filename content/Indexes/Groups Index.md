@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-21T12:12:42.741Z
-modified: 2026-10-01T17:49:17.883Z
+modified: 2026-10-03T11:29:07.700Z
 tags:
   - index
 ---
@@ -33,6 +33,11 @@ tags:
 | [[Groups/Lords Alliance.md\|Lords Alliance]] | Lawful Neutral | Friendly |
 
 ## Military
+
+| File | Alignment | Standing |
+| ---- | --------- | -------- |
+
+## Mercenaries
 
 | File                               | Alignment | Standing |
 | ---------------------------------- | --------- | -------- |

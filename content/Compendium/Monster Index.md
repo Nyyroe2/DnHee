@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T16:13:53.824Z
-modified: 2026-10-01T17:42:39.225Z
+modified: 2026-10-03T11:29:55.529Z
 tags:
   - reference
 ---
@@ -30,6 +30,7 @@ Core 2024 Monster Manual creatures use the full stat-block format (AC, HP, abili
 - [[Monsters Library#Balhannoth|Balhannoth]]
 - [[Monsters Library#Balor|Balor]]
 - [[Monsters Library#Bandits|Bandits]]
+- [[Monsters Library#Banshee|Banshee]]
 - [[Monsters Library#Barbed Devil|Barbed Devil]]
 - [[Monsters Library#Basilisk|Basilisk]]
 - [[Monsters Library#Bearded Devil|Bearded Devil]]

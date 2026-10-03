@@ -1,12 +1,7 @@
 ---
 publish: true
-type: location
-location-type: shop
-name: Barthen's Provisions
-aliases: []
-shop-type: General Store
-located-in: "[[Phandalin Overview|Phandalin]]"
-owner: "[[Elmina]]"
+created: 2026-09-29T22:14:37.797Z
+modified: 2026-10-03T11:28:42.138Z
 tags:
   - location
   - location/shop
@@ -30,7 +25,7 @@ A practical general store, nothing fancy. The shopkeeper comes across as kind.
 
 ## Description
 
-A small basic goods shop in Phandalin, run by [[Elmina]]. The wagon [[Gundren Rockseeker|Gundren]] hired Alvar to escort was bound here, with ten gold pieces promised for its safe delivery.
+A small basic goods shop in Phandalin, run by [[Elmina]]. "Barthen's" is only the store's name; whether it is her surname isn't known. The wagon [[Gundren Rockseeker|Gundren]] hired Alvar to escort was bound here, with ten gold pieces promised for its safe delivery.
 
 ## Notes
 

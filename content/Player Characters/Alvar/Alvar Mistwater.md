@@ -4,7 +4,7 @@ aliases:
   - Alvar Mistwater
   - Alvar
 created: 2026-10-01T22:05:19.079Z
-modified: 2026-10-03T11:04:53.845Z
+modified: 2026-10-03T11:27:39.121Z
 tags:
   - pc
 ---
@@ -18,6 +18,8 @@ tags:
 > _"Capable enough, but not very forthcoming"_
 
 **[[Compendium/Races/Fire Genasi|Fire Genasi]]** · **[[Classes#Fighter|Fighter]] / [[Classes#Wizard|Wizard]]** · **Chaotic Good** · **No Faith**
+
+Background: [[Compendium/Character Origins#Noble|Noble]]
 
 **Status**: Alive
 

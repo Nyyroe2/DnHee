@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-01T19:47:17.906Z
-modified: 2026-10-01T19:47:17.906Z
+modified: 2026-10-03T11:27:34.000Z
 tags:
   - reference
 ---
@@ -36,3 +36,4 @@ Each background grants three ability score options, an Origin feat, two skill pr
 The backgrounds actually at the table, for quick access:
 
 - [[Character Origins#Acolyte|Acolyte]]: [[Hilda Trueshield|Hilda]]
+- [[Character Origins#Noble|Noble]]: [[Alvar Mistwater|Alvar]]

@@ -1,23 +1,7 @@
 ---
 publish: true
-type: quest
-status: Active
-session-started: Session 3
-session-completed:
-related-npcs:
-  - "[[Sildar Hallwinter]]"
-  - "[[Gundren Rockseeker]]"
-  - "[[Iano Albreck]]"
-  - "[[Elmina]]"
-related-locations:
-  - "[[Locations/Phandalin/The Goblin Hideout|The Goblin Hideout]]"
-  - "[[Wave Echo Cave|Wave Echo Cave]]"
-  - "[[Locations/Phandalin/Tressinder Manor|Tressinder Manor]]"
-related-pcs:
-  - "[[Player Characters/Hilda/Hilda Trueshield|Hilda]]"
-  - "[[Player Characters/Alvar/Alvar Mistwater|Alvar]]"
-  - "[[Player Characters/Mophlin/Mophlin Grimsbourne|Mophlin]]"
-  - "[[Player Characters/Willow/Willow|Willow]]"
+created: 2026-10-01T18:46:45.775Z
+modified: 2026-10-03T11:28:29.267Z
 tags:
   - quest
 ---
@@ -35,7 +19,7 @@ tags:
 | Session Started   | Session 3                                                                                                |
 | Session Completed | Not yet                                                                                                  |
 
-[[Gundren Rockseeker|Gundren]] hired Alvar to escort a delivery to Phandalin and meet him there, but he was taken before the party arrived. The party uncovered the kidnapping plot in [[Locations/Phandalin/The Goblin Hideout|the goblin hideout]] and freed [[Sildar Hallwinter|Sildar]], who was also searching for him, but the goblins had already moved Gundren elsewhere. We've heard from [[Carp]] about a scary manor where a goblin told him off, which seems related to the manor Gundren is supposedly being kept in. In Session 5, [[Elmina]] said that wherever the [[Groups/Redbrands|Redbrands]] are, Gundren is probably nearby, and the Redbrands' hideout turned out to be the old [[Locations/Phandalin/Tressinder Manor|Tressinder Manor]] on the hill.
+[[Gundren Rockseeker|Gundren]] hired Alvar to escort a delivery to Phandalin and meet him there, but he was taken before the party arrived. The party uncovered the kidnapping plot in [[Locations/Phandalin/The Goblin Hideout|the goblin hideout]] and freed [[Sildar Hallwinter|Sildar]], who was also searching for him, but the goblins had already moved Gundren elsewhere. We've heard from [[Carp]] about a scary manor where a goblin told him off, which is the same manor Gundren is supposedly being kept in, [[Locations/Phandalin/Tressinder Manor|Tressinder Manor]]. In Session 5, [[Elmina]] said that wherever the [[Groups/Redbrands|Redbrands]] are, Gundren is probably nearby, and the Redbrands' hideout turned out to be the old [[Locations/Phandalin/Tressinder Manor|Tressinder Manor]] on the hill.
 
 ## Integration
 
