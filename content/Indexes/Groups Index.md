@@ -34,8 +34,9 @@ tags:
 
 ## Military
 
-| File | Alignment | Standing |
-| ---- | --------- | -------- |
+| File                               | Alignment | Standing |
+| ---------------------------------- | --------- | -------- |
+| [[Groups/Redbrands.md\|Redbrands]] | -        | Hostile  |
 
 ## Religion
 
@@ -45,5 +46,6 @@ tags:
 
 ## Other
 
-| File | Alignment | Standing |
-| ---- | --------- | -------- |
+| File                           | Alignment | Standing |
+| ------------------------------ | --------- | -------- |
+| [[Groups/Harpers.md\|Harpers]] | -        | Neutral  |

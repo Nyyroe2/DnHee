@@ -174,7 +174,7 @@ _Auto-populates from any Combat or Roleplay note whose location matches this pag
 
 ## Notes
 
-A nice shop where the party purchased a few things soon after entering Phandalin. The owner gave them the quest to get rid of the nearby goblins and try to return her goods in exchange for 50 gp.
+A nice shop where the party purchased a few things soon after entering Phandalin. The owner gave them the quest to get rid of the nearby goblins and try to return her goods in exchange for 50 gp. The party returned her goods in [[Session Notes/Session 5|Session 5]], and she paid the 50 gp.
 
 ### ⚠️ A WORD FROM LINENE
 

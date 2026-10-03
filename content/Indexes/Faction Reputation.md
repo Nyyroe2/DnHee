@@ -15,3 +15,5 @@ tags:
 | ------------------------------------------------------ | -------- |
 | [[Groups/Lords Alliance.md\|Lords Alliance]]           | Friendly |
 | [[Groups/Church of Lathander.md\|Church of Lathander]] | Friendly |
+| [[Groups/Redbrands.md\|Redbrands]]                     | Hostile  |
+| [[Groups/Harpers.md\|Harpers]]                         | Neutral  |

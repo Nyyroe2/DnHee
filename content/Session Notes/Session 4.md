@@ -1,7 +1,19 @@
 ---
 publish: true
-created: 2026-09-26
-modified: 2026-10-01T18:43:50.849Z
+type: session
+session-number: 4
+date: 2026-09-26
+npcs:
+  - "[[Sildar Hallwinter]]"
+locations:
+  - "[[Locations/Phandalin/Inn - Stonehill Inn|Stonehill Inn]]"
+  - "[[Locations/Phandalin/Shop - Lionshield Coster|Lionshield Coster]]"
+  - "[[Locations/Phandalin/Phandalin Overview|Phandalin]]"
+party-present:
+  - "[[Player Characters/Hilda/Hilda Trueshield|Hilda]]"
+  - "[[Player Characters/Alvar/Alvar Mistwater|Alvar]]"
+  - "[[Player Characters/Mophlin/Mophlin Grimsbourne|Mophlin]]"
+  - "[[Player Characters/Willow/Willow|Willow]]"
 tags:
   - session
 ---

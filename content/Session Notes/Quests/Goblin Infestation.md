@@ -1,7 +1,23 @@
 ---
 publish: true
-created: 2026-10-01T18:46:41.735Z
-modified: 2026-10-01T21:16:30.142Z
+type: quest
+status: completed
+session-started: Session 1
+session-completed: Session 5
+related-npcs:
+  - "[[Linene Graywind]]"
+  - "[[Carp]]"
+  - "[[Pip]]"
+  - "[[Bestiary/Klarg|Klarg]]"
+  - "[[Sildar Hallwinter]]"
+  - "[[Gundren Rockseeker]]"
+related-locations:
+  - "[[Locations/Phandalin/The Goblin Hideout|The Goblin Hideout]]"
+related-pcs:
+  - "[[Player Characters/Hilda/Hilda Trueshield|Hilda]]"
+  - "[[Player Characters/Alvar/Alvar Mistwater|Alvar]]"
+  - "[[Player Characters/Mophlin/Mophlin Grimsbourne|Mophlin]]"
+  - "[[Player Characters/Willow/Willow|Willow]]"
 tags:
   - quest
 ---
@@ -13,7 +29,7 @@ tags:
 | Status            | Completed           |
 | Quest Giver       | [[Linene Graywind]] |
 | Session Started   | Session 1           |
-| Session Completed | Session 4           |
+| Session Completed | Session 5           |
 
 ## Summary
 
@@ -21,7 +37,7 @@ tags:
 
 ### Rewards
 
-- 50 gp
+- 50 gp, paid in Session 5 and split evenly (12 gp 5 sp each)
 
 ## Background
 
@@ -44,4 +60,7 @@ Session 3:
 - The party killed the bugbear in charge of the goblins, [[Bestiary/Klarg|Klarg]], and recovered the stock for [[Linene Graywind|Linene]].
 - They discovered [[Sildar Hallwinter]] imprisoned inside, and upon healing him learned that he was also searching for [[Gundren Rockseeker|Gundren]]
 - Sildar told us that [[Gundren Rockseeker|Gundren]] had been taken to the manor acting as their main boss. He begs us to help him look into the disappearance of his friend.
-- We still have yet to have returned Linene's goods
+
+Session 5:
+
+- The party returned Linene's goods and were paid the 50 gp reward.

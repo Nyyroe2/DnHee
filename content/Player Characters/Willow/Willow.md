@@ -1,12 +1,33 @@
 ---
 publish: true
+type: pc
+player: MJ
+character-name: Willow
 aliases:
   - Willow
   - Daughter of the Woods
-created: 2026-10-01T22:05:37.564Z
-modified: 2026-10-02T15:14:32.121Z
+race: Wood Elf
+class: Druid
+subclass:
+multiclass:
+status: Alive
+background: Unknown
+alignment: Unknown
+faith: Unknown
+pronouns: She/Her
+languages:
+  - Common
+  - Elvish
+npcimage: "[[Pasted image 20260823205144.png]]"
+related-npcs: []
 tags:
   - pc
+friend:
+  - "[[Player Characters/Hilda/Hilda Trueshield]]"
+  - "[[Player Characters/Alvar/Alvar Mistwater]]"
+  - "[[Player Characters/Mophlin/Mophlin Grimsbourne]]"
+epithet: Daughter of the Woods
+tagline: Focused on saving the forest and working out the dagger.
 ---
 
 ![[Player Characters/Willow/Reference Images/Pasted image 20260823205144.png]]
@@ -41,6 +62,7 @@ Currently Unknown
 
 - She carries a strange glowing dagger that seems important to her.
 - Vegetarian...
+- [[NPCs/Sister Garaele]] examined her glowing dagger in Session 5 and offered to investigate it further in exchange for a favor.
 
 ---
 

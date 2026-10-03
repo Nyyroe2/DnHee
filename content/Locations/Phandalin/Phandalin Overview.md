@@ -29,14 +29,15 @@ A small but respectable town with a few various shops, inns, and various other f
 | File                                                                                | Type                   | Owner                                        |
 | ----------------------------------------------------------------------------------- | ---------------------- | -------------------------------------------- |
 | [[Locations/Phandalin/Inn - Stonehill Inn.md\|Inn - Stonehill Inn]]                 | Tavern/Inn             | -                                           |
-| [[Locations/Phandalin/Shop - Barthen's Provisions.md\|Shop - Barthen's Provisions]] | General Store          | Barthen                                      |
+| [[Locations/Phandalin/Shop - Barthen's Provisions.md\|Shop - Barthen's Provisions]] | General Store          | [[NPCs/Elmina.md\|Elmina]]                   |
 | [[Locations/Phandalin/Shop - Lionshield Coster.md\|Shop - Lionshield Coster]]       | Blacksmith/Weaponsmith | [[NPCs/Linene Graywind.md\|Linene Graywind]] |
+| [[Locations/Phandalin/Taphouse - Sleeping Giant.md\|Taphouse - Sleeping Giant]]     | Tavern                 | -                                           |
 
 ## Notable Temples
 
-| File                                                        | deity                                              | clergy |
-| ----------------------------------------------------------- | -------------------------------------------------- | ------ |
-| [[Locations/Phandalin/Shrine - Tymora.md\|Shrine - Tymora]] | [[Compendium/Deities.md#Tymora Lady Luck\|Tymora]] | -     |
+| File                                                        | deity                                              | clergy                                     |
+| ----------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------ |
+| [[Locations/Phandalin/Shrine - Tymora.md\|Shrine - Tymora]] | [[Compendium/Deities.md#Tymora Lady Luck\|Tymora]] | [[NPCs/Sister Garaele.md\|Sister Garaele]] |
 
 ## Notable Residences
 

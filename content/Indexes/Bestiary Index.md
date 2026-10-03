@@ -10,7 +10,8 @@ tags:
 
 ## All Bestiary Entries
 
-|Creature2|Type|Threat Level|Residence|Faction|Status|Trust|Active Quests|
+|Creature3|Type|Threat Level|Residence|Faction|Status|Trust|Active Quests|
 |---|---|---|---|---|---|---|---|
+|[[Bestiary/Agatha\|Agatha]]|Undead||||Undead|Suspicious|- [[Session Notes/Quests/Agatha's Spellbook\|Agatha's Spellbook]]|
 |[[Bestiary/Klarg\|Klarg]]|Humanoid|Dangerous|[[Locations/Phandalin/The Goblin Hideout\|The Goblin Hideout]]||Dead|Hostile|N/A|
 |[[Bestiary/Wolves \(Freed Pack\|Wolves (Freed Pack)]])|Beast|Manageable|[[Locations/Phandalin/The Goblin Hideout\|The Goblin Hideout]]||Alive|Trusted|N/A|

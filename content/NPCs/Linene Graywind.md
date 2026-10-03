@@ -45,11 +45,13 @@ The party met her at her shop in Phandalin, where they heard of her troubles wit
 ## Known For
 
 - Giving the party their first real job in Phandalin: clearing out the goblins stealing her shipments (Session 1)
-- Getting her recovered stock back when the party stopped by after dealing with the goblins ([[Session Notes/Session 4|Session 4]])
+- Getting her recovered stock back from the party and paying them the 50 gp, shocked they had managed it ([[Session Notes/Session 5|Session 5]])
+- Warning the party about the [[Groups/Redbrands|Redbrands]], mercenaries helping the goblins who are staying at the Sleeping Giant taphouse, and mentioning they had asked her about old mines, specifically the old Phandelver mines (Session 5)
 
 ## Relationships
 
 **[[Hilda Trueshield|Hilda]]**: Friendly first contact; Hilda took to her quickly.
+**[[Player Characters/Mophlin/Mophlin Grimsbourne|Mophlin]]**: Recommended he visit the Shrine of Tymora.
 
 ## Active Quests
 

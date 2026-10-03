@@ -4,7 +4,7 @@ aliases:
   - Alvar Mistwater
   - Alvar
 created: 2026-10-01T22:05:19.079Z
-modified: 2026-10-02T15:11:35.657Z
+modified: 2026-10-03T11:04:53.845Z
 tags:
   - pc
 ---
@@ -31,11 +31,13 @@ Not yet discovered
 
 ## Background
 
-Unknown - He was first introduced while he was escorting the cart everyone was taking to [[Phandalin Overview|Phandalin]], though the friend he was meant to meet there wasn't there when we arrived.
+Born into a noble human family, his dark-grey skin and unusual heritage have long made him the subject of whispers and suspicion, with some even mistaking him for a Drow. His family has ties to Gundren Rockseeker, a dwarven merchant and trusted friend. When Gundren came to Neverwinter seeking help escorting a wagon of supplies to Phandalin, he accepted the work. The wagon was bound for Barthen’s Provisions, where ten gold pieces had been promised for its safe delivery. By the time the journey began, Gundren had already ridden ahead with the warrior Sildar Hallwinter to attend to urgent business in Phandalin. For someone of his background, ten gold pieces was of little consequence, and escorting a supply wagon was hardly the kind of work expected of a noble lord.
 
 ## Relationships
 
-Not yet discovered.
+**[[Gundren Rockseeker|Gundren]]**: His family has ties to Gundren, a dwarven merchant and trusted friend, and Gundren is the last tie Alvar has to his family. Gundren hired him to escort the wagon.
+**[[Sildar Hallwinter|Sildar]]**: Rode ahead with Gundren before the wagon set out.
+**[[Elmina]]**: Owner of Barthen's Provisions and a friend of Gundren. She quizzed Alvar on personal details before she would talk.
 
 ## Trivia
 

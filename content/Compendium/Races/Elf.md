@@ -28,9 +28,10 @@ _Elven Lineages table: Drow (120ft Darkvision, Dancing Lights â†’ Faerie Fire â†
 
 _Auto-populates from anyone whose `race` field matches this page, including specific lineages like "Wood Elf" or "Drow."_
 
-| File                                           | Role | status |
-| ---------------------------------------------- | ---- | ------ |
-| [[Player Characters/Willow/Willow.md\|Willow]] | -   | Alive  |
+| File                                           | Role                | status |
+| ---------------------------------------------- | ------------------- | ------ |
+| [[Player Characters/Willow/Willow.md\|Willow]] | -                  | Alive  |
+| [[NPCs/Sister Garaele.md\|Sister Garaele]]     | Priestess of Tymora | Alive  |
 
 ## Notes
 

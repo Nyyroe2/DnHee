@@ -1,7 +1,13 @@
 ---
 publish: true
-created: 2026-10-01T16:54:32.799Z
-modified: 2026-10-01T18:05:18.704Z
+type: location
+location-type: point-of-interest
+name: Wave Echo Cave
+aliases: []
+poi-type: Legendary Site
+danger-level: Unknown
+related-quests:
+  - "[[Session Notes/Quests/Finding Gundren|Finding Gundren]]"
 tags:
   - location
   - location/point-of-interest
@@ -19,3 +25,5 @@ As [[Sildar Hallwinter]] told them in Session 4, [[Gundren Rockseeker|Gundren]] 
 ## Notes
 
 Known only by name and rumor so far. See [[Session Notes/Rumors/The Spider|The Spider]] for the other thread Sildar mentioned in the same conversation.
+
+In [[Session Notes/Session 5|Session 5]], [[Linene Graywind|Linene]] said the [[Groups/Redbrands|Redbrands]] had come into her shop asking for information about old mines, specifically the old Phandelver mines.

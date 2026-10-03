@@ -18,14 +18,15 @@ tags:
 | File                                                                                | Type                   | City                                                     | owner                                        |
 | ----------------------------------------------------------------------------------- | ---------------------- | -------------------------------------------------------- | -------------------------------------------- |
 | [[Locations/Phandalin/Inn - Stonehill Inn.md\|Inn - Stonehill Inn]]                 | Tavern/Inn             | [[Locations/Phandalin/Phandalin Overview.md\|Phandalin]] | -                                           |
-| [[Locations/Phandalin/Shop - Barthen's Provisions.md\|Shop - Barthen's Provisions]] | General Store          | [[Locations/Phandalin/Phandalin Overview.md\|Phandalin]] | Barthen                                      |
+| [[Locations/Phandalin/Shop - Barthen's Provisions.md\|Shop - Barthen's Provisions]] | General Store          | [[Locations/Phandalin/Phandalin Overview.md\|Phandalin]] | [[NPCs/Elmina.md\|Elmina]]                   |
 | [[Locations/Phandalin/Shop - Lionshield Coster.md\|Shop - Lionshield Coster]]       | Blacksmith/Weaponsmith | [[Locations/Phandalin/Phandalin Overview.md\|Phandalin]] | [[NPCs/Linene Graywind.md\|Linene Graywind]] |
+| [[Locations/Phandalin/Taphouse - Sleeping Giant.md\|Taphouse - Sleeping Giant]]     | Tavern                 | [[Locations/Phandalin/Phandalin Overview.md\|Phandalin]] | -                                           |
 
 ## Temples
 
-| File                                                        | deity                                              | City                                                     | clergy |
-| ----------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------ |
-| [[Locations/Phandalin/Shrine - Tymora.md\|Shrine - Tymora]] | [[Compendium/Deities.md#Tymora Lady Luck\|Tymora]] | [[Locations/Phandalin/Phandalin Overview.md\|Phandalin]] | -     |
+| File                                                        | deity                                              | City                                                     | clergy                                     |
+| ----------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------ |
+| [[Locations/Phandalin/Shrine - Tymora.md\|Shrine - Tymora]] | [[Compendium/Deities.md#Tymora Lady Luck\|Tymora]] | [[Locations/Phandalin/Phandalin Overview.md\|Phandalin]] | [[NPCs/Sister Garaele.md\|Sister Garaele]] |
 
 ## Residences
 
@@ -37,5 +38,6 @@ tags:
 
 | File                                                              | Type           | Danger    |
 | ----------------------------------------------------------------- | -------------- | --------- |
+| [[Locations/Phandalin/Tressinder Manor.md\|Tressinder Manor]]     | Manor          | Unknown   |
 | [[Locations/Phandalin/Wave Echo Cave.md\|Wave Echo Cave]]         | Legendary Site | Unknown   |
 | [[Locations/Phandalin/The Goblin Hideout.md\|The Goblin Hideout]] | lair           | dangerous |
