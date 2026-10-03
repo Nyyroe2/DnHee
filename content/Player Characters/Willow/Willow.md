@@ -4,7 +4,7 @@ aliases:
   - Willow
   - Daughter of the Woods
 created: 2026-10-01T22:05:37.564Z
-modified: 2026-10-03T12:13:08.480Z
+modified: 2026-10-03T12:19:28.399Z
 tags:
   - pc
 ---
@@ -39,7 +39,7 @@ She isn't a stranger to people. She has picked up Common and visited the nearby 
 
 Her days are for reading, crafting, gathering herbs and looking after animals. At night she patrols with her feline companions and watches for anyone who threatens the forest.
 
-The dagger is her biggest mystery. She has no idea where it came from or why it chose her, and lately it glows more often. Animals near the oldest part of the forest have started to disappear, and Willow has begun to wonder whether the forest raised her for a reason and not simply because it was home. She means to find out, and to protect the only family she's ever had while she does. Making a few friends along the way would suit her fine.
+The dagger is her biggest mystery. She has no idea where it came from or why it chose her, and lately it glows more often. Animals near the oldest part of the forest have started to disappear, and Willow has begun to wonder whether the forest raised her for a reason and not simply because it was home. She means to find out, and to protect the only family she's ever had while she does.
 
 ## NPC Relationships
 
