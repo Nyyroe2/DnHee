@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-03
-modified: 2026-10-03T11:30:18.359Z
+modified: 2026-10-03T12:13:40.373Z
 tags:
   - session
 ---
@@ -19,7 +19,7 @@ tags:
 ## Key Decisions
 
 - Alvar went back to [[Locations/Phandalin/Shop - Barthen's Provisions|Barthen's Provisions]] to press for more information about [[Gundren Rockseeker|Gundren]]
-- Took [[Sister Garaele]]'s favor: persuade the [[Compendium/Monsters Library#Banshee|banshee]] [[Bestiary/Agatha|Agatha]] to say where a spellbook is, in exchange for Garaele looking into Willow's dagger and helping Mophlin talk to his wolves
+- Took [[NPCs/Sister Garaele]]'s favor: persuade the [[Compendium/Monsters Library#Banshee|banshee]] [[Bestiary/Agatha|Agatha]] to say where a spellbook is, in exchange for Garaele looking into Willow's dagger and helping Mophlin talk to his wolves
 - Went after the [[Groups/Redbrands|Redbrands]] at the Sleeping Giant taphouse
 - Knocked out the last Redbrand instead of killing him
 - Accept the orc bartender's offer to help at [[Locations/Phandalin/Tressinder Manor|Tressinder Manor]]
@@ -28,7 +28,7 @@ tags:
 
 **[[Linene Graywind]]:** Shocked the party got her goods back. Paid them, and warned them about the Redbrands.
 **[[Elmina]]:** Owner of Barthen's Provisions, and a friend of Gundren.
-**[[Sister Garaele]]:** Half-elf priestess at the Shrine of Tymora. Works for the [[Groups/Harpers|Harpers]].
+**[[NPCs/Sister Garaele]]:** Half-elf priestess at the Shrine of Tymora. Works for the [[Groups/Harpers|Harpers]].
 **[[Bestiary/Agatha|Agatha]]:** A [[Compendium/Monsters Library#Banshee|banshee]]. Not met, only named by Garaele.
 **The Sleeping Giant's owner and its orc bartender:** Neither has given a name yet.
 
@@ -56,7 +56,7 @@ The party went to [[Locations/Phandalin/Shop - Lionshield Coster|Lionshield Cost
 
 They went on to [[Locations/Phandalin/Shop - Barthen's Provisions|Barthen's Provisions]], since Alvar wanted to double check exactly what had been in the wagon and see if the shop knew anything more. The owner, [[Elmina]], told him Gundren was her friend, so the party started questioning her, and she grew suspicious right away and shut down. Alvar followed her into her shop and pleaded with her to tell them what she knew, because Gundren is the last tie he has to his family. She quizzed him on personal details and asked where Gundren's birthmark is. She then said that wherever the Redbrands are, they would probably find Gundren, and the party decided to leave.
 
-At the [[Locations/Phandalin/Shrine - Tymora|Shrine of Tymora]] they met [[Sister Garaele]], a young half-elf woman in priestess robes with weathered eyes. Hilda and Willow went up to ask about Willow's dagger, though Willow was very shy. Garaele took the dagger carefully and examined it, and offered to investigate it if the party did a favor for her. She said she works for the [[Groups/Harpers|Harpers]], who have a mission that needs finishing: persuade a banshee named [[Bestiary/Agatha|Agatha]] to say where a spellbook is. The book used to belong to a powerful mage. Garaele suggested they butter Agatha up and compliment her, and gave them a valuable [[Items/Silver Comb|silver comb]] to trade for an answer, one question per gift. She said the banshee attacked her because she reminded Agatha of her old love.
+At the [[Locations/Phandalin/Shrine - Tymora|Shrine of Tymora]] they met [[NPCs/Sister Garaele]], a young half-elf woman in priestess robes with weathered eyes. Hilda and Willow went up to ask about Willow's dagger, though Willow was very shy. Garaele took the dagger carefully and examined it, and offered to investigate it if the party did a favor for her. She said she works for the [[Groups/Harpers|Harpers]], who have a mission that needs finishing: persuade a banshee named [[Bestiary/Agatha|Agatha]] to say where a spellbook is. The book used to belong to a powerful mage. Garaele suggested they butter Agatha up and compliment her, and gave them a valuable [[Items/Silver Comb|silver comb]] to trade for an answer, one question per gift. She said the banshee attacked her because she reminded Agatha of her old love.
 
 Hilda then helped Mophlin ask Garaele about talking to his wolves. Garaele said he knows more than he realizes, and that she would help him communicate with them once the banshee business was done.
 

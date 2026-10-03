@@ -1,10 +1,7 @@
 ---
 publish: true
-type: group
-aliases: []
-SelAlignment: Neutral Good
-party-standing: Friendly
-SelRelOrg: Religion
+created: 2026-10-01T14:26:19.231Z
+modified: 2026-10-03T12:00:03.122Z
 tags:
   - group/religion
 ---

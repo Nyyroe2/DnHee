@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Hilda
 created: 2026-10-01T22:05:27.803Z
-modified: 2026-10-02T15:18:23.659Z
+modified: 2026-10-03T11:57:22.931Z
 tags:
   - pc
 ---
@@ -25,6 +25,8 @@ Background: [[Compendium/Character Origins#Acolyte|Acolyte]]
 ## Appearance
 
 Hilda stands a stout 4'2" with long grey hair in two thick braids that fall past her shoulders, a style she's worn longer than most people have been alive. She has warm brown eyes and a lined face, and her light skin is spotted with age. She's usually in dress armor stamped with Lathander's rising sun, with a lighter, more travel-worn set for the road.
+
+She wears her holy symbol at her neck, a circular golden pendant hung from a golden chain bearing Lathander's symbol with a shining ruby in the center. It has some scuffs from age here and there, but is visibly well taken care of and polished.
 
 ## Personality & Demeanor
 

@@ -1,8 +1,7 @@
 ---
 publish: true
-type: group
-SelAlignment: Lawful Neutral
-party-standing: Friendly
+created: 2026-10-01T14:26:34.983Z
+modified: 2026-10-03T11:59:52.662Z
 tags:
   - group/government
 ---
